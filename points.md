@@ -11,6 +11,6 @@ Tranlated in Chinese:
 
 
 
-| Developer (Nick)Names | GitHub ID            | Wandering Points | Extra Info |
+| Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
 | wuwei | lazyparser | 0 | manager of wandering project |
