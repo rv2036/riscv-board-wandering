@@ -14,5 +14,5 @@ Tranlated in Chinese:
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
 | wuwei | lazyparser | 0 | manager of wandering project |
+| Xeonacid | Xeonacid | 0 | |
 | pz | forceofsystem | 0 |  |
-
