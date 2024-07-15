@@ -18,3 +18,4 @@ Tranlated in Chinese:
 | pz | forceofsystem | 0 |  |
 | ezra | 255doesnotexist | 0 |  |
 | feifei | FeiFei0827 | 0 |  |
+| Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
