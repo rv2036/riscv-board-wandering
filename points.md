@@ -14,3 +14,4 @@ Tranlated in Chinese:
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
 | wuwei | lazyparser | 0 | manager of wandering project |
+| ezra | 255doesnotexist | 0 |  |
