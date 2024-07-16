@@ -19,3 +19,4 @@ Tranlated in Chinese:
 | ezra | 255doesnotexist | 0 |  |
 | feifei | FeiFei0827 | 0 |  |
 | Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
+| Ciroha | Ciroha | 0 | |
