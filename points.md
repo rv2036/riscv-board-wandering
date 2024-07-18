@@ -20,3 +20,4 @@ Tranlated in Chinese:
 | feifei | FeiFei0827 | 0 |  |
 | Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
 | Ciroha | Ciroha | 0 | |
+| taozuhong | taozuhong | 0 | |
