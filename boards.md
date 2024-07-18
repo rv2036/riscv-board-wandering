@@ -9,7 +9,7 @@ Tranlated in Chinese:
 - 这里列出了RISC-V开发板随缘漂流项目中漂流的开发板总量和可获取状态。开发者可以从这里查询到各种开发板。
 - 每个开发板有一个点数，申请获取成功之后会从开发站账号扣除对应的点数。捐赠者会获得对应的点数。
 
-
+甲辰计划RISC-V开发板随缘漂流计划的表格设计好了第一版，[请想要捐赠或认领开发板的伙伴填写](https://www.wenjuan.com/s/UZBZJvWx2p/)。请在填写前确保自己在 points.md 中提交了自己的昵称和 GitHub ID。
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
