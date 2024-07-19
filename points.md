@@ -23,4 +23,4 @@ Tranlated in Chinese:
 | taozuhong | taozuhong | 0 | |
 | 算能 | sophgo | 0 | 开发板赞助厂商 |
 | 矽速科技 | sipeed | 800 | 开发板赞助厂商 |
-| 群芯闪耀 | milk-v | 0 | 开发板赞助厂商 |
+| 群芯闪耀 | milk-v | 3000 | 开发板赞助厂商 |
