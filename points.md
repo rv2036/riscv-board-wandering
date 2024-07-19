@@ -11,16 +11,17 @@ Tranlated in Chinese:
 
 甲辰计划RISC-V开发板随缘漂流计划的表格设计好了第一版，[请想要捐赠或认领开发板的伙伴填写](https://www.wenjuan.com/s/UZBZJvWx2p/)。请在填写前确保自己在 points.md 中提交了自己的昵称和 GitHub ID。
 
-| Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
-| :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 0 | manager of wandering project |
-| Xeonacid | Xeonacid | 0 | |
-| pz | forceofsystem | 0 |  |
-| ezra | 255doesnotexist | 0 |  |
-| feifei | FeiFei0827 | 0 |  |
-| Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
-| Ciroha | Ciroha | 0 | |
-| taozuhong | taozuhong | 0 | |
-| 算能 | sophgo | 0 | 开发板赞助厂商 |
-| 矽速科技 | sipeed | 800 | 开发板赞助厂商 |
-| 群芯闪耀 | milk-v | 5280 | 开发板赞助厂商 |
+| Developer (Nick)Name | GitHub ID        | Wandering Points | Extra Info                               |
+| :------------------- | :--------------- | ---------------: | :--------------------------------------- |
+| wuwei                | lazyparser       |                0 | manager of wandering project             |
+| Xeonacid             | Xeonacid         |                0 |                                          |
+| pz                   | forceofsystem    |                0 |                                          |
+| ezra                 | 255doesnotexist  |                0 |                                          |
+| feifei               | FeiFei0827       |                0 |                                          |
+| Chrithon(Chris Ying) | Chrithon         |                0 | manager of RISCVerse(Minetest/Minecraft) |
+| Ciroha               | Ciroha           |                0 |                                          |
+| taozuhong            | taozuhong        |                0 |                                          |
+| 算能                   | sophgo           |                0 | 开发板赞助厂商                                  |
+| 矽速科技                 | sipeed           |              800 | 开发板赞助厂商                                  |
+| 群芯闪耀                 | milk-v           |             5280 | 开发板赞助厂商                                  |
+| Sebastian            | Sebastianhayashi |                0 |                                          |
