@@ -24,3 +24,4 @@ Tranlated in Chinese:
 | 算能 | sophgo | 0 | 开发板赞助厂商 |
 | 矽速科技 | sipeed | 800 | 开发板赞助厂商 |
 | 群芯闪耀 | milk-v | 5280 | 开发板赞助厂商 |
+| licheng | shiptux | 0 | Principle Mentor of J128 deepin |
