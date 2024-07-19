@@ -21,3 +21,6 @@ Tranlated in Chinese:
 | Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
 | Ciroha | Ciroha | 0 | |
 | taozuhong | taozuhong | 0 | |
+| 算能 | sophgo | 0 | 开发板赞助厂商 |
+| 矽速科技 | sipeed | 0 | 开发板赞助厂商 |
+| 群芯闪耀 | milk-v | 0 | 开发板赞助厂商 |
