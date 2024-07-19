@@ -29,3 +29,4 @@ Tranlated in Chinese:
 | U2 | U2FsdGVkX1 | 0 | |
 | sunmin | sunmin89 | 0 | |
 | Guoguo | imguoguo | 0 | |
+| Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
