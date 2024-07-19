@@ -27,3 +27,4 @@ Tranlated in Chinese:
 | 章翔 | axiangyushanhaijing | 0 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
+| sunmin | sunmin89 | 0 | |
