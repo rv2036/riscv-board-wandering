@@ -28,3 +28,4 @@ Tranlated in Chinese:
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
 | sunmin | sunmin89 | 0 | |
+| Guoguo | imguoguo | 0 | |
