@@ -24,4 +24,5 @@ Tranlated in Chinese:
 | 算能 | sophgo | 0 | 开发板赞助厂商 |
 | 矽速科技 | sipeed | 800 | 开发板赞助厂商 |
 | 群芯闪耀 | milk-v | 5280 | 开发板赞助厂商 |
+| 章翔 | axiangyushanhaijing | 0 | [RISC-V]文档工程主理人 |
 | sunmin | sunmin89 | 0 | |
