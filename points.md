@@ -31,3 +31,4 @@ Tranlated in Chinese:
 | Guoguo | imguoguo | 0 | |
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
+| Li Zhi | LizzyLoong | 0 | RISC-V developer |
