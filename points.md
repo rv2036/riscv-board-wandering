@@ -15,7 +15,7 @@ Tranlated in Chinese:
 | :-------------------- | :------------------- | ---------------: | :--------- |
 | wuwei | lazyparser | 0 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
-| pz | forceofsystem | 0 |  |
+| pz | zhixiao-zhang | 0 |  |
 | ezra | 255doesnotexist | 0 |  |
 | feifei | FeiFei0827 | 0 |  |
 | Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
@@ -30,4 +30,6 @@ Tranlated in Chinese:
 | sunmin | sunmin89 | 0 | |
 | Guoguo | imguoguo | 0 | |
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
+| Ahei | aahei | 0 |  |
+| Li Zhi | LizzyLoong | 0 | RISC-V developer |
 | Sebastianhayashi | Sebastianhayashi | 0 | |
