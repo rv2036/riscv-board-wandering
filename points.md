@@ -33,3 +33,5 @@ Tranlated in Chinese:
 | Ahei | aahei | 0 |  |
 | Li Zhi | LizzyLoong | 0 | RISC-V developer |
 | Sebastianhayashi | Sebastianhayashi | 0 | |
+| 燕十三 | flyingcys | 0 | |
+
