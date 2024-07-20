@@ -30,3 +30,4 @@ Tranlated in Chinese:
 | sunmin | sunmin89 | 0 | |
 | Guoguo | imguoguo | 0 | |
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
+| Sebastianhayashi | Sebastianhayashi | 0 | |
