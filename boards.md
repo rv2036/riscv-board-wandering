@@ -15,3 +15,5 @@ Tranlated in Chinese:
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 | Milk-V Jupiter        | 16GB Memory | 0 | 3 | New boards donated by Milk-V |
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 0 |  |
+| LicheePi 4A           | 8GB Memory + 8GB eMMC | 0 | 1 | early version |
+| Milk-V Duo 256        | 256M Memory | 0 | 0 | SG2000 SoC |
