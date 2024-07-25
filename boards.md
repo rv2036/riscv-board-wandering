@@ -17,3 +17,5 @@ Tranlated in Chinese:
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 0 |  |
 | LicheePi 4A           | 8GB Memory + 8GB eMMC | 0 | 1 | early version |
 | Milk-V Duo 256        | 256M Memory | 0 | 0 | SG2000 SoC |
+| ESP32-C3-DevKitM-1    | CPU: ESP32-C3; 内存: 400 KB SRAM           | 1             | 1     |            |
+| Sipeed-M1S dock       | CPU: BL808; 内存: 64MByte; Flash: 16MByte  | 1 | 1 | |
