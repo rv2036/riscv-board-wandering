@@ -1,6 +1,8 @@
 开发板申请表单记录
 ================
 
+Tracking Dashboard for RISC-V Board Applications.
+
 | SN | Donation | Application | Boards Description | Progress | Extra Notes |
 | -- | -------: | ----------: | ------------------ | -------- | ----------- |
 | 1 |  | 1 | TH1520 | Delivered | [commit 41841e](https://github.com/rv2036/riscv-board-wandering/commit/41841e19fe677c06a79e6414521a59a5569aa524) |
