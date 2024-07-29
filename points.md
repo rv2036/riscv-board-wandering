@@ -13,9 +13,9 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 540 | manager of wandering project |
+| wuwei | lazyparser | 1340 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
-| pz | zhixiao-zhang | 0 |  |
+| pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
 | feifei | FeiFei0827 | 0 |  |
 | Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
