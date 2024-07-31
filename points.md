@@ -34,6 +34,6 @@ Tranlated in Chinese:
 | Li Zhi | LizzyLoong | -800 | RISC-V developer |
 | Sebastianhayashi | Sebastianhayashi | 0 | |
 | 燕十三 | flyingcys | 260 | |
-| 泽文| zevorn | 0 | |
+| 泽文| zevorn | 40 | |
 | Wei| wo1ow | 0 | |
 | xieby1 | xieby1 | 0 | |

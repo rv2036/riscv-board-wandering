@@ -10,5 +10,5 @@ Tracking Dashboard for RISC-V Board Applications.
 | 3 |  | 1 | LicheePi 4A w/ Power adapter | Waiting. No board. No Power adapter |  |
 | 4 | 1 |  | see commit 2099709527 | Received (Nanjing dockbase) | [commit 209970](https://github.com/rv2036/riscv-board-wandering/commit/2099709527ad055ecd13612782b0c6af4feb6dbe) |
 | 5 |  | 1 | Milk-V Jupiter (M1 16GB) | Waiting. No board |  |
-| 6 | 1 |  | MC3172最小系统板（MCU） | Preparing |  |
+| 6 | 1 |  | MC3172最小系统板（MCU） | Received (Nanjing dockbase) |  |
 | 7 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. No board |  |
