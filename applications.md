@@ -12,3 +12,5 @@ Tracking Dashboard for RISC-V Board Applications.
 | 5 |  | 1 | Milk-V Jupiter (M1 16GB) | Waiting. No board |  |
 | 6 | 1 |  | MC3172最小系统板（MCU） | Received (Nanjing dockbase) |  |
 | 7 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. No board |  |
+| 8 |  | 1 | SiFive Freedom U740 SoC | Waiting. No board | |
+
