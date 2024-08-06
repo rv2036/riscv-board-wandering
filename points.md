@@ -38,4 +38,4 @@ Tranlated in Chinese:
 | Wei| wo1ow | 0 | |
 | xieby1 | xieby1 | 0 | |
 | Revy | revysr | 0 | |
-| Felix Yan | felixonmars | 0 | |
+| Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
