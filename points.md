@@ -13,7 +13,7 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 1340 | manager of wandering project |
+| wuwei | lazyparser | 3840 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -22,7 +22,7 @@ Tranlated in Chinese:
 | Ciroha | Ciroha | 0 | |
 | taozuhong | taozuhong | 0 | |
 | 算能 | sophgo | 0 | 开发板赞助厂商 |
-| 矽速科技 | sipeed | 800 | 开发板赞助厂商 |
+| 矽速科技 | sipeed | 20800 | 开发板赞助厂商 |
 | 群芯闪耀 | milk-v | 6660 | 开发板赞助厂商 |
 | 章翔 | axiangyushanhaijing | 0 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
@@ -32,10 +32,11 @@ Tranlated in Chinese:
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
 | Li Zhi | LizzyLoong | -800 | RISC-V developer |
-| Sebastianhayashi | Sebastianhayashi | 0 | |
+| Sebastianhayashi | Sebastianhayashi | -1250 | |
 | 燕十三 | flyingcys | 260 | |
 | 泽文| zevorn | 40 | |
 | Wei| wo1ow | 0 | |
-| xieby1 | xieby1 | 0 | |
+| xieby1 | xieby1 | -1250 | |
 | Revy | revysr | 0 | |
+| Icenowy Zheng | Icenowy | 0 | |
 | Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
