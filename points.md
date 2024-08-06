@@ -13,7 +13,7 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 1340 | manager of wandering project |
+| wuwei | lazyparser | 3840 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -32,10 +32,10 @@ Tranlated in Chinese:
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
 | Li Zhi | LizzyLoong | -800 | RISC-V developer |
-| Sebastianhayashi | Sebastianhayashi | 0 | |
+| Sebastianhayashi | Sebastianhayashi | -1250 | |
 | 燕十三 | flyingcys | 260 | |
 | 泽文| zevorn | 40 | |
 | Wei| wo1ow | 0 | |
-| xieby1 | xieby1 | 0 | |
+| xieby1 | xieby1 | -1250 | |
 | Revy | revysr | 0 | |
 
