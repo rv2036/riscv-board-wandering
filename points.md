@@ -38,4 +38,5 @@ Tranlated in Chinese:
 | Wei| wo1ow | 0 | |
 | xieby1 | xieby1 | 0 | |
 | Revy | revysr | 0 | |
+| Icenowy Zheng | Icenowy | 0 | |
 
