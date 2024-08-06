@@ -21,9 +21,9 @@ Tranlated in Chinese:
 | Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
 | Ciroha | Ciroha | 0 | |
 | taozuhong | taozuhong | 0 | |
-| 算能 | sophgo | 0 | 开发板赞助厂商 |
-| 矽速科技 | sipeed | 20800 | 开发板赞助厂商 |
-| 群芯闪耀 | milk-v | 6660 | 开发板赞助厂商 |
+| 算能 (Sophgo) | sophgo | 0 | 开发板赞助厂商 |
+| 矽速科技 (Sipeed) | sipeed | 20800 | 开发板赞助厂商 |
+| 群芯闪耀 (Milk-V) | milk-v | 6660 | 开发板赞助厂商 |
 | 章翔 | axiangyushanhaijing | 0 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
