@@ -37,3 +37,5 @@ Tranlated in Chinese:
 | 泽文| zevorn | 40 | |
 | Wei| wo1ow | 0 | |
 | xieby1 | xieby1 | 0 | |
+| Revy | revysr | 0 | |
+
