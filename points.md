@@ -13,7 +13,7 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 3840 | manager of wandering project |
+| wuwei | lazyparser | 5090 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -24,7 +24,7 @@ Tranlated in Chinese:
 | 算能 (Sophgo) | sophgo | 0 | 开发板赞助厂商 |
 | 矽速科技 (Sipeed) | sipeed | 20800 | 开发板赞助厂商 |
 | 群芯闪耀 (Milk-V) | milk-v | 6660 | 开发板赞助厂商 |
-| 章翔 | axiangyushanhaijing | 0 | [RISC-V]文档工程主理人 |
+| 章翔 | axiangyushanhaijing | -1250 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
 | sunmin | sunmin89 | 0 | |
@@ -40,4 +40,5 @@ Tranlated in Chinese:
 | Revy | revysr | 0 | |
 | Icenowy Zheng | Icenowy | 0 | |
 | Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
+| Puqns67 | Puqns67 | 0 | |
 | Luc Ma | lucmann | 0 | |
