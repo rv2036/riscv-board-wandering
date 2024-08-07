@@ -42,3 +42,4 @@ Tranlated in Chinese:
 | Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
 | Puqns67 | Puqns67 | 0 | |
 | Luc Ma | lucmann | 0 | |
+| CSC | Z8MAN8 | 0 |  |
