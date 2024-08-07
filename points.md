@@ -40,3 +40,4 @@ Tranlated in Chinese:
 | Revy | revysr | 0 | |
 | Icenowy Zheng | Icenowy | 0 | |
 | Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
+| Luc Ma | lucmann | 0 | |
