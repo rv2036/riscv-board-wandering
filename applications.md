@@ -18,4 +18,5 @@ Tracking Dashboard for RISC-V Board Applications.
 | 11 |  | 1 | "Milk-V Jupiter	16GB Memory"  | Waiting. No board. | |
 | 12 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
 | 13 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
-
+| 14 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Waiting | 手头有 vf2 用于置换漂流 |
+| 15 |  | 1 | LicheePi 4A  | Waiting | |
