@@ -44,4 +44,4 @@ Tranlated in Chinese:
 | Luc Ma | lucmann | 0 | |
 | CSC | Z8MAN8 | -1250 |  |
 | liqi | LiQi19970428 | 0 |  |
-| lizaifang | lizaifang | 0 |  |
+| Ian Li | lizaifang | 0 |  |
