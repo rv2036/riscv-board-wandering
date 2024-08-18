@@ -11,12 +11,30 @@ Tranlated in Chinese:
 
 甲辰计划RISC-V开发板随缘漂流计划的表格设计好了第一版，[请想要捐赠或认领开发板的伙伴填写](https://www.wenjuan.com/s/UZBZJvWx2p/)。请在填写前确保自己在 points.md 中提交了自己的昵称和 GitHub ID。
 
+
+## 南京漂流基地（英麒智能）
+
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| Milk-V Jupiter        | 16GB Memory | 0 | 3 | New boards donated by Milk-V |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 0 |  |
-| LicheePi 4A           | 8GB Memory + 8GB eMMC | 0 | 1 | early version |
-| Milk-V Duo 256        | 256M Memory | 0 | 0 | SG2000 SoC |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 6 | 8 |  |
 | ESP32-C3-DevKitM-1    | CPU: ESP32-C3; 内存: 400 KB SRAM           | 1             | 1     |            |
 | Sipeed-M1S dock       | CPU: BL808; 内存: 64MByte; Flash: 16MByte  | 1 | 1 | |
 | "MC3172最小系统板（MCU）| RV32IMC， 64路硬件线程， 主频最高200MHz，128KB SRAM | 1 | 1 | http://www.gxchip.cn/products/show-100.html |
+
+## 深圳漂流基地（群芯闪耀）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+| Milk-V Jupiter        | 16GB Memory | 0 | 0 | New boards donated by Milk-V |
+| Milk-V Duo 256        | 256M Memory | 0 | 0 | SG2002 SoC |
+
+## 上海漂流基地（苦芽科技）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+
+
+## 广州漂流基地（PLCT南沙分部）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
