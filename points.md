@@ -49,3 +49,4 @@ Tranlated in Chinese:
 | ZhuowenLi | pinkpigy | 0 | |
 | SeasonMay | SeasonMay | 0 | |
 | Milkice | milkice233 | 0 | |
+| zt | ztjjj9 | 0 | RISC-V enthusiast |
