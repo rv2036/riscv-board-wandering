@@ -50,3 +50,4 @@ Tranlated in Chinese:
 | SeasonMay | SeasonMay | 0 | |
 | Milkice | milkice233 | 0 | |
 | zt | ztjjj9 | 0 | RISC-V enthusiast |
+| drenal | hehenihaoQWQ | 0 | RISC-V enthusiast |
