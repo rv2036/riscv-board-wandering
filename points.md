@@ -52,3 +52,4 @@ Tranlated in Chinese:
 | zt | ztjjj9 | 0 | RISC-V enthusiast |
 | pcerror | MrChenLearnSpace | 0 | student |
 | zbc | shuaidemeikan | 0 | RISC-V enthusiast |
+| drenal | hehenihaoQWQ | 0 | RISC-V enthusiast |
