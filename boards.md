@@ -16,7 +16,7 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 5 | 8 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 4 | 8 |  |
 | ESP32-C3-DevKitM-1    | CPU: ESP32-C3; 内存: 400 KB SRAM           | 1             | 1     |            |
 | Sipeed-M1S dock       | CPU: BL808; 内存: 64MByte; Flash: 16MByte  | 1 | 1 | |
 | "MC3172最小系统板（MCU）| RV32IMC， 64路硬件线程， 主频最高200MHz，128KB SRAM | 1 | 1 | http://www.gxchip.cn/products/show-100.html |

@@ -49,7 +49,7 @@ Tranlated in Chinese:
 | ZhuowenLi | pinkpigy | 0 | |
 | SeasonMay | SeasonMay | 0 | |
 | Milkice | milkice233 | -1250 | |
-| zt | ztjjj9 | 0 | RISC-V enthusiast |
+| zt | ztjjj9 | -1250 | RISC-V enthusiast |
 | pcerror | MrChenLearnSpace | 0 | student |
 | zbc | shuaidemeikan | 0 | RISC-V enthusiast |
 | drenal | hehenihaoQWQ | 0 | RISC-V enthusiast |
