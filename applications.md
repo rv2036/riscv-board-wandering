@@ -27,4 +27,4 @@ Tracking Dashboard for RISC-V Board Applications.
 | 20 | 1 |  | "3 MilkV Mars-CM (4G/8G) / 1 MilkV Mars (4G) / 1 Licheepi Console / 1 Visionfive / 2 Visionfive2 (坏了，但是应该SoC还是好的）"  | Waiting | |
 | 21 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Waiting. | SeasonMay |
 | 22 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Waiting. | ztjjj9 |
-| 23 |  | 1 | LicheePi 4A  | Waiting. | milkice233 |
+| 23 |  | 1 | LicheePi 4A  | Delivered. | milkice233 |

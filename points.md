@@ -48,7 +48,7 @@ Tranlated in Chinese:
 | Emin.lin | Eminlin | 0 |  |
 | ZhuowenLi | pinkpigy | 0 | |
 | SeasonMay | SeasonMay | 0 | |
-| Milkice | milkice233 | 0 | |
+| Milkice | milkice233 | -1250 | |
 | zt | ztjjj9 | 0 | RISC-V enthusiast |
 | pcerror | MrChenLearnSpace | 0 | student |
 | zbc | shuaidemeikan | 0 | RISC-V enthusiast |
