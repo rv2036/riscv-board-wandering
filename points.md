@@ -53,3 +53,4 @@ Tranlated in Chinese:
 | pcerror | MrChenLearnSpace | 0 | student |
 | zbc | shuaidemeikan | 0 | RISC-V enthusiast |
 | drenal | hehenihaoQWQ | 0 | RISC-V enthusiast |
+| xvyv99 | xvyv99 | 0 | |
