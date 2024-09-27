@@ -16,6 +16,7 @@ Tranlated in Chinese:
 | 算能 (Sophgo) | sophgo | 2640 | 开发板赞助厂商 |
 | 矽速科技 (Sipeed) | sipeed | 20800 | 开发板赞助厂商 |
 | 群芯闪耀 (Milk-V) | milk-v | 6660 | 开发板赞助厂商 |
+| 进迭时空 | SpacemiT | 2498 | 开发板赞助厂商 |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
