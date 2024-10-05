@@ -60,3 +60,4 @@ Tranlated in Chinese:
 | drenal | hehenihaoQWQ | 0 | RISC-V enthusiast |
 | xvyv99 | xvyv99 | 0 | |
 | wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
+| yzgl | Yzgll | 0 | student & RISC-V enthusiast |
