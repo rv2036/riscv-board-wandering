@@ -61,4 +61,5 @@ Tranlated in Chinese:
 | xvyv99 | xvyv99 | 0 | |
 | wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
 | yzgl | Yzgll | 0 | student & RISC-V enthusiast |
+| Sherlockzhangjinge | Sherlockzhangjinge | 0 | student & RISC-V enthusiast |
 | calacaly | calacaly | 0 | student |
