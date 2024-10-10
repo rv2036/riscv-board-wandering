@@ -62,3 +62,4 @@ Tranlated in Chinese:
 | wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
 | yzgl | Yzgll | 0 | student & RISC-V enthusiast |
 | Sherlockzhangjinge | Sherlockzhangjinge | 0 | student & RISC-V enthusiast |
+| calacaly | calacaly | 0 | student |
