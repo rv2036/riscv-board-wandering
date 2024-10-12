@@ -28,3 +28,15 @@ Tracking Dashboard for RISC-V Board Applications.
 | 21 | SeasonMay|  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Waiting. | SeasonMay |
 | 22 | ztjjj9 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered. | ztjjj9 |
 | 23 | mikice233 |  | 1 | LicheePi 4A  | Delivered. | milkice233 |
+| 24 | MrChenLearnSpace |  | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC" | Waiting. | N/A |
+| 25 | shuaidemeikan |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
+| 26 | hehenihaoQWQ |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
+| 27 | 橙味芬达 |  | 1 | Duo S基础版 | Waiting. | N/A |
+| 28 | wdwdhyk |  | 1 | duo256m | Waiting. | N/A |
+| 29 | DouPiChen |  | 1 | MilkV  Duo S；可选板载 WI-FI6/BT5、eMMC、支持PoE | Waiting. | N/A |
+| 30 | xvyv99 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
+| 31 | wwwuxy |  | 1 | Unmatched | Waiting. | N/A |
+| 32 | Yzgll |  | 1 | LicheePi 4A | Waiting. | N/A |
+| 33 | Sherlockzhangjinge |  | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC" | Waiting. | N/A |
+| 34 | calacaly |  | 1 | 适合 RISC-V 入门的板子即可 | Waiting. | N/A |
+| 35 | wwwuxy |  | 1 | Unmatched | Waiting. | N/A |
