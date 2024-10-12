@@ -14,7 +14,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0007 | xieby1 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered |  |
 | 0008 | wo1ow |  | 1 | SiFive Freedom U740 SoC | Waiting. No board | |
 | 0009 | sebastianhayashi |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
-| 0010 | axiangyushianhaijing |  | | LicheePi 4A 16GB   | Duplicate. | see `SN0012` |
+| 0010 | axiangyushanhaijing |  | | LicheePi 4A 16GB   | Duplicate. | see `SN0012` |
 | 0011 | revysr |  | 1 | "Milk-V Jupiter	16GB Memory"  | Waiting. No board. | |
 | 0012 | axiangyushanhaijing |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
 | 0013 | Z8MAN8 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
