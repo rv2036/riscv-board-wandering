@@ -14,7 +14,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0007 | xieby1 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered |  |
 | 0008 | wo1ow |  | 1 | SiFive Freedom U740 SoC | Waiting. No board | |
 | 0009 | sebastianhayashi |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
-| 0010 | axiangyushianhaijing |  | 1 | LicheePi 4A 16GB   | Duplicate. see `SN00012` | |
+| 0010 | axiangyushianhaijing |  | | LicheePi 4A 16GB   | Duplicate. | see `SN0012` |
 | 0011 | revysr |  | 1 | "Milk-V Jupiter	16GB Memory"  | Waiting. No board. | |
 | 0012 | axiangyushanhaijing |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
 | 0013 | Z8MAN8 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
@@ -35,7 +35,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0028 | wdwdhyk |  | 1 | duo256m | Waiting. | N/A |
 | 0029 | DouPiChen |  | 1 | MilkV  Duo S；可选板载 WI-FI6/BT5、eMMC、支持PoE | Waiting. | N/A |
 | 0030 | xvyv99 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
-| 0031 | wwwuxy |  | 1 | Unmatched | Waiting. | N/A |
+| 0031 | wwwuxy |  | | Unmatched | Duplicate. | `SN0035` |
 | 0032 | Yzgll |  | 1 | LicheePi 4A | Waiting. | N/A |
 | 0033 | Sherlockzhangjinge |  | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC" | Waiting. | N/A |
 | 0034 | calacaly |  | 1 | 适合 RISC-V 入门的板子即可 | Waiting. | N/A |
