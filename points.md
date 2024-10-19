@@ -18,6 +18,7 @@ Tranlated in Chinese:
 | 群芯闪耀 (Milk-V) | milk-v | 6660 | 开发板赞助厂商 |
 | 进迭时空 | SpacemiT | 2498 | 开发板赞助厂商 |
 | SiFive | SiFive | 24500 | 开发板赞助厂商 |
+| RISC-V国际基金会 | RISC-V International | 3596 | RVI DevBoards Program |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
