@@ -65,3 +65,4 @@ Tranlated in Chinese:
 | Sherlockzhangjinge | Sherlockzhangjinge | 0 | student & RISC-V enthusiast |
 | calacaly | calacaly | 0 | student |
 | 蒙卓 | mengzhuo | 4675 | Developer of PLCT and Go port owner |
+| yunxiang | YunxiangLuo | 0 | |
