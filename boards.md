@@ -39,6 +39,10 @@ Tranlated in Chinese:
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 
+## 杭州漂流基地（苦芽科技）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 
 ## 广州漂流基地（PLCT南沙分部）
 
