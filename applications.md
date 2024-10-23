@@ -20,7 +20,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0013 | Z8MAN8 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered | |
 | 0014 | puqns67 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Waiting | 手头有 vf2 用于置换漂流 |
 | 0015 | lucmann |  | 1 | LicheePi 4A  | Waiting | |
-| 0016 | imguoguo |  | 1 | LicheePi 4A 16+128  | Waiting | |
+| 0016 | imguoguo |  | 1 | LicheePi 4A 16+128  | Cancelled | |
 | 0017 | liqi |  | 1 | "LicheePi 4A	16GB Memory + 128GB eMMC"  | Waiting | |
 | 0018 | lizaifang | |  | - | Duplicate. | `SN0019` |
 | 0019 | lizaifang | 1 |  | BananaPi BPI-F3， 4G RAM，16G eMMC  | Waiting | |
