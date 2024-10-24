@@ -25,6 +25,9 @@ Tranlated in Chinese:
 | Sipeed LicheePi Console | - | 1 | 1 | |
 | StarFive Visionfive  | - | 1 | 1 | |
 | StarFive Visionfive2 (坏了，但是应该SoC还是好的）| - | 0 | 2 | |
+| 树莓派3B | 增强版，带外壳和散热 | 3 | 3 | arm64 |
+| 泰晓RISC-V实验箱 | - | 3 | 3 | 内含 Milk-V Duo 及各类周边配件 |
+| Milk-V Duo S | Sophgo SG2000 SoC | 3 | 3 | |
 | END_OF_TABLE | - | 1 | 1 | |
 
 ## 深圳漂流基地（群芯闪耀）

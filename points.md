@@ -19,6 +19,7 @@ Tranlated in Chinese:
 | 进迭时空 | SpacemiT | 2498 | 开发板赞助厂商 |
 | SiFive | SiFive | 24500 | 开发板赞助厂商 |
 | RISC-V国际基金会 | RISC-V International | 3596 | RVI DevBoards Program |
+| 秦派软件 | qinware | 2916 | 生产力工具软件提供商 |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
