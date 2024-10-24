@@ -21,7 +21,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0014 | puqns67 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Waiting | 手头有 vf2 用于置换漂流 |
 | 0015 | lucmann |  | 1 | LicheePi 4A  | Waiting | |
 | 0016 | imguoguo |  | 1 | LicheePi 4A 16+128  | Cancelled | |
-| 0017 | liqi |  | 1 | "LicheePi 4A	16GB Memory + 128GB eMMC"  | Waiting | |
+| 0017 | liqi |  | 1 | "LicheePi 4A	16GB Memory + 128GB eMMC"  | Cancelled | |
 | 0018 | lizaifang | |  | - | Duplicate. | `SN0019` |
 | 0019 | lizaifang | 1 |  | BananaPi BPI-F3， 4G RAM，16G eMMC  | Waiting | |
 | 0020 | mengzhuo | 1 |  | "3 MilkV Mars-CM (4G/8G) / 1 MilkV Mars (4G) / 1 Licheepi Console / 1 Visionfive / 2 Visionfive2 (坏了，但是应该SoC还是好的）"  | Received (Nanjing dockbase) | |
