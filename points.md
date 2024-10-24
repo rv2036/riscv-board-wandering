@@ -28,7 +28,7 @@ Tranlated in Chinese:
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
 | feifei | FeiFei0827 | 0 |  |
-| Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse(Minetest/Minecraft) |
+| Chrithon(Chris Ying) | Chrithon | 0 | manager of RISCVerse |
 | Ciroha | Ciroha | 0 | |
 | taozuhong | taozuhong | 0 | |
 | 章翔 | axiangyushanhaijing | -1250 | [RISC-V]文档工程主理人 |
