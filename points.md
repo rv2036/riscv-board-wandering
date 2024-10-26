@@ -47,7 +47,7 @@ Tranlated in Chinese:
 | Revy | revysr | 0 | |
 | Icenowy Zheng | Icenowy | 0 | |
 | Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
-| Puqns67 | Puqns67 | 0 | |
+| Puqns67 | Puqns67 | -1250 | |
 | Luc Ma | lucmann | 0 | |
 | CSC | Z8MAN8 | -1250 |  |
 | liqi | LiQi19970428 | 0 |  |
