@@ -46,6 +46,9 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 3 | 3 |  |
+| Milk-V Duo S | Sophgo SG2000 SoC | 5 | 5 | |
+| Milk-V Duo | Sophgo CV180B SoC | 3 | 3 | |
 
 ## 广州漂流基地（PLCT南沙分部）
 
