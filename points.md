@@ -48,7 +48,7 @@ Tranlated in Chinese:
 | Icenowy Zheng | Icenowy | 0 | |
 | Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
 | Puqns67 | Puqns67 | -1250 | |
-| Luc Ma | lucmann | 0 | |
+| Luc Ma | lucmann | -1250 | |
 | CSC | Z8MAN8 | -1250 |  |
 | liqi | LiQi19970428 | 0 |  |
 | Ian Li | lizaifang | 0 |  |
