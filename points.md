@@ -54,7 +54,7 @@ Tranlated in Chinese:
 | Ian Li | lizaifang | 0 |  |
 | Emin.lin | Eminlin | 0 |  |
 | ZhuowenLi | pinkpigy | 0 | |
-| SeasonMay | SeasonMay | 0 | |
+| SeasonMay | SeasonMay | -1250 | |
 | Milkice | milkice233 | -1250 | |
 | zt | ztjjj9 | -1250 | RISC-V enthusiast |
 | pcerror | MrChenLearnSpace | 0 | student |
