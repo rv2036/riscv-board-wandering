@@ -51,7 +51,7 @@ Tranlated in Chinese:
 | Luc Ma | lucmann | -1250 | |
 | CSC | Z8MAN8 | -1250 |  |
 | liqi | LiQi19970428 | 0 |  |
-| Ian Li | lizaifang | 0 |  |
+| Ian Li | lizaifang | 499 |  |
 | Emin.lin | Eminlin | 0 |  |
 | ZhuowenLi | pinkpigy | 0 | |
 | SeasonMay | SeasonMay | -1250 | |

@@ -28,6 +28,7 @@ Tranlated in Chinese:
 | 树莓派3B | 增强版，带外壳和散热 | 3 | 3 | arm64 |
 | 泰晓RISC-V实验箱 | - | 3 | 3 | 内含 Milk-V Duo 及各类周边配件 |
 | Milk-V Duo S | Sophgo SG2000 SoC | 3 | 3 | |
+| BananaPi BPI-F3 | SpacemiT K1, 4G RAM, 16G eMMC | 1 | 1 | |
 | END_OF_TABLE | - | 1 | 1 | |
 
 ## 深圳漂流基地（群芯闪耀）
