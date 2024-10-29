@@ -23,7 +23,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0016 | imguoguo |  | 1 | LicheePi 4A 16+128  | Cancelled | |
 | 0017 | liqi |  | 1 | "LicheePi 4A	16GB Memory + 128GB eMMC"  | Cancelled | |
 | 0018 | lizaifang | |  | - | Duplicate. | `SN0019` |
-| 0019 | lizaifang | 1 |  | BananaPi BPI-F3， 4G RAM，16G eMMC  | Waiting | |
+| 0019 | lizaifang | 1 |  | BananaPi BPI-F3， 4G RAM，16G eMMC  | Received (Nanjing dockbase)  | |
 | 0020 | mengzhuo | 1 |  | "3 MilkV Mars-CM (4G/8G) / 1 MilkV Mars (4G) / 1 Licheepi Console / 1 Visionfive / 2 Visionfive2 (坏了，但是应该SoC还是好的）"  | Received (Nanjing dockbase) | |
 | 0021 | SeasonMay |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered. | |
 | 0022 | ztjjj9 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC  | Delivered. | ztjjj9 |
@@ -40,3 +40,6 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0033 | Sherlockzhangjinge |  | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC" | Waiting. | N/A |
 | 0034 | calacaly |  | 1 | 适合 RISC-V 入门的板子即可 | Waiting. | N/A |
 | 0035 | wwwuxy |  | 1 | Unmatched | Waiting. | N/A |
+| 0036 | YunxiangLuo |  | 1 | Milk-V Duo S 和 Duo 256M | Delivered. | 用于 Duo 系列测试和 SDK 开发 |
+| 0037 | yjmstr |  | 1 | LicheePi 4A | Waiting. | 用于 J137 Win-CE 项目测试需要 |
+| 0038 | lcean |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | RISC-V enthusiast |
