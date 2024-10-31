@@ -69,3 +69,4 @@ Tranlated in Chinese:
 | yunxiang | YunxiangLuo | -200 | |
 | yjmstr | yjmstr | -1250 | |
 | xeonds | xeonds | 0 | |
+| panglan | panglars | 0 | |
