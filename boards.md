@@ -51,6 +51,7 @@ Tranlated in Chinese:
 | Milk-V Duo S | Sophgo SG2000 SoC | 4 | 4 | |
 | Milk-V Duo | Sophgo CV180B SoC | 3 | 3 | |
 | Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 3 | |
+| SiFive Unmatched | SiFive Freedom U740 SoC | 5 | 7 | https://www.sifive.com/boards/hifive-unmatched |
 
 ## 广州漂流基地（PLCT南沙分部）
 
