@@ -7,7 +7,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | ---- | :-------- | -------: | ----------: | ------------------ | -------- | ----------- |
 | 0001 | LizzyLoong |  | 1 | TH1520 | Delivered | [commit 41841e](https://github.com/rv2036/riscv-board-wandering/commit/41841e19fe677c06a79e6414521a59a5569aa524) |
 | 0002 | zhixiaogzhang |  | 1 | TH1520 w/ wifi | Delivered | [commit 7638c6](https://github.com/rv2036/riscv-board-wandering/commit/7638c63571ca3709238e1aeecce8c12788a11dec) |
-| 0003 | feifei |  | 1 | LicheePi 4A w/ Power adapter | Waiting. Board Ready. No Power adapter |  |
+| 0003 | feifei |  | 1 | LicheePi 4A w/ Power adapter | Delivered w/o Power adapter |  |
 | 0004 | flyingcys | 1 |  | see commit 2099709527 | Received (Nanjing dockbase) | [commit 209970](https://github.com/rv2036/riscv-board-wandering/commit/2099709527ad055ecd13612782b0c6af4feb6dbe) |
 | 0005 | chrithon |  | 1 | Milk-V Jupiter (M1 16GB) | Waiting. No board |  |
 | 0006 | zevorn | 1 |  | MC3172最小系统板（MCU） | Received (Nanjing dockbase) |  |
@@ -41,5 +41,5 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0034 | calacaly |  | 1 | 适合 RISC-V 入门的板子即可 | Waiting. | N/A |
 | 0035 | wwwuxy |  | 1 | Unmatched | Waiting. | N/A |
 | 0036 | YunxiangLuo |  | 1 | Milk-V Duo S 和 Duo 256M | Delivered. | 用于 Duo 系列测试和 SDK 开发 |
-| 0037 | yjmstr |  | 1 | LicheePi 4A | Waiting. | 用于 J137 Win-CE 项目测试需要 |
+| 0037 | yjmstr |  | 1 | LicheePi 4A | Delivered. | 用于 J137 Win-CE 项目测试需要 |
 | 0038 | lcean |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | RISC-V enthusiast |
