@@ -68,3 +68,4 @@ Tranlated in Chinese:
 | 蒙卓 | mengzhuo | 4675 | Developer of PLCT and Go port owner |
 | yunxiang | YunxiangLuo | -200 | |
 | yjmstr | yjmstr | 0 | |
+| xeonds | xeonds | 0 | |
