@@ -41,5 +41,5 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0034 | calacaly |  | 1 | 适合 RISC-V 入门的板子即可 | Waiting. | N/A |
 | 0035 | wwwuxy |  | 1 | Unmatched | Waiting. | N/A |
 | 0036 | YunxiangLuo |  | 1 | Milk-V Duo S 和 Duo 256M | Delivered. | 用于 Duo 系列测试和 SDK 开发 |
-| 0037 | yjmstr |  | 1 | LicheePi 4A | Waiting. | 用于 J137 Win-CE 项目测试需要 |
+| 0037 | yjmstr |  | 1 | LicheePi 4A | Delivered. | 用于 J137 Win-CE 项目测试需要 |
 | 0038 | lcean |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | RISC-V enthusiast |
