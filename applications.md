@@ -43,3 +43,21 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0036 | YunxiangLuo |  | 1 | Milk-V Duo S 和 Duo 256M | Delivered. | 用于 Duo 系列测试和 SDK 开发 |
 | 0037 | yjmstr |  | 1 | LicheePi 4A | Delivered. | 用于 J137 Win-CE 项目测试需要 |
 | 0038 | lcean |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | RISC-V enthusiast |
+| 0039 | xeonds |  | 1 | licheepi 4A 或者只要能 run linux 的型号都可以（ | Waiting. | [details](#SN0039) |
+| 0040 | panglars |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | [details](#SN0040) |
+| 0041 | RealFYang |  | 1 | BFI-F3 (16GB RAM + 128GBеMMC) | Waiting. | [details](#SN0041) |
+
+## Extra Notes
+
+### SN0041
+
+> 用于OpenJDK RVV 1.0扩展测试目的
+
+### SN0040
+
+> 完善 ruyisdk/support-matrix
+
+### SN0039
+
+> 移植项目到RISC-V上；测评对比RISC-V和其它架构的能效比：
+> https://github.com/xeonds/iot-go
