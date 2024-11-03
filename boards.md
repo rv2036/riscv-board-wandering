@@ -52,6 +52,7 @@ Tranlated in Chinese:
 | Milk-V Duo | Sophgo CV180B SoC | 3 | 3 | |
 | Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 3 | |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 5 | 7 | https://www.sifive.com/boards/hifive-unmatched |
+| BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 1 | 4 | Donted by RVI |
 
 ## 广州漂流基地（PLCT南沙分部）
 
