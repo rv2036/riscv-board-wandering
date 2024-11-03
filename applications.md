@@ -45,7 +45,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0038 | lcean |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | RISC-V enthusiast |
 | 0039 | xeonds |  | 1 | licheepi 4A 或者只要能 run linux 的型号都可以（ | Waiting. | [details](#SN0039) |
 | 0040 | panglars |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | [details](#SN0040) |
-| 0041 | RealFYang |  | 1 | BFI-F3 (16GB RAM + 128GBеMMC) | Waiting. | [details](#SN0041) |
+| 0041 | RealFYang |  | 1 | BFI-F3 (16GB RAM + 128GBеMMC) | Delivered. | [details](#SN0041) |
 
 ## Extra Notes
 

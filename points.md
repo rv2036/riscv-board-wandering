@@ -71,4 +71,4 @@ Tranlated in Chinese:
 | xeonds | xeonds | 0 | |
 | lcean | lcean | 0 | RISC-V enthusiast |
 | panglan | panglars | 0 | |
-| Fei Yang | RealFYang | 0 | OpenJDK RISC-V Port Lead |
+| Fei Yang | RealFYang | -899 | OpenJDK RISC-V Port Lead |
