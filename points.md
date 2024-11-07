@@ -73,3 +73,4 @@ Tranlated in Chinese:
 | panglan | panglars | 0 | |
 | Fei Yang | RealFYang | -899 | OpenJDK RISC-V Port Lead |
 | zhg213 | zhgggg | 0 | |
+| xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
