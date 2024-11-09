@@ -31,6 +31,13 @@ Tranlated in Chinese:
 | BananaPi BPI-F3 | SpacemiT K1, 4G RAM, 16G eMMC | 1 | 1 | |
 | END_OF_TABLE | - | 1 | 1 | |
 
+## 北京漂流基地（北京开源芯片研究院）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+| 香山南湖开发板        | TBD | - | - | 基于香山 RISC-V 高性能 IP |
+| 香山昆明湖开发板      | TBD | - | - | 基于香山 RISC-V 高性能 IP |
+
 ## 深圳漂流基地（群芯闪耀）
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
