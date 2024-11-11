@@ -49,8 +49,15 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0042 | sunmin89 |  | 1 | k230/k230d 嘉楠 | Waiting. | 开发调试 |
 | 0043 | zhgggg |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 学习risc-v开发 |
 | 0044 | 燕十三 |  | 1 | "BPI-F3, 4G RAM, 16G eMMC" | Waiting. | [details](#SN0044) |
+| 0045 | apricity1212 | | 1 | Sipeed LicheePi Console | Waiting. | [details](#SN0045) |
+| 0046 | LizzyLoong | | 1 | 荔枝派4a16+128 | Waiting. | 实习使用 |
 
 ## Extra Notes
+
+### SN0045
+
+> 作为一个高校在读大三学生，目前正在学习操作系统课程。这门课程有个项目涉及嵌入式系统，
+> 希望有一块微型Linux开发板进行一些小型化设计，同时也会学习RISC-V的相关课程。
 
 ### SN0044
 
