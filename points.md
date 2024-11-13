@@ -75,3 +75,4 @@ Tranlated in Chinese:
 | zhg213 | zhgggg | 0 | |
 | xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
+| WwWangGuan | WwWangGuan | 0 |  |
