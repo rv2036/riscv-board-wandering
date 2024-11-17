@@ -76,3 +76,4 @@ Tranlated in Chinese:
 | xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | 0 |  |
+| Patrick.Qian | Gekyume777 | 0 | student
