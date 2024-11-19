@@ -45,6 +45,11 @@ Tranlated in Chinese:
 | Milk-V Jupiter        | 16GB Memory | 0 | 0 | New boards donated by Milk-V |
 | Milk-V Duo 256        | 256M Memory | 0 | 0 | SG2002 SoC |
 
+## 合肥漂流基地（合肥工业大学数学学院）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+
 ## 上海漂流基地（苦芽科技）
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
