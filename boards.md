@@ -66,7 +66,7 @@ Tranlated in Chinese:
 | SiFive Unmatched | SiFive Freedom U740 SoC | 5 | 7 | https://www.sifive.com/boards/hifive-unmatched |
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 3 | Donted by RVI |
 | CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 50 | 50 |  |
-| 13.3 显示屏 | 16GB Memory + 128GB eMMC | 10 | 10 |  |
+| 13.3 显示屏 | 13.3 寸，HDMI 接口 | 2 | 10 |  |
 
 ## 广州漂流基地（PLCT南沙分部）
 
