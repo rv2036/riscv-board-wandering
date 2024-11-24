@@ -34,7 +34,7 @@ Tranlated in Chinese:
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | 1 | 5 |  |
 | ESP32-C3-DevKitM-1    | CPU: ESP32-C3; 内存: 400 KB SRAM           | 1             | 1     |            |
 | Sipeed-M1S dock       | CPU: BL808; 内存: 64MByte; Flash: 16MByte  | 1 | 1 | |
-| "MC3172最小系统板（MCU）| RV32IMC， 64路硬件线程， 主频最高200MHz，128KB SRAM | 1 | 1 | http://www.gxchip.cn/products/show-100.html |
+| MC3172最小系统板（MCU）| RV32IMC， 64路硬件线程， 主频最高200MHz，128KB SRAM | 1 | 1 | http://www.gxchip.cn/products/show-100.html |
 | Milk-V Mars-CM (4G/8G) | - | 3 | 3 | |
 | Milk-V Mars (4G) | - | 1 | 1 | |
 | Sipeed LicheePi Console | - | 1 | 1 | |
