@@ -72,3 +72,8 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+
+## 大连漂流基地（大连理工大学）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
