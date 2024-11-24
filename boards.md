@@ -11,15 +11,30 @@ Tranlated in Chinese:
 
 甲辰计划RISC-V开发板随缘漂流计划的表格设计好了第一版，[请想要捐赠或认领开发板的伙伴填写](https://www.wenjuan.com/s/UZBZJvWx2p/)。请在填写前确保自己在 points.md 中提交了自己的昵称和 GitHub ID。
 
+## Wandering Point of Boards
+
+| Points | Board Name            | Configs                                   | Extra Info         |
+| -----: | :-------------------- | :---------------------------------------- | :----------------- |
+| 1250   | LicheePi 4A           | 16GB RAM + 128GB eMMC                     | - |
+| 85    | Milk-V Duo S          | no wifi no emmc                     | - |
+| 110   | Milk-V Duo S          | w/ wifi/BT, no emmc                     | - |
+| 130   | Milk-V Duo S          | no wifi, 8GB emc                     | - |
+| 150   | Milk-V Duo S          | w/ wifi/BT, 8GB emmc                     | - |
+| 430   | BananaPi F3          | 2GB RAM + 8GM eMMC                     | - |
+| 500   | BananaPi F3          | 4GB RAM + 16GM eMMC                     | - |
+| 550   | BananaPi F3          | 8GB RAM + 32GM eMMC                     | - |
+| 900   | BananaPi F3          | 16GB RAM + 128GM eMMC                     | - |
+| 227   | CanMV K230 Suite          | w/o 13.3 TFT/LCD                     | - |
+| 880   | CanMV K230 Suite          | w/ 13.3 TFT/LCD                     | - |
 
 ## 南京漂流基地（英麒智能）
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 1 | 5 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 4 |  |
 | ESP32-C3-DevKitM-1    | CPU: ESP32-C3; 内存: 400 KB SRAM           | 1             | 1     |            |
 | Sipeed-M1S dock       | CPU: BL808; 内存: 64MByte; Flash: 16MByte  | 1 | 1 | |
-| "MC3172最小系统板（MCU）| RV32IMC， 64路硬件线程， 主频最高200MHz，128KB SRAM | 1 | 1 | http://www.gxchip.cn/products/show-100.html |
+| MC3172最小系统板（MCU）| RV32IMC， 64路硬件线程， 主频最高200MHz，128KB SRAM | 1 | 1 | http://www.gxchip.cn/products/show-100.html |
 | Milk-V Mars-CM (4G/8G) | - | 3 | 3 | |
 | Milk-V Mars (4G) | - | 1 | 1 | |
 | Sipeed LicheePi Console | - | 1 | 1 | |
@@ -28,7 +43,8 @@ Tranlated in Chinese:
 | 树莓派3B | 增强版，带外壳和散热 | 3 | 3 | arm64 |
 | 泰晓RISC-V实验箱 | - | 3 | 3 | 内含 Milk-V Duo 及各类周边配件 |
 | Milk-V Duo S | Sophgo SG2000 SoC | 3 | 3 | |
-| BananaPi BPI-F3 | SpacemiT K1, 4G RAM, 16G eMMC | 1 | 1 | |
+| BananaPi BPI-F3 | SpacemiT K1, 4G RAM, 16G eMMC | 0 | 0 | |
+| CanMV K230 | - | 10 | 10 | |
 | END_OF_TABLE | - | 1 | 1 | |
 
 ## 北京漂流基地（北京开源芯片研究院）
@@ -49,6 +65,8 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 5 |  |
+| CanMV K230 | - | 0 | 1 | |
 
 ## 上海漂流基地（苦芽科技）
 
@@ -59,14 +77,22 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 0 |  |
-| Milk-V Duo S | Sophgo SG2000 SoC | 4 | 4 | |
-| Milk-V Duo | Sophgo CV180B SoC | 3 | 3 | |
-| Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 3 | |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 25 | 200 |  |
+| Milk-V Duo S | Sophgo SG2000 SoC | 2 | 4 | |
+| Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 5 | 6 | |
+| Milk-V Duo | Sophgo CV180B SoC | 2 | 3 | |
+| Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 4 | |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 5 | 7 | https://www.sifive.com/boards/hifive-unmatched |
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 3 | Donted by RVI |
+| CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 36 | 38 |  |
+| 13.3 显示屏 | 13.3 寸，HDMI 接口 | 2 | 10 |  |
 
 ## 广州漂流基地（PLCT南沙分部）
+
+| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
+| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+
+## 大连漂流基地（大连理工大学）
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |

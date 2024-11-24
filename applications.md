@@ -33,7 +33,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0026 | hehenihaoQWQ |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
 | 0027 | 橙味芬达 |  | 1 | Duo S基础版 | Delivered. | RISC-V中国峰会志愿者受赠 |
 | 0028 | wdwdhyk |  | 1 | duo256m | Delivered. | RISC-V中国峰会志愿者受赠 |
-| 0029 | DouPiChen |  | 1 | MilkV  Duo S；可选板载 WI-FI6/BT5、eMMC、支持PoE | Waiting. | N/A |
+| 0029 | DouPiChen |  | 1 | MilkV  Duo S；可选板载 WI-FI6/BT5、eMMC、支持PoE | Delivered. | N/A |
 | 0030 | xvyv99 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
 | 0031 | wwwuxy |  | | Unmatched | Duplicate. | `SN0035` |
 | 0032 | Yzgll |  | 1 | LicheePi 4A | Waiting. | N/A |
@@ -46,11 +46,11 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0039 | xeonds |  | 1 | licheepi 4A 或者只要能 run linux 的型号都可以（ | Waiting. | [details](#SN0039) |
 | 0040 | panglars |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | [details](#SN0040) |
 | 0041 | RealFYang |  | 1 | BFI-F3 (16GB RAM + 128GBеMMC) | Delivered. | [details](#SN0041) |
-| 0042 | sunmin89 |  | 1 | k230/k230d 嘉楠 | Waiting. | 开发调试 |
+| 0042 | sunmin89 |  | 1 | k230/k230d 嘉楠 | Delivered. | 开发调试 |
 | 0043 | zhgggg |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 学习risc-v开发 |
-| 0044 | 燕十三 |  | 1 | "BPI-F3, 4G RAM, 16G eMMC" | Waiting. | [details](#SN0044) |
+| 0044 | 燕十三 |  | 1 | "BPI-F3, 4G RAM, 16G eMMC" | Delivered. | [details](#SN0044) |
 | 0045 | apricity1212 | | 1 | Sipeed LicheePi Console | Waiting. | [details](#SN0045) |
-| 0046 | LizzyLoong | | 1 | 荔枝派4a16+128 | Waiting. | 实习使用 |
+| 0046 | LizzyLoong | | 1 | 荔枝派4a16+128 | Delivered. | 实习使用,替换手头的版本 |
 
 ## Extra Notes
 

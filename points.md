@@ -20,10 +20,11 @@ Tranlated in Chinese:
 | SiFive | SiFive | 24500 | 开发板赞助厂商 |
 | RISC-V国际基金会 | RISC-V International | 3596 | RVI DevBoards Program |
 | 秦派软件 | qinware | 2916 | 生产力工具软件提供商 |
+| 玄铁团队 | XuanTie | 267880 | xrvm.cn |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 6340 | manager of wandering project |
+| wuwei | lazyparser | 5625 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -34,13 +35,13 @@ Tranlated in Chinese:
 | 章翔 | axiangyushanhaijing | -1250 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
-| sunmin | sunmin89 | 0 | |
+| sunmin | sunmin89 | -227 | |
 | Guoguo | imguoguo | 0 | |
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
-| Li Zhi | LizzyLoong | -800 | RISC-V developer |
+| Li Zhi | LizzyLoong | -1250 | RISC-V developer |
 | Sebastianhayashi | Sebastianhayashi | -1250 | |
-| 燕十三 | flyingcys | 260 | |
+| 燕十三 | flyingcys | -240 | |
 | 泽文| zevorn | 40 | |
 | Wei| wo1ow | 0 | |
 | xieby1 | xieby1 | -1250 | |
@@ -77,4 +78,5 @@ Tranlated in Chinese:
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | 0 |  |
 | Patrick.Qian | Gekyume777 | 0 | student
+| DouPiChen | DouPiChen | -85 | ISCAS staff |
 | Shinonome Tera tanuki | wold9168 | 0 | student |
