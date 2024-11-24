@@ -44,6 +44,7 @@ Tranlated in Chinese:
 | 泰晓RISC-V实验箱 | - | 3 | 3 | 内含 Milk-V Duo 及各类周边配件 |
 | Milk-V Duo S | Sophgo SG2000 SoC | 3 | 3 | |
 | BananaPi BPI-F3 | SpacemiT K1, 4G RAM, 16G eMMC | 0 | 0 | |
+| BananaPi BPI-F3 | 16G RAM + 128G eMMC | 0 | 1 | |
 | CanMV K230 | - | 10 | 10 | |
 | END_OF_TABLE | - | 1 | 1 | |
 
@@ -83,7 +84,7 @@ Tranlated in Chinese:
 | Milk-V Duo | Sophgo CV180B SoC | 2 | 3 | |
 | Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 4 | |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 5 | 7 | https://www.sifive.com/boards/hifive-unmatched |
-| BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 3 | Donted by RVI |
+| BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 2 | Donted by RVI |
 | CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 36 | 38 |  |
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 2 | 10 |  |
 
