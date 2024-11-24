@@ -46,7 +46,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0039 | xeonds |  | 1 | licheepi 4A 或者只要能 run linux 的型号都可以（ | Waiting. | [details](#SN0039) |
 | 0040 | panglars |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | [details](#SN0040) |
 | 0041 | RealFYang |  | 1 | BFI-F3 (16GB RAM + 128GBеMMC) | Delivered. | [details](#SN0041) |
-| 0042 | sunmin89 |  | 1 | k230/k230d 嘉楠 | Waiting. | 开发调试 |
+| 0042 | sunmin89 |  | 1 | k230/k230d 嘉楠 | Delivered. | 开发调试 |
 | 0043 | zhgggg |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 学习risc-v开发 |
 | 0044 | 燕十三 |  | 1 | "BPI-F3, 4G RAM, 16G eMMC" | Delivered. | [details](#SN0044) |
 | 0045 | apricity1212 | | 1 | Sipeed LicheePi Console | Waiting. | [details](#SN0045) |

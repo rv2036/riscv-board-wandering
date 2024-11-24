@@ -35,7 +35,7 @@ Tranlated in Chinese:
 | 章翔 | axiangyushanhaijing | -1250 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
-| sunmin | sunmin89 | 0 | |
+| sunmin | sunmin89 | -227 | |
 | Guoguo | imguoguo | 0 | |
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
