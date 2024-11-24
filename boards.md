@@ -24,6 +24,8 @@ Tranlated in Chinese:
 | 500   | BananaPi F3          | 4GB RAM + 16GM eMMC                     | - |
 | 550   | BananaPi F3          | 8GB RAM + 32GM eMMC                     | - |
 | 900   | BananaPi F3          | 16GB RAM + 128GM eMMC                     | - |
+| 227   | CanMV K230 Suite          | w/o 13.3 TFT/LCD                     | - |
+| 880   | CanMV K230 Suite          | w/ 13.3 TFT/LCD                     | - |
 
 ## 南京漂流基地（英麒智能）
 
