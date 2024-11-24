@@ -14,7 +14,7 @@ Tranlated in Chinese:
 ## Wandering Point of Boards
 
 | Points | Board Name            | Configs                                   | Extra Info         |
-| =====: | :==================== | :======================================== | :================= |
+| -----: | :-------------------- | :---------------------------------------- | :----------------- |
 | 1250   | LicheePi 4A           | 16GB RAM + 128GB eMMC                     | - |
 | 85    | Milk-V Duo S          | no wifi no emmc                     | - |
 | 110   | Milk-V Duo S          | w/ wifi/BT, no emmc                     | - |
