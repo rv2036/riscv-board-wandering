@@ -77,3 +77,4 @@ Tranlated in Chinese:
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | 0 |  |
 | Patrick.Qian | Gekyume777 | 0 | student
+| Shinonome Tera tanuki | wold9168 | 0 | student |
