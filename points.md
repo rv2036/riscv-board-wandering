@@ -24,7 +24,7 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 6340 | manager of wandering project |
+| wuwei | lazyparser | 6425 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -78,3 +78,4 @@ Tranlated in Chinese:
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | 0 |  |
 | Patrick.Qian | Gekyume777 | 0 | student
+| DouPiChen | DouPiChen | -85 | ISCAS staff |

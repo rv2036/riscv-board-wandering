@@ -33,7 +33,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0026 | hehenihaoQWQ |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
 | 0027 | 橙味芬达 |  | 1 | Duo S基础版 | Delivered. | RISC-V中国峰会志愿者受赠 |
 | 0028 | wdwdhyk |  | 1 | duo256m | Delivered. | RISC-V中国峰会志愿者受赠 |
-| 0029 | DouPiChen |  | 1 | MilkV  Duo S；可选板载 WI-FI6/BT5、eMMC、支持PoE | Waiting. | N/A |
+| 0029 | DouPiChen |  | 1 | MilkV  Duo S；可选板载 WI-FI6/BT5、eMMC、支持PoE | Delivered. | N/A |
 | 0030 | xvyv99 |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
 | 0031 | wwwuxy |  | | Unmatched | Duplicate. | `SN0035` |
 | 0032 | Yzgll |  | 1 | LicheePi 4A | Waiting. | N/A |
