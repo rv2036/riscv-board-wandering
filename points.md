@@ -41,7 +41,7 @@ Tranlated in Chinese:
 | Ahei | aahei | 0 |  |
 | Li Zhi | LizzyLoong | -800 | RISC-V developer |
 | Sebastianhayashi | Sebastianhayashi | -1250 | |
-| 燕十三 | flyingcys | 260 | |
+| 燕十三 | flyingcys | -240 | |
 | 泽文| zevorn | 40 | |
 | Wei| wo1ow | 0 | |
 | xieby1 | xieby1 | -1250 | |
