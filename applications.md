@@ -50,7 +50,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0043 | zhgggg |  | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 学习risc-v开发 |
 | 0044 | 燕十三 |  | 1 | "BPI-F3, 4G RAM, 16G eMMC" | Delivered. | [details](#SN0044) |
 | 0045 | apricity1212 | | 1 | Sipeed LicheePi Console | Waiting. | [details](#SN0045) |
-| 0046 | LizzyLoong | | 1 | 荔枝派4a16+128 | Waiting. | 实习使用 |
+| 0046 | LizzyLoong | | 1 | 荔枝派4a16+128 | Delivered. | 实习使用,替换手头的版本 |
 
 ## Extra Notes
 
