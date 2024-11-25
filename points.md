@@ -58,7 +58,7 @@ Tranlated in Chinese:
 | SeasonMay | SeasonMay | -1250 | |
 | Milkice | milkice233 | -1250 | |
 | zt | ztjjj9 | -1250 | RISC-V enthusiast |
-| pcerror | MrChenLearnSpace | 0 | student |
+| pcerror | MrChenLearnSpace | -1250 | student |
 | zbc | shuaidemeikan | 0 | RISC-V enthusiast |
 | drenal | hehenihaoQWQ | 0 | RISC-V enthusiast |
 | xvyv99 | xvyv99 | 0 | |
