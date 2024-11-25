@@ -79,5 +79,5 @@ Tranlated in Chinese:
 | WwWangGuan | WwWangGuan | 0 |  |
 | Patrick.Qian | Gekyume777 | 0 | student
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
-| Shinonome Tera tanuki | wold9168 | -85 | student |
+| Shinonome Tera tanuki | wold9168 | 0 | student |
 | ustcljh | ustcljh | 0 | student at USTC |
