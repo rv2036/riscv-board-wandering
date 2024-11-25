@@ -56,7 +56,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0049 | WwWangGuan| | 1| LicheePi 4A| Waiting.| RTsmart开发 |
 | 0050 | Gekyume777| | 1| Milk-V Mars (4G)| Waiting.| [details](#SN0050) |
 | 0051 | wold9168| | 1| 内存4GiB及以上 | Waiting.| [details](#SN0051) |
-| 0052 | ustcljh| | 1| bpif3| Waiting.| [details](#SN0052) |
+| 0052 | ustcljh| | 1| bpif3| Delivered.| [details](#SN0052) |
 
 ## Extra Notes
 
