@@ -81,4 +81,4 @@ Tranlated in Chinese:
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
 | Shinonome Tera tanuki | wold9168 | 0 | student |
 | ustcljh | ustcljh | 0 | student at USTC |
-| chengzihan | zihan-hub | 0 | student |
+| chengzihan | zihan-hub | -85 | student |
