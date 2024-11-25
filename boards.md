@@ -78,9 +78,9 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 24 | 200 |  |
-| Milk-V Duo S | Sophgo SG2000 SoC | 2 | 4 | |
-| Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 5 | 6 | |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 18 | 200 |  |
+| Milk-V Duo S | Sophgo SG2000 SoC | 1 | 3 | |
+| Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 4 | 5 | |
 | Milk-V Duo | Sophgo CV180B SoC | 2 | 3 | |
 | Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 4 | |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 5 | 7 | https://www.sifive.com/boards/hifive-unmatched |
@@ -97,3 +97,6 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 6 | 6 |  |
+| Milk-V Duo S | Sophgo SG2000 SoC | 1 | 1 | |
+| Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 1 | 1 | |
