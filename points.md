@@ -82,3 +82,4 @@ Tranlated in Chinese:
 | Shinonome Tera tanuki | wold9168 | 0 | student |
 | ustcljh | ustcljh | -6467 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
+| acyanbird | acyanbird | 0 | student & deepin linux developer |
