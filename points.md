@@ -85,3 +85,4 @@ Tranlated in Chinese:
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | 0 | PLCT intern |
 | acyanbird | acyanbird | 0 | student & deepin linux developer |
+| 汪辰 | unicornx | 0 | Developer of PLCT-lab |
