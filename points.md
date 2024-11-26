@@ -76,10 +76,11 @@ Tranlated in Chinese:
 | zhg213 | zhgggg | 0 | |
 | xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
-| WwWangGuan | WwWangGuan | 0 |  |
-| Patrick.Qian | Gekyume777 | 0 | student
+| WwWangGuan | WwWangGuan | 0 |
+| Patrick.Qian | Gekyume777 | 0 | student |
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
 | Shinonome Tera tanuki | wold9168 | 0 | student |
 | ustcljh | ustcljh | -6467 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | 0 | PLCT intern |
+| Song | SongYuSheng1216 | 0 | student & RISC-V enthusiast |
