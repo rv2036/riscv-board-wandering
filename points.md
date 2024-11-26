@@ -82,3 +82,4 @@ Tranlated in Chinese:
 | Shinonome Tera tanuki | wold9168 | 0 | student |
 | ustcljh | ustcljh | -6467 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
+| 汪辰 | unicornx | 0 | Developer of PLCT-lab |
