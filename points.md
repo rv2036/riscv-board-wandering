@@ -86,3 +86,4 @@ Tranlated in Chinese:
 | stydxm | stydxm | 0 | PLCT intern |
 | acyanbird | acyanbird | 0 | student & deepin linux developer |
 | 汪辰 | unicornx | 0 | Developer of PLCT-lab |
+| Song | SongYuSheng1216 | 0 | student & RISC-V enthusiast |
