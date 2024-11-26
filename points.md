@@ -78,8 +78,11 @@ Tranlated in Chinese:
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | 0 |  |
 | Patrick.Qian | Gekyume777 | 0 | student
+| Alphagocc | alphagocc | 0 | student & RISC-V enthusiast
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
 | Shinonome Tera tanuki | wold9168 | 0 | student |
 | ustcljh | ustcljh | -6467 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
+| stydxm | stydxm | 0 | PLCT intern |
+| acyanbird | acyanbird | 0 | student & deepin linux developer |
 | 汪辰 | unicornx | 0 | Developer of PLCT-lab |
