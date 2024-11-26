@@ -84,3 +84,4 @@ Tranlated in Chinese:
 | ustcljh | ustcljh | -6467 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | 0 | PLCT intern |
+| acyanbird | acyanbird | 0 | student & deepin linux developer |
