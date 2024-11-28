@@ -57,8 +57,24 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0050 | Gekyume777| | 1| Milk-V Mars (4G)| Waiting.| [details](#SN0050) |
 | 0051 | wold9168| | 1| 内存4GiB及以上 | Waiting.| [details](#SN0051) |
 | 0052 | ustcljh| | 1| bpif3| Delivered.| [details](#SN0052) |
+| 0053 | stydxm | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | ruyisdk 支持矩阵 |
+| 0054 | kagura114 | | 1 | LicheePi 4A | Waiting. | PLCT RevyOS小队测试实习生 实习用 |
+| 0055 | Gekyume777 | | 1 | Licheepi 4A 8G/16G | Waiting. | Support-matrix测试用 |
+| 0056 | acyanbird | | 1 | "LicheePi 4A  | 16GB RAM + 128GB eMMC" | Waiting. | [details](#SN0056) |
+| 0057 | unicornx | | 1 | "Milk-V Duo S" | Waiting. | 开发 RT-Thread |
+| 0058 | Alphagocc | | 1 | "LicheePi 4A | 16GB RAM + 128GB eMMC" | Waiting. | 想要为 Deepin RISC-V 做一些贡献 |
+| 0059 | SongYuSheng1216 | | 1 | LicheePi 4A 16GB + 显示屏 13.3 寸 | Waiting. | [details](#SN0059) |
 
 ## Extra Notes
+
+### SN0059
+
+> "LicheePi 4A 16GB Memory + 128GB eMMC 13.3 显示屏 13.3 寸，HDMI 接口"
+> ysyx大致完了后，想接触一下具体的riscv开发板，试着将不同的os部署到板子上试试
+
+### SN0056
+
+> 申请认领 RISC-V 开发版，进行 deepin Linux 的相关开发
 
 ### SN0052
 
