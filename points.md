@@ -59,7 +59,7 @@ Tranlated in Chinese:
 | Milkice | milkice233 | -1250 | |
 | zt | ztjjj9 | -1250 | RISC-V enthusiast |
 | pcerror | MrChenLearnSpace | -1250 | student |
-| zbc | shuaidemeikan | 0 | RISC-V enthusiast |
+| zbc | shuaidemeikan | -1250 | RISC-V enthusiast |
 | drenal | hehenihaoQWQ | 0 | RISC-V enthusiast |
 | xvyv99 | xvyv99 | 0 | |
 | wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
