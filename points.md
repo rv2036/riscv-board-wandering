@@ -63,7 +63,7 @@ Tranlated in Chinese:
 | drenal | hehenihaoQWQ | -1250 | RISC-V enthusiast |
 | xvyv99 | xvyv99 | -1250 | |
 | wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
-| yzgl | Yzgll | 0 | student & RISC-V enthusiast |
+| yzgl | Yzgll | -1250 | student & RISC-V enthusiast |
 | Sherlockzhangjinge | Sherlockzhangjinge | -1250 | student & RISC-V enthusiast |
 | calacaly | calacaly | 0 | student |
 | 蒙卓 | mengzhuo | 4675 | Developer of PLCT and Go port owner |
