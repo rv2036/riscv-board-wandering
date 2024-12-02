@@ -30,7 +30,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0023 | mikice233 | | 1 | LicheePi 4A | Delivered. | milkice233 |
 | 0024 | MrChenLearnSpace | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC" | Delivered. | N/A |
 | 0025 | shuaidemeikan | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | N/A |
-| 0026 | hehenihaoQWQ | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | N/A |
+| 0026 | hehenihaoQWQ | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | N/A |
 | 0027 | zihan-hub | | 1 | Duo S基础版 | Delivered. | RISC-V中国峰会志愿者受赠 |
 | 0028 | wdwdhyk | | 1 | duo256m | Delivered. | RISC-V中国峰会志愿者受赠 |
 | 0029 | DouPiChen | | 1 | MilkV Duo S；可选板载 WI-FI6/BT5、eMMC、支持PoE | Delivered. | N/A |
