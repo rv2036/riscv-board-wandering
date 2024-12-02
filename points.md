@@ -65,7 +65,7 @@ Tranlated in Chinese:
 | wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
 | yzgl | Yzgll | -1250 | student & RISC-V enthusiast |
 | Sherlockzhangjinge | Sherlockzhangjinge | -1250 | student & RISC-V enthusiast |
-| calacaly | calacaly | 0 | student |
+| calacaly | calacaly | -1250 | student |
 | 蒙卓 | mengzhuo | 4675 | Developer of PLCT and Go port owner |
 | yunxiang | YunxiangLuo | -200 | |
 | yjmstr | yjmstr | -1250 | |
