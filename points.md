@@ -61,7 +61,7 @@ Tranlated in Chinese:
 | pcerror | MrChenLearnSpace | -1250 | student |
 | zbc | shuaidemeikan | -1250 | RISC-V enthusiast |
 | drenal | hehenihaoQWQ | -1250 | RISC-V enthusiast |
-| xvyv99 | xvyv99 | 0 | |
+| xvyv99 | xvyv99 | -1250 | |
 | wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
 | yzgl | Yzgll | 0 | student & RISC-V enthusiast |
 | Sherlockzhangjinge | Sherlockzhangjinge | -1250 | student & RISC-V enthusiast |
