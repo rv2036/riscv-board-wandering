@@ -62,7 +62,7 @@ Tranlated in Chinese:
 | zbc | shuaidemeikan | -1250 | RISC-V enthusiast |
 | drenal | hehenihaoQWQ | -1250 | RISC-V enthusiast |
 | xvyv99 | xvyv99 | -1250 | |
-| wwwuxy | wwwuxy | 0 | student & RISC-V enthusiast |
+| wwwuxy | wwwuxy | -2450 | student & RISC-V enthusiast |
 | yzgl | Yzgll | -1250 | student & RISC-V enthusiast |
 | Sherlockzhangjinge | Sherlockzhangjinge | -1250 | student & RISC-V enthusiast |
 | calacaly | calacaly | -1250 | student |
