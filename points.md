@@ -76,7 +76,7 @@ Tranlated in Chinese:
 | zhg213 | zhgggg | 0 | |
 | xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
-| WwWangGuan | WwWangGuan | 0 |  |
+| WwWangGuan | WwWangGuan | -1250 |  |
 | Patrick.Qian | Gekyume777 | 0 | student
 | Alphagocc | alphagocc | 0 | student & RISC-V enthusiast
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
