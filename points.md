@@ -89,3 +89,4 @@ Tranlated in Chinese:
 | Song | SongYuSheng1216 | 0 | student & RISC-V enthusiast |
 | kagura | kagura114 | 0 | for PLCT Intern, J143 |
 | ZhangPeng | Zpp027 | 0 | student & RISC-V enthusiast |
+| aisuneko | aisuneko | 0 | |
