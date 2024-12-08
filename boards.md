@@ -27,6 +27,8 @@ Tranlated in Chinese:
 | 227   | CanMV K230 Suite          | w/o 13.3 TFT/LCD                     | - |
 | 880   | CanMV K230 Suite          | w/ 13.3 TFT/LCD                     | - |
 | 2450  | SiFive HiFive Unmatched          | U74                     | - |
+| 1100   | LicheePi 3A           | 16GB RAM + 32GB eMMC                     | - |
+| 130   | Lichee RV Dock           | D1/C906                     | - |
 
 ## 南京漂流基地（英麒智能）
 
@@ -88,6 +90,8 @@ Tranlated in Chinese:
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 1 | Donted by RVI |
 | CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 34 | 36 |  |
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 2 | 10 |  |
+| LicheePi 3A           | 16GB Memory + 32GB eMMC | 10 | 18 |  |
+| Lichee RV Dock           | D1 | 5 | 5 |  |
 
 ## 广州漂流基地（PLCT南沙分部）
 

@@ -14,7 +14,7 @@ Tranlated in Chinese:
 | Sponsor Name | English Name            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
 | 算能 (Sophgo) | sophgo | 2640 | 开发板赞助厂商 |
-| 矽速科技 (Sipeed) | sipeed | 27550 | 开发板赞助厂商 |
+| 矽速科技 (Sipeed) | sipeed | 48000 | 开发板赞助厂商 |
 | 群芯闪耀 (Milk-V) | milk-v | 10660 | 开发板赞助厂商 |
 | 进迭时空 | SpacemiT | 2498 | 开发板赞助厂商 |
 | SiFive | SiFive | 24500 | 开发板赞助厂商 |
