@@ -55,7 +55,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0048 | WwWangGuan| | 1| Milk-V Mars (4G)| Cancelled| 尝试在riscv上开发RT Smart |
 | 0049 | WwWangGuan| | 1| LicheePi 4A| Delivered.| RTsmart开发 |
 | 0050 | Gekyume777| | 1| Milk-V Mars (4G)| Waiting.| [details](#SN0050) |
-| 0051 | wold9168| | 1| 内存4GiB及以上 | Waiting.| [details](#SN0051) |
+| 0051 | wold9168| | 1| 内存4GiB及以上 | Delivered.| [details](#SN0051) |
 | 0052 | ustcljh| | 1| bpif3| Delivered.| [details](#SN0052) |
 | 0053 | stydxm | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | ruyisdk 支持矩阵 |
 | 0054 | kagura114 | | 1 | LicheePi 4A | Waiting. | PLCT RevyOS小队测试实习生 实习用 |
