@@ -59,7 +59,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0052 | ustcljh| | 1| bpif3| Delivered.| [details](#SN0052) |
 | 0053 | stydxm | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | ruyisdk 支持矩阵 |
 | 0054 | kagura114 | | 1 | LicheePi 4A | Delivered. | PLCT RevyOS小队测试实习生 实习用 |
-| 0055 | Gekyume777 | | 1 | Licheepi 4A 8G/16G | Waiting. | Support-matrix测试用 |
+| 0055 | Gekyume777 | | 1 | Licheepi 4A 8G/16G | Delivered. | Support-matrix测试用 |
 | 0056 | acyanbird | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Waiting. | [details](#SN0056) |
 | 0057 | unicornx | | 1 | "Milk-V Duo S" | Waiting. | 开发 RT-Thread |
 | 0058 | Alphagocc | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Waiting. | 想要为 Deepin RISC-V 做一些贡献 |
