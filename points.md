@@ -87,7 +87,7 @@ Tranlated in Chinese:
 | acyanbird | acyanbird | 0 | student & deepin linux developer |
 | 汪辰 | unicornx | 0 | Developer of PLCT-lab |
 | Song | SongYuSheng1216 | 0 | student & RISC-V enthusiast |
-| kagura | kagura114 | 0 | for PLCT Intern, J143 |
+| kagura | kagura114 | -1250 | for PLCT Intern, J143 |
 | ZhangPeng | Zpp027 | 0 | student & RISC-V enthusiast |
 | aisuneko | aisuneko | 0 | |
 | SkyRain | KamijoToma | 0 | for PLCT Intern, J143 |
