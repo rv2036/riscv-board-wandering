@@ -69,7 +69,7 @@ Tranlated in Chinese:
 | 蒙卓 | mengzhuo | 4675 | Developer of PLCT and Go port owner |
 | yunxiang | YunxiangLuo | -200 | |
 | yjmstr | yjmstr | -1250 | |
-| xeonds | xeonds | 0 | |
+| xeonds | xeonds | -1250 | |
 | lcean | lcean | -1250 | RISC-V enthusiast |
 | panglan | panglars | 0 | |
 | Fei Yang | RealFYang | -899 | OpenJDK RISC-V Port Lead |
