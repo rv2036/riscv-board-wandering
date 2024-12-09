@@ -73,7 +73,7 @@ Tranlated in Chinese:
 | lcean | lcean | -1250 | RISC-V enthusiast |
 | panglan | panglars | -1250 | |
 | Fei Yang | RealFYang | -899 | OpenJDK RISC-V Port Lead |
-| zhg213 | zhgggg | 0 | |
+| zhg213 | zhgggg | -1250 | |
 | xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | -1250 |  |

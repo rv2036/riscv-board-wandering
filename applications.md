@@ -51,7 +51,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0044 | 燕十三 | | 1 | "BPI-F3, 4G RAM, 16G eMMC" | Delivered. | [details](#SN0044) |
 | 0045 | apricity1212 | | 1 | Sipeed LicheePi Console | Waiting. | [details](#SN0045) |
 | 0046 | LizzyLoong | | 1 | 荔枝派4a16+128 | Delivered. | 实习使用,替换手头的版本 |
-| 0047 | zhgggg| | 1| LicheePi 4A| Waiting.| [details](#SN0047) |
+| 0047 | zhgggg| | 1| LicheePi 4A| Delivered.| [details](#SN0047) |
 | 0048 | WwWangGuan| | 1| Milk-V Mars (4G)| Cancelled| 尝试在riscv上开发RT Smart |
 | 0049 | WwWangGuan| | 1| LicheePi 4A| Delivered.| RTsmart开发 |
 | 0050 | Gekyume777| | 1| Milk-V Mars (4G)| Waiting.| [details](#SN0050) |
