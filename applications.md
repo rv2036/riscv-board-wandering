@@ -12,7 +12,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0005 | chrithon | | 1 | Milk-V Jupiter (M1 16GB) | Waiting. No board | |
 | 0006 | zevorn | 1 | | MC3172最小系统板（MCU） | Received (Nanjing dockbase) | |
 | 0007 | xieby1 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered | |
-| 0008 | wo1ow | | 1 | SiFive Freedom U740 SoC | Waiting. No board | |
+| 0008 | wo1ow | | 1 | SiFive Freedom U740 SoC | Delivered | |
 | 0009 | sebastianhayashi | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered | |
 | 0010 | axiangyushanhaijing | | | LicheePi 4A 16GB | Duplicate. | see `SN0012` |
 | 0011 | revysr | | 1 | "Milk-V Jupiter	16GB Memory" | Waiting. No board. | |

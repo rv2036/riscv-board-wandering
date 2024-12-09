@@ -43,7 +43,7 @@ Tranlated in Chinese:
 | Sebastianhayashi | Sebastianhayashi | -1250 | |
 | 燕十三 | flyingcys | -240 | |
 | 泽文| zevorn | 40 | |
-| Wei| wo1ow | 0 | |
+| Wei| wo1ow | -2450 | |
 | xieby1 | xieby1 | -1250 | |
 | Revy | revysr | 0 | |
 | Icenowy Zheng | Icenowy | 0 | |
