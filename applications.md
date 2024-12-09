@@ -44,7 +44,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0037 | yjmstr | | 1 | LicheePi 4A | Delivered. | 用于 J137 Win-CE 项目测试需要 |
 | 0038 | lcean | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | RISC-V enthusiast |
 | 0039 | xeonds | | 1 | licheepi 4A 或者只要能 run linux 的型号都可以（ | Delivered. | [details](#SN0039) |
-| 0040 | panglars | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | [details](#SN0040) |
+| 0040 | panglars | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | [details](#SN0040) |
 | 0041 | RealFYang | | 1 | BFI-F3 (16GB RAM + 128GBеMMC) | Delivered. | [details](#SN0041) |
 | 0042 | sunmin89 | | 1 | k230/k230d 嘉楠 | Delivered. | 开发调试 |
 | 0043 | zhgggg | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Duplicate. | see `SN0047` |

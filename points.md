@@ -71,7 +71,7 @@ Tranlated in Chinese:
 | yjmstr | yjmstr | -1250 | |
 | xeonds | xeonds | -1250 | |
 | lcean | lcean | -1250 | RISC-V enthusiast |
-| panglan | panglars | 0 | |
+| panglan | panglars | -1250 | |
 | Fei Yang | RealFYang | -899 | OpenJDK RISC-V Port Lead |
 | zhg213 | zhgggg | 0 | |
 | xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
