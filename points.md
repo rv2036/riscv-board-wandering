@@ -70,7 +70,7 @@ Tranlated in Chinese:
 | yunxiang | YunxiangLuo | -200 | |
 | yjmstr | yjmstr | -1250 | |
 | xeonds | xeonds | 0 | |
-| lcean | lcean | 0 | RISC-V enthusiast |
+| lcean | lcean | -1250 | RISC-V enthusiast |
 | panglan | panglars | 0 | |
 | Fei Yang | RealFYang | -899 | OpenJDK RISC-V Port Lead |
 | zhg213 | zhgggg | 0 | |
