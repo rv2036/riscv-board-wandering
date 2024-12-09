@@ -85,7 +85,7 @@ Tranlated in Chinese:
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | -1250 | PLCT intern |
 | acyanbird | acyanbird | 0 | student & deepin linux developer |
-| 汪辰 | unicornx | 0 | Developer of PLCT-lab |
+| 汪辰 | unicornx | -110 | Developer of PLCT-lab |
 | Song | SongYuSheng1216 | 0 | student & RISC-V enthusiast |
 | kagura | kagura114 | -1250 | for PLCT Intern, J143 |
 | ZhangPeng | Zpp027 | 0 | student & RISC-V enthusiast |

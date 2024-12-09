@@ -83,7 +83,7 @@ Tranlated in Chinese:
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | -1 | 169 |  |
 | Milk-V Duo S | Sophgo SG2000 SoC | 1 | 3 | |
-| Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 3 | 4 | |
+| Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 2 | 3 | |
 | Milk-V Duo | Sophgo CV180B SoC | 2 | 3 | |
 | Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 4 | |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 4 | 6 | https://www.sifive.com/boards/hifive-unmatched |
