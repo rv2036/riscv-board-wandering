@@ -64,8 +64,23 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0057 | unicornx | | 1 | "Milk-V Duo S" | Delivered. | 开发 RT-Thread |
 | 0058 | Alphagocc | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Waiting. | 想要为 Deepin RISC-V 做一些贡献 |
 | 0059 | SongYuSheng1216 | | 1 | LicheePi 4A 16GB + 显示屏 13.3 寸 | Waiting. | [details](#SN0059) |
+| 0060 | Zpp027 | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 13.3 显示屏 " | Waiting. | [details](#SN0060) |
+| 0061 | KamijoToma | | 1 | Lichee Pi 4A，16GB版本最好， 8G也可以| Waiting. | [details](#SN0061) |
+| 0062 | Me3ue | | 1 | LicheePi 4A  16GB RAM + 128GB eMMC| Waiting. | [details](#SN0062) |
 
 ## Extra Notes
+
+### SN0062
+
+> "学习RISC-V相关课程，尝试移植openssh-portable https://github.com/openssh/openssh-portable"
+
+### SN0061
+
+> PLCT Revy OS 测试小队需要。主要用于 RevyOS 上的软件Bug 复现、软件可用性测试。个人也想体验一下 RISC-V Linux
+
+### SN0060
+
+> 在学习riscv的相关知识，想通过在其开发板上启动os，增加对riscv的理解
 
 ### SN0059
 
