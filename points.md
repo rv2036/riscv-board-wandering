@@ -92,3 +92,4 @@ Tranlated in Chinese:
 | aisuneko | aisuneko | 0 | |
 | SkyRain | KamijoToma | 0 | for PLCT Intern, J143 |
 | ZZ123 | Me3ue | 0 | student & RISC-V enthusiast |
+| VZstless | VictorZhangAI | 0 | student & RISC-V enthusiast |
