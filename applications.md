@@ -9,7 +9,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0002 | zhixiaogzhang | | 1 | TH1520 w/ wifi | Delivered | [commit 7638c6](https://github.com/rv2036/riscv-board-wandering/commit/7638c63571ca3709238e1aeecce8c12788a11dec) |
 | 0003 | feifei | | 1 | LicheePi 4A w/ Power adapter | Delivered w/o Power adapter | |
 | 0004 | flyingcys | 1 | | see commit 2099709527 | Received (Nanjing dockbase) | [commit 209970](https://github.com/rv2036/riscv-board-wandering/commit/2099709527ad055ecd13612782b0c6af4feb6dbe) |
-| 0005 | chrithon | | 1 | Milk-V Jupiter (M1 16GB) | Waiting. No board | |
+| 0005 | chrithon | | 1 | Milk-V Jupiter (M1 16GB) | Cancelled. No board | |
 | 0006 | zevorn | 1 | | MC3172最小系统板（MCU） | Received (Nanjing dockbase) | |
 | 0007 | xieby1 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered | |
 | 0008 | wo1ow | | 1 | SiFive Freedom U740 SoC | Delivered | |
