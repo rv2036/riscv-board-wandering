@@ -96,3 +96,4 @@ Tranlated in Chinese:
 | NanQin | NanQin555 | 0 | PLCT intern, J146 |
 | lhpqaq | lhpqaq | 0 | PLCT intern |
 | zhouliren | izhouliren | 0 | software engineer |
+| Yusee | WhereIsYuuka | 0 | student |
