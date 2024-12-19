@@ -94,4 +94,6 @@ Tranlated in Chinese:
 | ZZ123 | Me3ue | 0 | student & RISC-V enthusiast |
 | VZstless | VictorZhangAI | 0 | student & RISC-V enthusiast |
 | NanQin | NanQin555 | 0 | PLCT intern, J146 |
-| Yusee | WhereIsYuuka | -1250 | student |
+| lhpqaq | lhpqaq | 0 | PLCT intern |
+| zhouliren | izhouliren | 0 | software engineer |
+| Yusee | WhereIsYuuka | 0 | student |
