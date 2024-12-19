@@ -95,3 +95,4 @@ Tranlated in Chinese:
 | VZstless | VictorZhangAI | 0 | student & RISC-V enthusiast |
 | NanQin | NanQin555 | 0 | PLCT intern, J146 |
 | lhpqaq | lhpqaq | 0 | PLCT intern |
+| zhouliren | izhouliren | 0 | software engineer |
