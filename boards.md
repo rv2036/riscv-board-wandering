@@ -34,7 +34,7 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 4 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 74 |  |
 | ESP32-C3-DevKitM-1    | CPU: ESP32-C3; 内存: 400 KB SRAM           | 1             | 1     |            |
 | Sipeed-M1S dock       | CPU: BL808; 内存: 64MByte; Flash: 16MByte  | 1 | 1 | |
 | MC3172最小系统板（MCU）| RV32IMC， 64路硬件线程， 主频最高200MHz，128KB SRAM | 1 | 1 | http://www.gxchip.cn/products/show-100.html |
@@ -81,7 +81,7 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | -1 | 169 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 49 | 99 |  |
 | Milk-V Duo S | Sophgo SG2000 SoC | 1 | 3 | |
 | Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 2 | 3 | |
 | Milk-V Duo | Sophgo CV180B SoC | 2 | 3 | |
