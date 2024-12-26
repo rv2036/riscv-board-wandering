@@ -67,8 +67,33 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0060 | Zpp027 | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 13.3 显示屏 " | Waiting. | [details](#SN0060) |
 | 0061 | KamijoToma | | 1 | Lichee Pi 4A，16GB版本最好， 8G也可以| Waiting. | [details](#SN0061) |
 | 0062 | Me3ue | | 1 | LicheePi 4A  16GB RAM + 128GB eMMC| Waiting. | [details](#SN0062) |
+| 0063| victorzhangai| | 1| LicheePi 4A 16GB + 128GB eMMC| Waiting.| [details](#SN0063) |
+| 0064| - | | 1 | "BananaPi F3| 4GB RAM + 16GM eMMC"| Duplicate. | SN0069 |
+| 0065| izhouliren| 1 | | "赛昉 VisionFive 2"| Waiting.| 捐赠 |
+| 0066| - | | 1| "LicheePi 4A 16GB 希望能够有外壳"| Duplicate.| SN0068 |
+| 0067| lhpqaq| | 1| "LicheePi 4A| 16GB RAM + 128GB eMMC"| Waiting.| [details](#SN0067) |
+| 0068| WhereIsYuuka| | 1| "LicheePi 4A 16GB RAM 希望能够有外壳"| Waiting.| [details](#SN0068) |
+| 0069| NanQin555| | 1| LicheePi 3A 16GB RAM + 32GB eMMC| Waiting.| [details](#SN0069) |
 
 ## Extra Notes
+
+### SN0069
+
+> 学习RISCV，并完成PLCT Intern J146工作
+
+### SN0068
+
+> 想要学习RISC-V相关课程，掌握技术
+
+### SN0067
+
+> 添加rvv1.0支持，测试与bench
+> plct实习项目：https://github.com/google/libultrahd
+> 个人兴趣项目：https://github.com/ggerganov/llama.cpp
+
+### SN0063
+
+> "启动基于RISC-V的Linux，探究同样预算下购买开发板和购买二手Thinkpad折腾谁性价比高"
 
 ### SN0062
 
