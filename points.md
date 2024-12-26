@@ -97,3 +97,4 @@ Tranlated in Chinese:
 | lhpqaq | lhpqaq | 0 | PLCT intern |
 | zhouliren | izhouliren | 0 | software engineer |
 | Yusee | WhereIsYuuka | 0 | student |
+| Trace_Recursion | TraceRecursion | 0 | For Box64 RISC-V wiki |
