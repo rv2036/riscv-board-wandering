@@ -78,7 +78,7 @@ Tranlated in Chinese:
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | -1250 |  |
 | Patrick.Qian | Gekyume777 | -1250 | student
-| Alphagocc | alphagocc | 0 | student & RISC-V enthusiast
+| Alphagocc | alphagocc | -1250 | student & RISC-V enthusiast
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
 | Shinonome Tera tanuki | wold9168 | -1250 | student |
 | ustcljh | ustcljh | -6467 | student at USTC |
