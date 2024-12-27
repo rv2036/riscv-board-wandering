@@ -88,7 +88,7 @@ Tranlated in Chinese:
 | 汪辰 | unicornx | -110 | Developer of PLCT-lab |
 | Song | SongYuSheng1216 | -1250 | student & RISC-V enthusiast |
 | kagura | kagura114 | -1250 | for PLCT Intern, J143 |
-| ZhangPeng | Zpp027 | 0 | student & RISC-V enthusiast |
+| ZhangPeng | Zpp027 | -1250 | student & RISC-V enthusiast |
 | aisuneko | aisuneko | 0 | |
 | SkyRain | KamijoToma | 0 | for PLCT Intern, J143 |
 | ZZ123 | Me3ue | 0 | student & RISC-V enthusiast |
