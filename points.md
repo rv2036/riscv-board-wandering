@@ -86,7 +86,7 @@ Tranlated in Chinese:
 | stydxm | stydxm | -1250 | PLCT intern |
 | acyanbird | acyanbird | -1250 | student & deepin linux developer |
 | 汪辰 | unicornx | -110 | Developer of PLCT-lab |
-| Song | SongYuSheng1216 | 0 | student & RISC-V enthusiast |
+| Song | SongYuSheng1216 | -1250 | student & RISC-V enthusiast |
 | kagura | kagura114 | -1250 | for PLCT Intern, J143 |
 | ZhangPeng | Zpp027 | 0 | student & RISC-V enthusiast |
 | aisuneko | aisuneko | 0 | |

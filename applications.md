@@ -63,7 +63,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0056 | acyanbird | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Delivered. | [details](#SN0056) |
 | 0057 | unicornx | | 1 | "Milk-V Duo S" | Delivered. | 开发 RT-Thread |
 | 0058 | Alphagocc | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Delivered. | 想要为 Deepin RISC-V 做一些贡献 |
-| 0059 | SongYuSheng1216 | | 1 | LicheePi 4A 16GB + 显示屏 13.3 寸 | Waiting. | [details](#SN0059) |
+| 0059 | SongYuSheng1216 | | 1 | LicheePi 4A 16GB + 显示屏 13.3 寸 | Delivered. | [details](#SN0059) |
 | 0060 | Zpp027 | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 13.3 显示屏 " | Waiting. | [details](#SN0060) |
 | 0061 | KamijoToma | | 1 | Lichee Pi 4A，16GB版本最好， 8G也可以| Waiting. | [details](#SN0061) |
 | 0062 | Me3ue | | 1 | LicheePi 4A  16GB RAM + 128GB eMMC| Waiting. | [details](#SN0062) |
