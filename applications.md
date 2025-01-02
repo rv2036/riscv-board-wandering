@@ -74,8 +74,18 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0067| lhpqaq| | 1| "LicheePi 4A| 16GB RAM + 128GB eMMC"| Waiting.| [details](#SN0067) |
 | 0068| WhereIsYuuka| | 1| "LicheePi 4A 16GB RAM 希望能够有外壳"| Waiting.| [details](#SN0068) |
 | 0069| NanQin555| | 1| LicheePi 3A 16GB RAM + 32GB eMMC| Waiting.| [details](#SN0069) |
+| 0070 | TraceRecursion | | 1 | LicheePi 4A | Waiting. | [details](#SN0070) |
+| 0071 | superbugintime | | 1 | 01 studio 或者 庐山派K230-CanMV开发板 | Waiting. | [details](#SN0071) |
 
 ## Extra Notes
+
+### SN0071
+
+> 用于 仿生机器人 瓦力（动漫《机器人总动员》中的成员）的开发
+
+### SN0070
+
+> 用于甲辰计划实习工作（Box64 RISC-V wiki 编写）
 
 ### SN0069
 
