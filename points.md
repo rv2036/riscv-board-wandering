@@ -90,7 +90,7 @@ Tranlated in Chinese:
 | kagura | kagura114 | -1250 | for PLCT Intern, J143 |
 | ZhangPeng | Zpp027 | -1250 | student & RISC-V enthusiast |
 | aisuneko | aisuneko | 0 | |
-| SkyRain | KamijoToma | 0 | for PLCT Intern, J143 |
+| SkyRain | KamijoToma | -1250 | for PLCT Intern, J143 |
 | ZZ123 | Me3ue | 0 | student & RISC-V enthusiast |
 | VZstless | VictorZhangAI | 0 | student & RISC-V enthusiast |
 | NanQin | NanQin555 | 0 | PLCT intern, J146 |

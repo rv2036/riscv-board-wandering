@@ -65,7 +65,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0058 | Alphagocc | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Delivered. | 想要为 Deepin RISC-V 做一些贡献 |
 | 0059 | SongYuSheng1216 | | 1 | LicheePi 4A 16GB + 显示屏 13.3 寸 | Delivered LPi4A only. | [details](#SN0059) |
 | 0060 | Zpp027 | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 13.3 显示屏 " | Delivered LPi4A only. | [details](#SN0060) |
-| 0061 | KamijoToma | | 1 | Lichee Pi 4A，16GB版本最好， 8G也可以| Waiting. | [details](#SN0061) |
+| 0061 | KamijoToma | | 1 | Lichee Pi 4A，16GB版本最好， 8G也可以| Delivered. | [details](#SN0061) |
 | 0062 | Me3ue | | 1 | LicheePi 4A  16GB RAM + 128GB eMMC| Waiting. | [details](#SN0062) |
 | 0063| victorzhangai| | 1| LicheePi 4A 16GB + 128GB eMMC| Waiting.| [details](#SN0063) |
 | 0064| - | | 1 | "BananaPi F3| 4GB RAM + 16GM eMMC"| Duplicate. | SN0069 |
