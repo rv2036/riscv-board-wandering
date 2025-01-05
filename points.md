@@ -100,3 +100,4 @@ Tranlated in Chinese:
 | Trace_Recursion | TraceRecursion | -1250 | For Box64 RISC-V wiki |
 | SignKirigami | prcups | 0 |for PLCT Intern, J128 |
 | 老白| superbugintime | -227 | |
+| lIlIlxy|lIlIlxy|0|for Lichee Pi 4A|
