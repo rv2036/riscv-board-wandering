@@ -72,7 +72,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0065| izhouliren| 1 | | "赛昉 VisionFive 2"| Waiting.| 捐赠 |
 | 0066| - | | 1| "LicheePi 4A 16GB 希望能够有外壳"| Duplicate.| SN0068 |
 | 0067 | lhpqaq | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Delivered.| [details](#SN0067) |
-| 0068| WhereIsYuuka| | 1| "LicheePi 4A 16GB RAM 希望能够有外壳"| Waiting.| [details](#SN0068) |
+| 0068 | WhereIsYuuka | | 1 | "LicheePi 4A 16GB RAM 希望能够有外壳"| Delivered. 没有外壳 | [details](#SN0068) |
 | 0069| NanQin555| | 1| LicheePi 3A 16GB RAM + 32GB eMMC| Waiting.| [details](#SN0069) |
 | 0070 | TraceRecursion | | 1 | LicheePi 4A | Waiting. | [details](#SN0070) |
 | 0071 | superbugintime | | 1 | 01 studio 或者 庐山派K230-CanMV开发板 | Waiting. | [details](#SN0071) |
