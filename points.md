@@ -93,7 +93,7 @@ Tranlated in Chinese:
 | SkyRain | KamijoToma | -1250 | for PLCT Intern, J143 |
 | ZZ123 | Me3ue | -1250 | student & RISC-V enthusiast |
 | VZstless | VictorZhangAI | -1250 | student & RISC-V enthusiast |
-| NanQin | NanQin555 | -1250 | PLCT intern, J146 |
+| NanQin | NanQin555 | -1100 | PLCT intern, J146 |
 | lhpqaq | lhpqaq | -1250 | PLCT intern |
 | zhouliren | izhouliren | 0 | software engineer |
 | Yusee | WhereIsYuuka | -1250 | student |
