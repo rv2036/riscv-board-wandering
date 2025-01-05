@@ -92,7 +92,7 @@ Tranlated in Chinese:
 | aisuneko | aisuneko | 0 | |
 | SkyRain | KamijoToma | -1250 | for PLCT Intern, J143 |
 | ZZ123 | Me3ue | -1250 | student & RISC-V enthusiast |
-| VZstless | VictorZhangAI | 0 | student & RISC-V enthusiast |
+| VZstless | VictorZhangAI | -1250 | student & RISC-V enthusiast |
 | NanQin | NanQin555 | 0 | PLCT intern, J146 |
 | lhpqaq | lhpqaq | 0 | PLCT intern |
 | zhouliren | izhouliren | 0 | software engineer |
