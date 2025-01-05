@@ -94,7 +94,7 @@ Tranlated in Chinese:
 | ZZ123 | Me3ue | -1250 | student & RISC-V enthusiast |
 | VZstless | VictorZhangAI | -1250 | student & RISC-V enthusiast |
 | NanQin | NanQin555 | 0 | PLCT intern, J146 |
-| lhpqaq | lhpqaq | 0 | PLCT intern |
+| lhpqaq | lhpqaq | -1250 | PLCT intern |
 | zhouliren | izhouliren | 0 | software engineer |
 | Yusee | WhereIsYuuka | 0 | student |
 | Trace_Recursion | TraceRecursion | 0 | For Box64 RISC-V wiki |
