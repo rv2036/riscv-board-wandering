@@ -90,7 +90,7 @@ Tranlated in Chinese:
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 1 | Donted by RVI |
 | CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 34 | 36 |  |
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
-| LicheePi 3A           | 16GB Memory + 32GB eMMC | 10 | 18 |  |
+| LicheePi 3A           | 16GB Memory + 32GB eMMC | 9 | 17 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
 
 ## 广州漂流基地（PLCT南沙分部）
