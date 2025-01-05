@@ -99,4 +99,4 @@ Tranlated in Chinese:
 | Yusee | WhereIsYuuka | -1250 | student |
 | Trace_Recursion | TraceRecursion | -1250 | For Box64 RISC-V wiki |
 | SignKirigami | prcups | 0 |for PLCT Intern, J128 |
-| 老白| superbugintime | 0 | |
+| 老白| superbugintime | -227 | |

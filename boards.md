@@ -88,7 +88,7 @@ Tranlated in Chinese:
 | Milk-V Duo 256 | Sophgo SG2002 SoC | 3 | 4 | |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 4 | 6 | https://www.sifive.com/boards/hifive-unmatched |
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 1 | Donted by RVI |
-| CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 34 | 36 |  |
+| CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 33 | 35 |  |
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 9 | 17 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
