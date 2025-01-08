@@ -102,3 +102,4 @@ Tranlated in Chinese:
 | 老白| superbugintime | -227 | |
 | lIlIlxy|lIlIlxy|0|for Lichee Pi 4A|
 | rurumuri | rurumuri | 0 | for PLCT Intern, J140 |
+| xianrenqi | xianrenqi | 0 | student & RISC-V enthusiast |
