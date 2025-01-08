@@ -101,3 +101,4 @@ Tranlated in Chinese:
 | SignKirigami | prcups | 0 |for PLCT Intern, J128 |
 | 老白| superbugintime | -227 | |
 | lIlIlxy|lIlIlxy|0|for Lichee Pi 4A|
+| Haodong|Astra-H77|0|RISC-V enthusiast|
