@@ -21,6 +21,7 @@ Tranlated in Chinese:
 | RISC-V国际基金会 | RISC-V International | 3596 | RVI DevBoards Program |
 | 秦派软件 | qinware | 2916 | 生产力工具软件提供商 |
 | 玄铁团队 | XuanTie | 267880 | xrvm.cn |
+| 苦芽科技 | KUBUDS | 4300 | https://kubuds.io |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |

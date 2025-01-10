@@ -16,6 +16,8 @@ Tranlated in Chinese:
 | Points | Board Name            | Configs                                   | Extra Info         |
 | -----: | :-------------------- | :---------------------------------------- | :----------------- |
 | 1250   | LicheePi 4A           | 16GB RAM + 128GB eMMC                     | - |
+| 43    | Milk-V Duo          | CV180B SoC w/ 64M memory                     | - |
+| 68    | Milk-V Duo 256          | SG2002 SoC w/ 256M memory                     | - |
 | 85    | Milk-V Duo S          | no wifi no emmc                     | - |
 | 110   | Milk-V Duo S          | w/ wifi/BT, no emmc                     | - |
 | 130   | Milk-V Duo S          | no wifi, 8GB emc                     | - |
@@ -71,6 +73,7 @@ Tranlated in Chinese:
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 5 |  |
 | CanMV K230 | - | 0 | 1 | |
+| Milk-V Duo           | - | 0 | 50 | 用于RISC-V研讨会现场分发给观众 |
 
 ## 上海漂流基地（苦芽科技）
 
@@ -105,3 +108,4 @@ Tranlated in Chinese:
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | 6 | 6 |  |
 | Milk-V Duo S | Sophgo SG2000 SoC | 1 | 1 | |
 | Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 1 | 1 | |
+| Milk-V Duo           | - | 0 | 50 | 用于RISC-V研讨会现场分发给观众 |
