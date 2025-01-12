@@ -69,7 +69,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0062 | Me3ue | | 1 | LicheePi 4A  16GB RAM + 128GB eMMC| Delivered. | [details](#SN0062) |
 | 0063 | victorzhangai | | 1 | LicheePi 4A 16GB + 128GB eMMC| Delivered.| [details](#SN0063) |
 | 0064 | - | | 1 | "BananaPi F3| 4GB RAM + 16GM eMMC"| Duplicate. | SN0069 |
-| 0065 | izhouliren| 1 | | "赛昉 VisionFive 2" | Waiting. | 捐赠 |
+| 0065 | izhouliren| 1 | | "赛昉 VisionFive 2" | Received. | 捐赠 |
 | 0066 | - | | 1 | "LicheePi 4A 16GB 希望能够有外壳"| Duplicate. | SN0068 |
 | 0067 | lhpqaq | | 1 | "LicheePi 4A 16GB RAM + 128GB eMMC" | Delivered.| [details](#SN0067) |
 | 0068 | WhereIsYuuka | | 1 | "LicheePi 4A 16GB RAM 希望能够有外壳"| Delivered. 没有外壳 | [details](#SN0068) |
