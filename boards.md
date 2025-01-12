@@ -32,6 +32,9 @@ Tranlated in Chinese:
 | 1100   | LicheePi 3A           | 16GB RAM + 32GB eMMC                     | - |
 | 130   | Lichee RV Dock           | D1/C906                     | - |
 | 450   | VisionFive 2           | JH7100                     | - |
+| 3599   | SpacemiT MUSEBook           | SpacemiT K1, 8GB memory, 128GB ssd | - |
+| 3999   | SpacemiT MUSEBook           | SpacemiT K1, 16GB memory, 256GB ssd | - |
+| 4599   | SpacemiT MUSEBook           | SpacemiT K1, 16GB memory, 512GB ssd | - |
 
 ## 南京漂流基地（英麒智能）
 
