@@ -31,6 +31,7 @@ Tranlated in Chinese:
 | 2450  | SiFive HiFive Unmatched          | U74                     | - |
 | 1100   | LicheePi 3A           | 16GB RAM + 32GB eMMC                     | - |
 | 130   | Lichee RV Dock           | D1/C906                     | - |
+| 450   | VisionFive 2           | JH7100                     | - |
 
 ## 南京漂流基地（英麒智能）
 
