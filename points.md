@@ -106,3 +106,4 @@ Tranlated in Chinese:
 | xianrenqi | xianrenqi | 0 | student & RISC-V enthusiast |
 | Haodong|Astra-H77|0|RISC-V enthusiast|
 | westhide | westhide | 0 | RISC-V enthusiast |
+| yurish1 | FIFCC | 0 | Ruyisdk Documentation Manager |
