@@ -83,6 +83,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0077 | xianrenqi | 1 | | 进迭时空MUSEbook，8GB+128GB，银色，无配件。 | Waiting. | 捐赠 |
 | 0078 | prcups | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 参与实习项目J128 |
 | 0079 | rurumuri | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | PLCT J140 岗位需要，在 RISC-V 平台测试 box64 |
+| 0080 | FIFCC | | 1 | "CanMV K230 Suite w/ 13.3 TFT/LCD" | Waiting. | 用于验证和编写ruyisdk的相关文档 |
 
 ## Extra Notes
 
