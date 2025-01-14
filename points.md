@@ -99,7 +99,7 @@ Tranlated in Chinese:
 | zhouliren | izhouliren | 581 | software engineer |
 | Yusee | WhereIsYuuka | -1250 | student |
 | Trace_Recursion | TraceRecursion | -1250 | For Box64 RISC-V wiki |
-| SignKirigami | prcups | 0 |for PLCT Intern, J128 |
+| SignKirigami | prcups | -1250 |for PLCT Intern, J128 |
 | 老白| superbugintime | -227 | |
 | lIlIlxy|lIlIlxy| - 1250 |for Lichee Pi 4A|
 | rurumuri | rurumuri | 0 | for PLCT Intern, J140 |
