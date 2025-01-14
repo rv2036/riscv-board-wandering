@@ -76,7 +76,8 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 5 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 9 |  |
+| LicheePi 3A           | 16GB Memory + 32GB eMMC | 0 | 2 |  |
 | CanMV K230 | - | 0 | 1 | |
 | Milk-V Duo           | - | 0 | 50 | 用于RISC-V研讨会现场分发给观众 |
 
@@ -89,7 +90,7 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 35 | 85 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 31 | 81 |  |
 | Milk-V Duo S | Sophgo SG2000 SoC | 1 | 3 | |
 | Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 2 | 3 | |
 | Milk-V Duo | Sophgo CV180B SoC | 2 | 3 | |
@@ -98,7 +99,7 @@ Tranlated in Chinese:
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 1 | Donted by RVI |
 | CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 32 | 34 |  |
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
-| LicheePi 3A           | 16GB Memory + 32GB eMMC | 9 | 17 |  |
+| LicheePi 3A           | 16GB Memory + 32GB eMMC | 7 | 15 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
 
 ## 广州漂流基地（PLCT南沙分部）
