@@ -78,8 +78,8 @@ Tranlated in Chinese:
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 9 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 0 | 2 |  |
-| CanMV K230 | - | 0 | 1 | |
-| Milk-V Duo           | - | 0 | 50 | 用于RISC-V研讨会现场分发给观众 |
+| CanMV K230            | - | 0 | 1 | 用于RISC-V生态实验室建设 |
+| Milk-V Duo            | - | 0 | 0 | 用于RISC-V研讨会现场分发给观众 |
 
 ## 上海漂流基地（苦芽科技）
 
