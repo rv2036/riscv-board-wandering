@@ -77,7 +77,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0070 | TraceRecursion | | 1 | LicheePi 4A | Delivered. | [details](#SN0070) |
 | 0071 | superbugintime | | 1 | 01 studio 或者 庐山派K230-CanMV开发板 | Delivered. | [details](#SN0071) |
 | 0073 | prcups | 1 | | VisionFive2，4G内存，无emmc和wifi，带亚克力外壳、风扇、散热片 | Waiting. | 捐赠 |
-| 0074 | lIlIlxy | | 1 | Lichee Pi 4A 16+128 | Waiting. | J140实习申请荔枝派4a |
+| 0074 | lIlIlxy | | 1 | Lichee Pi 4A 16+128 | Delivered. | J140实习申请荔枝派4a |
 | 0075 | leosibogod | | 1 | Milk-V Duo 系列SG2002 （双核 256M）/ 勘智K230 | Waiting. | PLCT实习+社区项目 |
 | 0076 | Astra-H77 | | 1 | LicheePi 4A 16GB + 128GB eMMC | Waiting. | 用于RISC-V学习，体验基于RISC-V核+Linux OS生态，用于开发RV游戏机 |
 | 0077 | xianrenqi | 1 | | 进迭时空MUSEbook，8GB+128GB，银色，无配件。 | Waiting. | 捐赠 |
