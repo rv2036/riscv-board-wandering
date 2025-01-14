@@ -102,7 +102,7 @@ Tranlated in Chinese:
 | SignKirigami | prcups | -1250 |for PLCT Intern, J128 |
 | 老白| superbugintime | -227 | |
 | lIlIlxy|lIlIlxy| - 1250 |for Lichee Pi 4A|
-| rurumuri | rurumuri | 0 | for PLCT Intern, J140 |
+| rurumuri | rurumuri | -1250 | for PLCT Intern, J140 |
 | xianrenqi | xianrenqi | 0 | student & RISC-V enthusiast |
 | Haodong|Astra-H77| -1250 |RISC-V enthusiast|
 | westhide | westhide | 0 | RISC-V enthusiast |
