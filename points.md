@@ -107,3 +107,4 @@ Tranlated in Chinese:
 | Haodong|Astra-H77| -1250 |RISC-V enthusiast|
 | westhide | westhide | 0 | RISC-V enthusiast |
 | yurish1 | FIFCC | -227 | Ruyisdk Documentation Manager |
+| mahno | MahnoKropotkinvich | 0 | RISC-V enthusiast |
