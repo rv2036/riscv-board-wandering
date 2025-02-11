@@ -108,3 +108,4 @@ Tranlated in Chinese:
 | westhide | westhide | 0 | RISC-V enthusiast |
 | yurish1 | FIFCC | -227 | Ruyisdk Documentation Manager |
 | mahno | MahnoKropotkinvich | 0 | RISC-V enthusiast |
+| Wantao Liu | Tenktau | 0 | student |
