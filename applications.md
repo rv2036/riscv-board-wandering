@@ -84,8 +84,27 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0078 | prcups | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | 参与实习项目J128 |
 | 0079 | rurumuri | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | PLCT J140 岗位需要，在 RISC-V 平台测试 box64 |
 | 0080 | FIFCC | | 1 | "CanMV K230 Suite w/ 13.3 TFT/LCD" | Delivered. | 用于验证和编写ruyisdk的相关文档 |
+| 0081 | FIFCC | | 1 | "Duo 256 + Duo S" | Waiting. | [details](#SN0081) |
+| 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Waiting. | 捐赠 | |
+| 0083 | AlenWoo | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | [details](#SN0083) |
+| 0084 | MahnoKropotkinvich | | 1 | LicheePi 4A | Waiting. | 进行RISC-V Linux开发 | |
+| 0085 | Tenktau | | 1 | LicheePi 4A | Waiting. | [details](#SN0085) |
+| 0086 | stc15f104w | | 1 | lichee4a | Waiting. | j129学员学习rvv linux | |
+| 0087 | MahnoKropotkinvich | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 完成J133 Intern的开发任务 | |
 
 ## Extra Notes
+
+### SN0085
+
+> 计划用于学习 RevyOS 相关内容，并为后面可能参与的 J143 实习岗位打好基础。也有可能顺便制作开箱视频宣传甲辰计划！
+
+### SN0083
+
+> 拿到开发板后我想使用该开发板做一个项目《基于RISC-V的智能座舱》并开放开源到社区，增加社区活力。同时把开发过程和学习过程也以帖子的方式分享到社区。
+
+### SN0081
+
+> 学习如何在duo256以及在duos上运行一些关于ruyisdk的实例
 
 ### SN0071
 
