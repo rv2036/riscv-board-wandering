@@ -109,3 +109,4 @@ Tranlated in Chinese:
 | yurish1 | FIFCC | -227 | Ruyisdk Documentation Manager |
 | mahno | MahnoKropotkinvich | 0 | RISC-V enthusiast |
 | Wantao Liu | Tenktau | 0 | student |
+| Rili | stc15f104w | 0 | student |
