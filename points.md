@@ -111,3 +111,4 @@ Tranlated in Chinese:
 | Wantao Liu | Tenktau | 0 | student |
 | Rili | stc15f104w | 0 | student |
 | Alen Li | ailunwowo | 0 | student |
+| Howard Jen | goodluckrhj | 0 | RISC-V enthusiast|
