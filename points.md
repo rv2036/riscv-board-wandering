@@ -112,3 +112,4 @@ Tranlated in Chinese:
 | Rili | stc15f104w | 0 | student |
 | Alen Li | ailunwowo | 0 | student |
 | Howard Jen | goodluckrhj | 0 | RISC-V enthusiast|
+| Smart Fridge | smartfridgeIoT | 0 | RISC-V enthusiast|
