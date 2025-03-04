@@ -91,6 +91,12 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0085 | Tenktau | | 1 | LicheePi 4A | Waiting. | [details](#SN0085) |
 | 0086 | stc15f104w | | 1 | lichee4a | Waiting. | j129学员学习rvv linux | |
 | 0087 | MahnoKropotkinvich | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 完成J133 Intern的开发任务 | |
+| 0088 | dapengu1 | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | 学习在RISCV开发板上面运行Linux，进行Linux应用和驱动开发 |
+| 0089 | dapengu1 | | 1 | lichee pi 4A 16GRAM+128GeMMC | Waiting. | 学习riscV相关课程，试试在RISCV环境下的linux |
+| 0090 | sunmin89 | | 1 | LicheePi 4A ，16GB Memory + 128GB eMMC | Waiting. | aosp 学习 |
+| 0091 | goodluckrhj | | 1 | Lichee Pi 4A 16G RAM 128G eMMc | Waiting. | Linux porting |
+| 0092 | Eidosper | | 1 | LicheePi 4a 16+128 | Waiting. | 尝试用于教学 |
+| 0093 | smartfridgeIoT | | 1 | Lichee Pi 4A | Waiting. | 确定移植AI模型的方法和效果 |
 
 ## Extra Notes
 
