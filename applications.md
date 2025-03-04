@@ -85,12 +85,12 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0079 | rurumuri | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | PLCT J140 岗位需要，在 RISC-V 平台测试 box64 |
 | 0080 | FIFCC | | 1 | "CanMV K230 Suite w/ 13.3 TFT/LCD" | Delivered. | 用于验证和编写ruyisdk的相关文档 |
 | 0081 | FIFCC | | 1 | "Duo 256 + Duo S" | Waiting. | [details](#SN0081) |
-| 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Waiting. | 捐赠 | |
+| 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Waiting. | 捐赠 |
 | 0083 | AlenWoo | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | [details](#SN0083) |
-| 0084 | MahnoKropotkinvich | | 1 | LicheePi 4A | Waiting. | 进行RISC-V Linux开发 | |
+| 0084 | MahnoKropotkinvich | | 1 | LicheePi 4A | Waiting. | 进行RISC-V Linux开发 |
 | 0085 | Tenktau | | 1 | LicheePi 4A | Waiting. | [details](#SN0085) |
-| 0086 | stc15f104w | | 1 | lichee4a | Waiting. | j129学员学习rvv linux | |
-| 0087 | MahnoKropotkinvich | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 完成J133 Intern的开发任务 | |
+| 0086 | stc15f104w | | 1 | lichee4a | Waiting. | j129学员学习rvv linux |
+| 0087 | MahnoKropotkinvich | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 完成J133 Intern的开发任务 |
 | 0088 | dapengu1 | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | 学习在RISCV开发板上面运行Linux，进行Linux应用和驱动开发 |
 | 0089 | dapengu1 | | 1 | lichee pi 4A 16GRAM+128GeMMC | Waiting. | 学习riscV相关课程，试试在RISCV环境下的linux |
 | 0090 | sunmin89 | | 1 | LicheePi 4A ，16GB Memory + 128GB eMMC | Waiting. | aosp 学习 |
