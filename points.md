@@ -113,3 +113,4 @@ Tranlated in Chinese:
 | Alen Li | ailunwowo | 0 | student |
 | Howard Jen | goodluckrhj | 0 | RISC-V enthusiast|
 | Smart Fridge | smartfridgeIoT | 0 | RISC-V enthusiast|
+| 6eanut | 6eanut | 0 | student & RISC-V enthusiast |
