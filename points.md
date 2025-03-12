@@ -114,3 +114,4 @@ Tranlated in Chinese:
 | Howard Jen | goodluckrhj | 0 | RISC-V enthusiast|
 | Smart Fridge | smartfridgeIoT | 0 | RISC-V enthusiast|
 | 6eanut | 6eanut | 0 | student & RISC-V enthusiast |
+| aki-mio | aki-mio | 0 | student & for Lichee Pi 4A |
