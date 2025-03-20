@@ -22,6 +22,7 @@ Tranlated in Chinese:
 | 秦派软件 | qinware | 2916 | 生产力工具软件提供商 |
 | 玄铁团队 | XuanTie | 267880 | xrvm.cn |
 | 苦芽科技 | KUBUDS | 4300 | https://kubuds.io |
+| 迅龙软件 | OrangePi | 4980 | http://www.xunlong.tv/ |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |

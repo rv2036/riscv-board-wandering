@@ -35,6 +35,9 @@ Tranlated in Chinese:
 | 3599   | SpacemiT MUSEBook           | SpacemiT K1, 8GB memory, 128GB ssd | - |
 | 3999   | SpacemiT MUSEBook           | SpacemiT K1, 16GB memory, 256GB ssd | - |
 | 4599   | SpacemiT MUSEBook           | SpacemiT K1, 16GB memory, 512GB ssd | - |
+| 249   | OrangePi RV2          | 2GB RAM | - |
+| 299   | OrangePi RV2          | 4GB RAM | - |
+| 399   | OrangePi RV2          | 8GB RAM | - |
 
 ## 南京漂流基地（英麒智能）
 
@@ -101,6 +104,7 @@ Tranlated in Chinese:
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 5 | 13 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
+| OrangePi RV2           | 2GB RAM | 18 | 20 |  |
 
 ## 广州漂流基地（PLCT南沙分部）
 
