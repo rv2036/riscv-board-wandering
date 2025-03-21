@@ -103,8 +103,14 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0097 | Pairman | | 1 | Lichee Pi 4A 16GB+128GB | Waiting. | [details](#SN0097) |
 | 0098 | aki-mio | | 1 | Lichee Pi 4A | Waiting. | 用来学习相关知识，用来熟悉risc-v，为之后的实习做准备 |
 | 0099 | lxr2010 | | 1 | "MilkV Duo256 或 MilkV DuoS" | Waiting. | 参加risc-v软件优化移植赛 |
+| 0100 | discodyer | | 1 | "LicheePi 4A  16GB RAM + 128GB eMMC" | Waiting. | [details](#SN0100) |
+| 0101 | tekkamanninja | | 1 | OrangePi RV2 2GB | Waiting. | Fedora Image 移植与测试 | |
 
 ## Extra Notes
+
+### SN0100
+
+> 我们准备将一款自研小型无人车上的控制板改为openEuler24.03支持的RISC-V架构的开发板，所以希望申请一块LicheePi 4A
 
 ### SN0097
 
