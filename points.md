@@ -119,3 +119,4 @@ Tranlated in Chinese:
 | Pairman | Pairman | 0 | student |
 | lxr2010 | lxr2010 | 0 | student |
 | Cody Gu | discodyer | 0 | for PLCT Intern, J122 |
+| damon | sycamoremoon | 0 | RISC-V enthusiast|
