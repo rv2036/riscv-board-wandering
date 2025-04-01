@@ -120,3 +120,4 @@ Tranlated in Chinese:
 | lxr2010 | lxr2010 | 0 | student |
 | Cody Gu | discodyer | 0 | for PLCT Intern, J122 |
 | damon | sycamoremoon | 0 | RISC-V enthusiast|
+| 猫叔 | Tunglies | 0 | |
