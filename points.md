@@ -122,3 +122,4 @@ Tranlated in Chinese:
 | damon | sycamoremoon | 0 | RISC-V enthusiast|
 | 猫叔 | Tunglies | 0 | |
 | SmallCoral | SmallCoral | 0 | student |
+| saicogn | saicogn | 0 | for PLCT Intern, J129 |
