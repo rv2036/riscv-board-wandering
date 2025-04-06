@@ -105,8 +105,48 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0099 | lxr2010 | | 1 | "MilkV Duo256 或 MilkV DuoS" | Waiting. | 参加risc-v软件优化移植赛 |
 | 0100 | discodyer | | 1 | "LicheePi 4A  16GB RAM + 128GB eMMC" | Waiting. | [details](#SN0100) |
 | 0101 | tekkamanninja | | 1 | OrangePi RV2 2GB | Waiting. | Fedora Image 移植与测试 | |
+| 0102 | sycamoremoon | | 1 | 多核SoC，没有其他特别要求。最好是体积小一点 | Waiting. | [details](#SN0102) |
+| 0103 | ngc7331 | | 1 | "LicheePi 4A 16GB Memory + 128GB" | Waiting. | [details](#SN0103) |
+| 0104 | libiunc | | 1 | "LicheePi 4A 低配就好 op只需要母版的网口和USB3.0能正常用就行" | Waiting. | [details](#SN0104) |
+| 0105 | SmallCoral | | 1 | LicheePi 4A | Waiting. | 学习与开发 |
+| 0106 | Tunglies | | 1 | Milk-V Mars (4G) | Waiting. | [details](#SN0106) |
+| 0107 | SmallCoral | | 1 | LicheePi 4A（16GB Memory + 128GB eMMC） | Waiting. | 学习或开发 |
+| 0108 | saicogn | | 1 | LicheePi 4A (16GB Memory + 128GB eMMC) | Waiting. | [details](#SN0108) |
 
 ## Extra Notes
+
+### SN0108
+
+> 用于PLCT实习（J129）中测试和验证相关软件在RISC-V上的运行情况。
+
+### SN0106
+
+> 运行 Openwrt + 健康猫猫。尝试 RV 代替 ARM 软路由。
+
+### SN0104
+
+> openwrt(包括immortalwrt和lede)的主线适配
+
+### SN0103
+
+> "希望认领LicheePi 4A 16GB Memory + 128GB eMMC
+> 
+> 另希望捐赠替换下来的华山派（CV1811H+256MB Mem+8GB eMMC），带硬十原装的盒子，无其它配件"
+> 
+> "主要是学习，目前感兴趣的方向：
+> 1. RV上的云计算软件生态，docker，etc.
+> 2. linux kernel开发
+> 3. 体系结构安全（侧信道，etc.）
+> 另外用来原生编译/构建一些软件包/docker镜像/...，给手头其它性能弱的RV板子用"
+
+### SN0102
+
+> "学习riscv架构相关知识，移植验证OS项目
+> https://github.com/EDI-Systems/M7M01_Eukaron
+> https://github.com/embox/embox
+> 以及自己想在板子上做一些小实验或者开发"
+
+
 
 ### SN0100
 
