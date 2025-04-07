@@ -38,6 +38,7 @@ Tranlated in Chinese:
 | 249   | OrangePi RV2          | 2GB RAM | - |
 | 299   | OrangePi RV2          | 4GB RAM | - |
 | 399   | OrangePi RV2          | 8GB RAM | - |
+| 1499   | Milk-V Megrez          | 16GB RAM, 19.95TOPS NPU, SiFive P550 x4 | - |
 
 ## 南京漂流基地（英麒智能）
 
@@ -105,6 +106,7 @@ Tranlated in Chinese:
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 5 | 13 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
 | OrangePi RV2           | 2GB RAM | 18 | 20 |  |
+| Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 
 ## 广州漂流基地（PLCT南沙分部）
 
