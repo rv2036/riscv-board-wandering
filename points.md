@@ -124,4 +124,5 @@ Tranlated in Chinese:
 | SmallCoral | SmallCoral | 0 | student |
 | saicogn | saicogn | 0 | for PLCT Intern, J129 |
 | libiunc | libiunc | 0 | for PLCT Intern, BJ92 |
+| LYOfficial | LYOfficial | 0 | student |
 | 江南 | Near-Jungnune | 0 | student & RISC-V enthusiast |
