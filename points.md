@@ -23,6 +23,7 @@ Tranlated in Chinese:
 | 玄铁团队 | XuanTie | 267880 | xrvm.cn |
 | 苦芽科技 | KUBUDS | 4300 | https://kubuds.io |
 | 迅龙软件 | OrangePi | 4980 | http://www.xunlong.tv/ |
+| 嘉楠 | Cannan | 2490 | https://www.canaan-creative.com/ |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
