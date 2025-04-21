@@ -128,3 +128,4 @@ Tranlated in Chinese:
 | LYOfficial | LYOfficial | 0 | student |
 | 江南 | Near-Jungnune | 0 | student & RISC-V enthusiast |
 | jinqiang zhang | peeweep | 0 | RISC-V enthusiast |
+| JerryXu | Jerry1962325 | 0 | RISC-V enthusiast&student |
