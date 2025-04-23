@@ -106,7 +106,7 @@ Tranlated in Chinese:
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 5 | 13 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
-| OrangePi RV2           | 2GB RAM | 18 | 20 |  |
+| OrangePi RV2           | 2GB RAM | 16 | 18 |  |
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 | 01Studio CanMV K230 | No RJ45 | 8 | 10 |  |
 
@@ -125,3 +125,4 @@ Tranlated in Chinese:
 | Milk-V Duo           | - | 0 | 50 | 用于RISC-V研讨会现场分发给观众 |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 0 | 2 | 用于RISC-V生态实验室建设 |
 | CanMV K230            | - | 0 | 2 | 用于RISC-V生态实验室建设 |
+| OrangePi RV2           | 2GB RAM | 1 | 2 |  |
