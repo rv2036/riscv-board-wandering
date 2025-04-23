@@ -61,7 +61,7 @@ Tranlated in Chinese:
 | BananaPi BPI-F3 | SpacemiT K1, 4G RAM, 16G eMMC | 0 | 0 | |
 | BananaPi BPI-F3 | 16G RAM + 128G eMMC | 0 | 1 | |
 | CanMV K230 | - | 10 | 10 | |
-| END_OF_TABLE | - | 1 | 1 | |
+| OrangePi RV2           | 2GB RAM | 4 | 5 |  |
 
 ## 北京漂流基地（北京开源芯片研究院）
 
@@ -107,7 +107,7 @@ Tranlated in Chinese:
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 5 | 13 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
-| OrangePi RV2           | 2GB RAM | 11 | 13 |  |
+| OrangePi RV2           | 2GB RAM | 5 | 8 |  |
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 | 01Studio CanMV K230 | No RJ45 | 8 | 10 |  |
 
