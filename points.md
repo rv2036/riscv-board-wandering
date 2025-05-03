@@ -110,7 +110,7 @@ Tranlated in Chinese:
 | westhide | westhide | 0 | RISC-V enthusiast |
 | yurish1 | FIFCC | -405 | Ruyisdk Documentation Manager |
 | mahno | MahnoKropotkinvich | -1250 | RISC-V enthusiast |
-| Wantao Liu | Tenktau | 0 | student |
+| Wantao Liu | Tenktau | -1250 | student |
 | Rili | stc15f104w | 0 | student |
 | Alen Li | ailunwowo | 0 | student |
 | Howard Jen | goodluckrhj | 0 | RISC-V enthusiast|
