@@ -110,7 +110,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0104 | libiunc | | 1 | "LicheePi 4A 低配就好 op只需要母版的网口和USB3.0能正常用就行" | Waiting. | [details](#SN0104) |
 | 0105 | SmallCoral | | 1 | LicheePi 4A | Waiting. | 学习与开发 |
 | 0106 | Tunglies | | 1 | Milk-V Mars (4G) | Waiting. | [details](#SN0106) |
-| 0107 | SmallCoral | | 1 | LicheePi 4A（16GB Memory + 128GB eMMC） | Waiting. | 学习或开发 |
+| 0107 | - | | 1 | LicheePi 4A（16GB Memory + 128GB eMMC） | Duplicate. | SN0105 |
 | 0108 | saicogn | | 1 | LicheePi 4A (16GB Memory + 128GB eMMC) | Waiting. | [details](#SN0108) |
 | 0109 | LYOfficial | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 及电源线" | Waiting. | 搭建小型移动Linux服务器 |
 | 0110 | Near-Jungnune | | 1 | "Board Name：Milk-V Duo S Configs：w/ wifi/BT, 8GB emmc" | Waiting. | 学习RISC-V相关课程 |
