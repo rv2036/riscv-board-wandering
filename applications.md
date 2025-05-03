@@ -87,7 +87,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0081 | FIFCC | | 1 | "Duo 256 + Duo S" | Delivered. | [details](#SN0081) |
 | 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Waiting. | 捐赠 |
 | 0083 | AlenWoo | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | [details](#SN0083) |
-| 0084 | MahnoKropotkinvich | | 1 | LicheePi 4A | Waiting. | 进行RISC-V Linux开发 |
+| 0084 | MahnoKropotkinvich | | 1 | LicheePi 4A | Delivered. | 进行RISC-V Linux开发 |
 | 0085 | Tenktau | | 1 | LicheePi 4A | Waiting. | [details](#SN0085) |
 | 0086 | stc15f104w | | 1 | lichee4a | Waiting. | j129学员学习rvv linux |
 | 0087 | MahnoKropotkinvich | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 完成J133 Intern的开发任务 |

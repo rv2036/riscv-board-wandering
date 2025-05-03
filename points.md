@@ -109,7 +109,7 @@ Tranlated in Chinese:
 | Haodong|Astra-H77| -1250 |RISC-V enthusiast|
 | westhide | westhide | 0 | RISC-V enthusiast |
 | yurish1 | FIFCC | -405 | Ruyisdk Documentation Manager |
-| mahno | MahnoKropotkinvich | 0 | RISC-V enthusiast |
+| mahno | MahnoKropotkinvich | -1250 | RISC-V enthusiast |
 | Wantao Liu | Tenktau | 0 | student |
 | Rili | stc15f104w | 0 | student |
 | Alen Li | ailunwowo | 0 | student |
