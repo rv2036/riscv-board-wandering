@@ -130,3 +130,4 @@ Tranlated in Chinese:
 | jinqiang zhang | peeweep | 0 | RISC-V enthusiast |
 | JerryXu | Jerry1962325 | 0 | RISC-V enthusiast&student |
 | Eulysses | bachekaiqilai | 0 | |
+| AlenWoo | AlenWoo | -1250 | SN0083 |
