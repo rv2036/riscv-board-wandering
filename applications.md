@@ -99,7 +99,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0093 | smartfridgeIoT | | 1 | Lichee Pi 4A | Waiting. | 确定移植AI模型的方法和效果 |
 | 0094 | SongYuSheng1216 | 1 | | "LicheePi 4A 16GB Memory + 128GB eMMC 电源适配器，debugger调试器工具" | Waiting. | 捐赠 |
 | 0095 | 6eanut | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | 想启动RISC-V Linux，并且从源码编译一些开源软件，比如tensorflow等。 |
-| 0096 | 6eanut | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | 想要启动RISC-V Linux，并且从源码编译一些开源软件，例如tensorflow。 |
+| 0096 | - | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Duplicate. | SN0095 |
 | 0097 | Pairman | | 1 | Lichee Pi 4A 16GB+128GB | Waiting. | [details](#SN0097) |
 | 0098 | aki-mio | | 1 | Lichee Pi 4A | Waiting. | 用来学习相关知识，用来熟悉risc-v，为之后的实习做准备 |
 | 0099 | lxr2010 | | 1 | "MilkV Duo256 或 MilkV DuoS" | Waiting. | 参加risc-v软件优化移植赛 |
