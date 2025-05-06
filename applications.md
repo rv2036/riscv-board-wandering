@@ -112,7 +112,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0106 | Tunglies | | 1 | Milk-V Mars (4G) | Waiting. | [details](#SN0106) |
 | 0107 | - | | 1 | LicheePi 4A（16GB Memory + 128GB eMMC） | Duplicate. | SN0105 |
 | 0108 | saicogn | | 1 | LicheePi 4A (16GB Memory + 128GB eMMC) | Delivered. | [details](#SN0108) |
-| 0109 | LYOfficial | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 及电源线" | Waiting. | 搭建小型移动Linux服务器 |
+| 0109 | LYOfficial | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 及电源线" | Delivered. | 搭建小型移动Linux服务器 |
 | 0110 | Near-Jungnune | | 1 | "Board Name：Milk-V Duo S Configs：w/ wifi/BT, 8GB emmc" | Waiting. | 学习RISC-V相关课程 |
 | 0111 | Chrithon | | 1 | Milk-V Megrez 16GB | Waiting. | 用于Dify部署实验 |
 | 0112 | peeweep | | 1 | 希望认领一块 LicheePi 4A， 16GB RAM + 128GB eMMC | Waiting. | 用于在实体机上测试一些OERV 相关的项目 |

@@ -125,7 +125,7 @@ Tranlated in Chinese:
 | SmallCoral | SmallCoral | -1250 | student |
 | saicogn | saicogn | -1250 | for PLCT Intern, J129 |
 | libiunc | libiunc | -1250 | for PLCT Intern, BJ92 |
-| LYOfficial | LYOfficial | 0 | student |
+| LYOfficial | LYOfficial | -1250 | student |
 | 江南 | Near-Jungnune | 0 | student & RISC-V enthusiast |
 | jinqiang zhang | peeweep | 0 | RISC-V enthusiast |
 | JerryXu | Jerry1962325 | 0 | RISC-V enthusiast&student |
