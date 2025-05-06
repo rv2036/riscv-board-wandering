@@ -124,7 +124,7 @@ Tranlated in Chinese:
 | 猫叔 | Tunglies | 0 | |
 | SmallCoral | SmallCoral | 0 | student |
 | saicogn | saicogn | 0 | for PLCT Intern, J129 |
-| libiunc | libiunc | 0 | for PLCT Intern, BJ92 |
+| libiunc | libiunc | -1250 | for PLCT Intern, BJ92 |
 | LYOfficial | LYOfficial | 0 | student |
 | 江南 | Near-Jungnune | 0 | student & RISC-V enthusiast |
 | jinqiang zhang | peeweep | 0 | RISC-V enthusiast |
