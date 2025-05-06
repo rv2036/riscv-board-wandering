@@ -101,7 +101,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0095 | 6eanut | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | 想启动RISC-V Linux，并且从源码编译一些开源软件，比如tensorflow等。 |
 | 0096 | - | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Duplicate. | SN0095 |
 | 0097 | Pairman | | 1 | Lichee Pi 4A 16GB+128GB | Delivered. | [details](#SN0097) |
-| 0098 | aki-mio | | 1 | Lichee Pi 4A | Waiting. | 用来学习相关知识，用来熟悉risc-v，为之后的实习做准备 |
+| 0098 | aki-mio | | 1 | Lichee Pi 4A | Delivered. | 用来学习相关知识，用来熟悉risc-v，为之后的实习做准备 |
 | 0099 | lxr2010 | | 1 | "MilkV Duo256 或 MilkV DuoS" | Waiting. | 参加risc-v软件优化移植赛 |
 | 0100 | discodyer | | 1 | "LicheePi 4A  16GB RAM + 128GB eMMC" | Waiting. | [details](#SN0100) |
 | 0101 | tekkamanninja | | 1 | OrangePi RV2 2GB | Waiting. | Fedora Image 移植与测试 |
