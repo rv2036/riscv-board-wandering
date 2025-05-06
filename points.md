@@ -115,7 +115,7 @@ Tranlated in Chinese:
 | Alen Li | ailunwowo | 0 | student |
 | Howard Jen | goodluckrhj | -1250 | RISC-V enthusiast|
 | Smart Fridge | smartfridgeIoT | -1250 | RISC-V enthusiast|
-| 6eanut | 6eanut | 0 | student & RISC-V enthusiast |
+| 6eanut | 6eanut | -1250 | student & RISC-V enthusiast |
 | aki-mio | aki-mio | 0 | student & for Lichee Pi 4A |
 | Pairman | Pairman | 0 | student |
 | lxr2010 | lxr2010 | 0 | student |
