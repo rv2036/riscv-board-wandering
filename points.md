@@ -120,7 +120,7 @@ Tranlated in Chinese:
 | Pairman | Pairman | -1250 | student |
 | lxr2010 | lxr2010 | -110 | student |
 | Cody Gu | discodyer | -1250 | for PLCT Intern, J122 |
-| damon | sycamoremoon | 0 | RISC-V enthusiast|
+| damon | sycamoremoon | -1250 | RISC-V enthusiast|
 | 猫叔 | Tunglies | 0 | |
 | SmallCoral | SmallCoral | 0 | student |
 | saicogn | saicogn | 0 | for PLCT Intern, J129 |

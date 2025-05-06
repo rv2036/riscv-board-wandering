@@ -105,7 +105,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0099 | lxr2010 | | 1 | "MilkV Duo256 或 MilkV DuoS" | Delivered. | 参加risc-v软件优化移植赛 |
 | 0100 | discodyer | | 1 | "LicheePi 4A  16GB RAM + 128GB eMMC" | Delivered. | [details](#SN0100) |
 | 0101 | tekkamanninja | | 1 | OrangePi RV2 2GB | Delivered. x2 | Fedora Image 移植与测试 |
-| 0102 | sycamoremoon | | 1 | 多核SoC，没有其他特别要求。最好是体积小一点 | Waiting. | [details](#SN0102) |
+| 0102 | sycamoremoon | | 1 | 多核SoC，没有其他特别要求。最好是体积小一点 | Delivered. | [details](#SN0102) |
 | 0103 | ngc7331 | | 1 | "LicheePi 4A 16GB Memory + 128GB" | Waiting. | [details](#SN0103) |
 | 0104 | libiunc | | 1 | "LicheePi 4A 低配就好 op只需要母版的网口和USB3.0能正常用就行" | Waiting. | [details](#SN0104) |
 | 0105 | SmallCoral | | 1 | LicheePi 4A | Waiting. | 学习与开发 |
