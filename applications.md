@@ -24,7 +24,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0017 | liqi | | 1 | "LicheePi 4A	16GB Memory + 128GB eMMC" | Cancelled | |
 | 0018 | lizaifang | | | - | Duplicate. | `SN0019` |
 | 0019 | lizaifang | 1 | | BananaPi BPI-F3， 4G RAM，16G eMMC | Received (Nanjing dockbase) | |
-| 0020 | mengzhuo | 1 | | "3 MilkV Mars-CM (4G/8G) / 1 MilkV Mars (4G) / 1 Licheepi Console / 1 Visionfive / 2 Visionfive2 (坏了，但是应该SoC还是好的）" | Received (Nanjing dockbase) | |
+| 0020 | mengzhuo | 1 | | [details](#SN0020) | Received (Nanjing dockbase) | |
 | 0021 | SeasonMay | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | |
 | 0022 | ztjjj9 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | ztjjj9 |
 | 0023 | mikice233 | | 1 | LicheePi 4A | Delivered. | milkice233 |
@@ -258,3 +258,7 @@ Tracking Dashboard for RISC-V Board Applications.
 
 > 移植项目到RISC-V上；测评对比RISC-V和其它架构的能效比：
 > https://github.com/xeonds/iot-go
+
+### SN0020
+
+> "3 MilkV Mars-CM (4G/8G) / 1 MilkV Mars (4G) / 1 Licheepi Console / 1 Visionfive / 2 Visionfive2 (坏了，但是应该SoC还是好的）"
