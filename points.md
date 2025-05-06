@@ -131,3 +131,4 @@ Tranlated in Chinese:
 | JerryXu | Jerry1962325 | 0 | RISC-V enthusiast&student |
 | Eulysses | bachekaiqilai | 0 | |
 | AlenWoo | AlenWoo | -1250 | SN0083 |
+| BingFan | lsobvfe | 0 | student & for PLCT Intern |
