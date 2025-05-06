@@ -117,7 +117,7 @@ Tranlated in Chinese:
 | Smart Fridge | smartfridgeIoT | -1250 | RISC-V enthusiast|
 | 6eanut | 6eanut | -1250 | student & RISC-V enthusiast |
 | aki-mio | aki-mio | 0 | student & for Lichee Pi 4A |
-| Pairman | Pairman | 0 | student |
+| Pairman | Pairman | -1250 | student |
 | lxr2010 | lxr2010 | 0 | student |
 | Cody Gu | discodyer | 0 | for PLCT Intern, J122 |
 | damon | sycamoremoon | 0 | RISC-V enthusiast|
