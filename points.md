@@ -119,7 +119,7 @@ Tranlated in Chinese:
 | aki-mio | aki-mio | -1250 | student & for Lichee Pi 4A |
 | Pairman | Pairman | -1250 | student |
 | lxr2010 | lxr2010 | -110 | student |
-| Cody Gu | discodyer | 0 | for PLCT Intern, J122 |
+| Cody Gu | discodyer | -1250 | for PLCT Intern, J122 |
 | damon | sycamoremoon | 0 | RISC-V enthusiast|
 | 猫叔 | Tunglies | 0 | |
 | SmallCoral | SmallCoral | 0 | student |
