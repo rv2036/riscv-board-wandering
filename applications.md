@@ -94,7 +94,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0088 | dapengu1 | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | 学习在RISCV开发板上面运行Linux，进行Linux应用和驱动开发 |
 | 0089 | - | | 1 | lichee pi 4A 16GRAM+128GeMMC | Duplicate. | SN0088 学习riscV相关课程，试试在RISCV环境下的linux |
 | 0090 | sunmin89 | | 1 | LicheePi 4A ，16GB Memory + 128GB eMMC | Delivered. | aosp 学习 |
-| 0091 | goodluckrhj | | 1 | Lichee Pi 4A 16G RAM 128G eMMc | Waiting. | Linux porting |
+| 0091 | goodluckrhj | | 1 | Lichee Pi 4A 16G RAM 128G eMMc | Delivered. | Linux porting |
 | 0092 | Eidosper | | 1 | LicheePi 4a 16+128 | Waiting. | 尝试用于教学 |
 | 0093 | smartfridgeIoT | | 1 | Lichee Pi 4A | Waiting. | 确定移植AI模型的方法和效果 |
 | 0094 | SongYuSheng1216 | 1 | | "LicheePi 4A 16GB Memory + 128GB eMMC 电源适配器，debugger调试器工具" | Waiting. | 捐赠 |

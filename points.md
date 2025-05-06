@@ -113,7 +113,7 @@ Tranlated in Chinese:
 | Wantao Liu | Tenktau | -1250 | student |
 | Rili | stc15f104w | -1250 | student |
 | Alen Li | ailunwowo | 0 | student |
-| Howard Jen | goodluckrhj | 0 | RISC-V enthusiast|
+| Howard Jen | goodluckrhj | -1250 | RISC-V enthusiast|
 | Smart Fridge | smartfridgeIoT | 0 | RISC-V enthusiast|
 | 6eanut | 6eanut | 0 | student & RISC-V enthusiast |
 | aki-mio | aki-mio | 0 | student & for Lichee Pi 4A |
