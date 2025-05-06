@@ -40,7 +40,7 @@ Tranlated in Chinese:
 | U2 | U2FsdGVkX1 | 0 | |
 | sunmin | sunmin89 | -1250 | |
 | Guoguo | imguoguo | 0 | |
-| Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
+| Wei Fu | tekkamanninja | -500 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
 | Li Zhi | LizzyLoong | -1250 | RISC-V developer |
 | Sebastianhayashi | Sebastianhayashi | -1250 | |
