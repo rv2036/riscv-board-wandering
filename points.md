@@ -122,7 +122,7 @@ Tranlated in Chinese:
 | Cody Gu | discodyer | -1250 | for PLCT Intern, J122 |
 | damon | sycamoremoon | -1250 | RISC-V enthusiast|
 | 猫叔 | Tunglies | 0 | |
-| SmallCoral | SmallCoral | 0 | student |
+| SmallCoral | SmallCoral | -1250 | student |
 | saicogn | saicogn | 0 | for PLCT Intern, J129 |
 | libiunc | libiunc | -1250 | for PLCT Intern, BJ92 |
 | LYOfficial | LYOfficial | 0 | student |

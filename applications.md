@@ -108,7 +108,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0102 | sycamoremoon | | 1 | 多核SoC，没有其他特别要求。最好是体积小一点 | Delivered. | [details](#SN0102) |
 | 0103 | ngc7331 | | 1 | "LicheePi 4A 16GB Memory + 128GB" | Delivered. | [details](#SN0103) |
 | 0104 | libiunc | | 1 | "LicheePi 4A 低配就好 op只需要母版的网口和USB3.0能正常用就行" | Delivered. | [details](#SN0104) |
-| 0105 | SmallCoral | | 1 | LicheePi 4A | Waiting. | 学习与开发 |
+| 0105 | SmallCoral | | 1 | LicheePi 4A | Delivered. | 学习与开发 |
 | 0106 | Tunglies | | 1 | Milk-V Mars (4G) | Waiting. | [details](#SN0106) |
 | 0107 | - | | 1 | LicheePi 4A（16GB Memory + 128GB eMMC） | Duplicate. | SN0105 |
 | 0108 | saicogn | | 1 | LicheePi 4A (16GB Memory + 128GB eMMC) | Waiting. | [details](#SN0108) |
