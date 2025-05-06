@@ -27,7 +27,7 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 5625 | manager of wandering project |
+| wuwei | lazyparser | 5398 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -38,7 +38,7 @@ Tranlated in Chinese:
 | 章翔 | axiangyushanhaijing | -1250 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
-| sunmin | sunmin89 | -227 | |
+| sunmin | sunmin89 | -1250 | |
 | Guoguo | imguoguo | 0 | |
 | Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
