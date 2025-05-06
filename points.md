@@ -127,7 +127,7 @@ Tranlated in Chinese:
 | libiunc | libiunc | -1250 | for PLCT Intern, BJ92 |
 | LYOfficial | LYOfficial | -1250 | student |
 | 江南 | Near-Jungnune | 0 | student & RISC-V enthusiast |
-| jinqiang zhang | peeweep | 0 | RISC-V enthusiast |
+| jinqiang zhang | peeweep | -1250 | RISC-V enthusiast |
 | JerryXu | Jerry1962325 | 0 | RISC-V enthusiast&student |
 | Eulysses | bachekaiqilai | 0 | |
 | AlenWoo | AlenWoo | -1250 | SN0083 |
