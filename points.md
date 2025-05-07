@@ -133,3 +133,4 @@ Tranlated in Chinese:
 | AlenWoo | AlenWoo | -1250 | SN0083 |
 | dapengu1 | dapengu1 | -1250 | SN0088 |
 | Eidosper | Eidosper | -1250 | SN0092 |
+| BingFan | lsobvfe | 0 | student & for PLCT Intern |
