@@ -27,7 +27,7 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 5625 | manager of wandering project |
+| wuwei | lazyparser | 5398 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -38,9 +38,9 @@ Tranlated in Chinese:
 | 章翔 | axiangyushanhaijing | -1250 | [RISC-V]文档工程主理人 |
 | licheng | shiptux | 0 | Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
-| sunmin | sunmin89 | -227 | |
+| sunmin | sunmin89 | -1250 | |
 | Guoguo | imguoguo | 0 | |
-| Wei Fu | tekkamanninja | 0 | RISC-V ambassador |
+| Wei Fu | tekkamanninja | -500 | RISC-V ambassador |
 | Ahei | aahei | 0 |  |
 | Li Zhi | LizzyLoong | -1250 | RISC-V developer |
 | Sebastianhayashi | Sebastianhayashi | -1250 | |
@@ -77,7 +77,7 @@ Tranlated in Chinese:
 | panglan | panglars | -1250 | |
 | Fei Yang | RealFYang | -899 | OpenJDK RISC-V Port Lead |
 | zhg213 | zhgggg | -1250 | |
-| xu_zh | ngc7331 | 0 | student & RISC-V enthusiast |
+| xu_zh | ngc7331 | -1250 | student & RISC-V enthusiast |
 | xiaopan | apricity1212 | 0 | student & RISC-V enthusiast |
 | WwWangGuan | WwWangGuan | -1250 |  |
 | Patrick.Qian | Gekyume777 | -1250 | student
@@ -113,22 +113,24 @@ Tranlated in Chinese:
 | Wantao Liu | Tenktau | -1250 | student |
 | Rili | stc15f104w | -1250 | student |
 | Alen Li | ailunwowo | 0 | student |
-| Howard Jen | goodluckrhj | 0 | RISC-V enthusiast|
-| Smart Fridge | smartfridgeIoT | 0 | RISC-V enthusiast|
-| 6eanut | 6eanut | 0 | student & RISC-V enthusiast |
-| aki-mio | aki-mio | 0 | student & for Lichee Pi 4A |
-| Pairman | Pairman | 0 | student |
-| lxr2010 | lxr2010 | 0 | student |
-| Cody Gu | discodyer | 0 | for PLCT Intern, J122 |
-| damon | sycamoremoon | 0 | RISC-V enthusiast|
+| Howard Jen | goodluckrhj | -1250 | RISC-V enthusiast|
+| Smart Fridge | smartfridgeIoT | -1250 | RISC-V enthusiast|
+| 6eanut | 6eanut | -1250 | student & RISC-V enthusiast |
+| aki-mio | aki-mio | -1250 | student & for Lichee Pi 4A |
+| Pairman | Pairman | -1250 | student |
+| lxr2010 | lxr2010 | -110 | student |
+| Cody Gu | discodyer | -1250 | for PLCT Intern, J122 |
+| damon | sycamoremoon | -1250 | RISC-V enthusiast|
 | 猫叔 | Tunglies | 0 | |
-| SmallCoral | SmallCoral | 0 | student |
-| saicogn | saicogn | 0 | for PLCT Intern, J129 |
-| libiunc | libiunc | 0 | for PLCT Intern, BJ92 |
-| LYOfficial | LYOfficial | 0 | student |
+| SmallCoral | SmallCoral | -1250 | student |
+| saicogn | saicogn | -1250 | for PLCT Intern, J129 |
+| libiunc | libiunc | -1250 | for PLCT Intern, BJ92 |
+| LYOfficial | LYOfficial | -1250 | student |
 | 江南 | Near-Jungnune | 0 | student & RISC-V enthusiast |
-| jinqiang zhang | peeweep | 0 | RISC-V enthusiast |
+| jinqiang zhang | peeweep | -1250 | RISC-V enthusiast |
 | JerryXu | Jerry1962325 | 0 | RISC-V enthusiast&student |
 | Eulysses | bachekaiqilai | 0 | |
 | AlenWoo | AlenWoo | -1250 | SN0083 |
+| dapengu1 | dapengu1 | -1250 | SN0088 |
+| Eidosper | Eidosper | -1250 | SN0092 |
 | BingFan | lsobvfe | 0 | student & for PLCT Intern |

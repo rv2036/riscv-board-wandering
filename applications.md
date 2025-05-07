@@ -24,7 +24,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0017 | liqi | | 1 | "LicheePi 4A	16GB Memory + 128GB eMMC" | Cancelled | |
 | 0018 | lizaifang | | | - | Duplicate. | `SN0019` |
 | 0019 | lizaifang | 1 | | BananaPi BPI-F3， 4G RAM，16G eMMC | Received (Nanjing dockbase) | |
-| 0020 | mengzhuo | 1 | | "3 MilkV Mars-CM (4G/8G) / 1 MilkV Mars (4G) / 1 Licheepi Console / 1 Visionfive / 2 Visionfive2 (坏了，但是应该SoC还是好的）" | Received (Nanjing dockbase) | |
+| 0020 | mengzhuo | 1 | | [details](#SN0020) | Received (Nanjing dockbase) | |
 | 0021 | SeasonMay | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | |
 | 0022 | ztjjj9 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | ztjjj9 |
 | 0023 | mikice233 | | 1 | LicheePi 4A | Delivered. | milkice233 |
@@ -91,31 +91,31 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0085 | Tenktau | | 1 | LicheePi 4A | Delivered. | [details](#SN0085) |
 | 0086 | stc15f104w | | 1 | lichee4a | Delivered. | j129学员学习rvv linux |
 | 0087 | - | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Duplicate. | SN0084 完成J133 Intern的开发任务 |
-| 0088 | dapengu1 | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | 学习在RISCV开发板上面运行Linux，进行Linux应用和驱动开发 |
+| 0088 | dapengu1 | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | 学习在RISCV开发板上面运行Linux，进行Linux应用和驱动开发 |
 | 0089 | - | | 1 | lichee pi 4A 16GRAM+128GeMMC | Duplicate. | SN0088 学习riscV相关课程，试试在RISCV环境下的linux |
-| 0090 | sunmin89 | | 1 | LicheePi 4A ，16GB Memory + 128GB eMMC | Waiting. | aosp 学习 |
-| 0091 | goodluckrhj | | 1 | Lichee Pi 4A 16G RAM 128G eMMc | Waiting. | Linux porting |
-| 0092 | Eidosper | | 1 | LicheePi 4a 16+128 | Waiting. | 尝试用于教学 |
-| 0093 | smartfridgeIoT | | 1 | Lichee Pi 4A | Waiting. | 确定移植AI模型的方法和效果 |
+| 0090 | sunmin89 | | 1 | LicheePi 4A ，16GB Memory + 128GB eMMC | Delivered. | aosp 学习 |
+| 0091 | goodluckrhj | | 1 | Lichee Pi 4A 16G RAM 128G eMMc | Delivered. | Linux porting |
+| 0092 | Eidosper | | 1 | LicheePi 4a 16+128 | Delivered. | 尝试用于教学 |
+| 0093 | smartfridgeIoT | | 1 | Lichee Pi 4A | Delivered. | 确定移植AI模型的方法和效果 |
 | 0094 | SongYuSheng1216 | 1 | | "LicheePi 4A 16GB Memory + 128GB eMMC 电源适配器，debugger调试器工具" | Waiting. | 捐赠 |
-| 0095 | 6eanut | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | 想启动RISC-V Linux，并且从源码编译一些开源软件，比如tensorflow等。 |
+| 0095 | 6eanut | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | 想启动RISC-V Linux，并且从源码编译一些开源软件，比如tensorflow等。 |
 | 0096 | - | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Duplicate. | SN0095 |
-| 0097 | Pairman | | 1 | Lichee Pi 4A 16GB+128GB | Waiting. | [details](#SN0097) |
-| 0098 | aki-mio | | 1 | Lichee Pi 4A | Waiting. | 用来学习相关知识，用来熟悉risc-v，为之后的实习做准备 |
-| 0099 | lxr2010 | | 1 | "MilkV Duo256 或 MilkV DuoS" | Waiting. | 参加risc-v软件优化移植赛 |
-| 0100 | discodyer | | 1 | "LicheePi 4A  16GB RAM + 128GB eMMC" | Waiting. | [details](#SN0100) |
-| 0101 | tekkamanninja | | 1 | OrangePi RV2 2GB | Waiting. | Fedora Image 移植与测试 |
-| 0102 | sycamoremoon | | 1 | 多核SoC，没有其他特别要求。最好是体积小一点 | Waiting. | [details](#SN0102) |
-| 0103 | ngc7331 | | 1 | "LicheePi 4A 16GB Memory + 128GB" | Waiting. | [details](#SN0103) |
-| 0104 | libiunc | | 1 | "LicheePi 4A 低配就好 op只需要母版的网口和USB3.0能正常用就行" | Waiting. | [details](#SN0104) |
-| 0105 | SmallCoral | | 1 | LicheePi 4A | Waiting. | 学习与开发 |
+| 0097 | Pairman | | 1 | Lichee Pi 4A 16GB+128GB | Delivered. | [details](#SN0097) |
+| 0098 | aki-mio | | 1 | Lichee Pi 4A | Delivered. | 用来学习相关知识，用来熟悉risc-v，为之后的实习做准备 |
+| 0099 | lxr2010 | | 1 | "MilkV Duo256 或 MilkV DuoS" | Delivered. | 参加risc-v软件优化移植赛 |
+| 0100 | discodyer | | 1 | "LicheePi 4A  16GB RAM + 128GB eMMC" | Delivered. | [details](#SN0100) |
+| 0101 | tekkamanninja | | 1 | OrangePi RV2 2GB | Delivered. x2 | Fedora Image 移植与测试 |
+| 0102 | sycamoremoon | | 1 | 多核SoC，没有其他特别要求。最好是体积小一点 | Delivered. | [details](#SN0102) |
+| 0103 | ngc7331 | | 1 | "LicheePi 4A 16GB Memory + 128GB" | Delivered. | [details](#SN0103) |
+| 0104 | libiunc | | 1 | "LicheePi 4A 低配就好 op只需要母版的网口和USB3.0能正常用就行" | Delivered. | [details](#SN0104) |
+| 0105 | SmallCoral | | 1 | LicheePi 4A | Delivered. | 学习与开发 |
 | 0106 | Tunglies | | 1 | Milk-V Mars (4G) | Waiting. | [details](#SN0106) |
 | 0107 | - | | 1 | LicheePi 4A（16GB Memory + 128GB eMMC） | Duplicate. | SN0105 |
-| 0108 | saicogn | | 1 | LicheePi 4A (16GB Memory + 128GB eMMC) | Waiting. | [details](#SN0108) |
-| 0109 | LYOfficial | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 及电源线" | Waiting. | 搭建小型移动Linux服务器 |
+| 0108 | saicogn | | 1 | LicheePi 4A (16GB Memory + 128GB eMMC) | Delivered. | [details](#SN0108) |
+| 0109 | LYOfficial | | 1 | "LicheePi 4A 16GB Memory + 128GB eMMC 及电源线" | Delivered. | 搭建小型移动Linux服务器 |
 | 0110 | Near-Jungnune | | 1 | "Board Name：Milk-V Duo S Configs：w/ wifi/BT, 8GB emmc" | Waiting. | 学习RISC-V相关课程 |
 | 0111 | Chrithon | | 1 | Milk-V Megrez 16GB | Waiting. | 用于Dify部署实验 |
-| 0112 | peeweep | | 1 | 希望认领一块 LicheePi 4A， 16GB RAM + 128GB eMMC | Waiting. | 用于在实体机上测试一些OERV 相关的项目 |
+| 0112 | peeweep | | 1 | 希望认领一块 LicheePi 4A， 16GB RAM + 128GB eMMC | Delivered. | 用于在实体机上测试一些OERV 相关的项目 |
 
 ## Extra Notes
 
@@ -258,3 +258,7 @@ Tracking Dashboard for RISC-V Board Applications.
 
 > 移植项目到RISC-V上；测评对比RISC-V和其它架构的能效比：
 > https://github.com/xeonds/iot-go
+
+### SN0020
+
+> "3 MilkV Mars-CM (4G/8G) / 1 MilkV Mars (4G) / 1 Licheepi Console / 1 Visionfive / 2 Visionfive2 (坏了，但是应该SoC还是好的）"
