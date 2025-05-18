@@ -128,7 +128,7 @@ Tranlated in Chinese:
 | LYOfficial | LYOfficial | -1250 | student |
 | 江南 | Near-Jungnune | -110 | student & RISC-V enthusiast |
 | jinqiang zhang | peeweep | -1250 | RISC-V enthusiast |
-| JerryXu | Jerry1962325 | 0 | RISC-V enthusiast&student |
+| JerryXu | Jerry1962325 | -227 | RISC-V enthusiast&student |
 | Eulysses | bachekaiqilai | 0 | |
 | AlenWoo | AlenWoo | -1250 | SN0083 |
 | dapengu1 | dapengu1 | -1250 | SN0088 |

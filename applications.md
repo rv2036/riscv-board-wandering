@@ -116,7 +116,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0110 | Near-Jungnune | | 1 | "Board Name：Milk-V Duo S Configs：w/ wifi/BT, 8GB emmc" | Delivered. | 学习RISC-V相关课程 |
 | 0111 | Chrithon | | 1 | Milk-V Megrez 16GB | Waiting. | 用于Dify部署实验 |
 | 0112 | peeweep | | 1 | 希望认领一块 LicheePi 4A， 16GB RAM + 128GB eMMC | Delivered. | 用于在实体机上测试一些OERV 相关的项目 |
-| 0113 | Jerry1962325 | | 1 | CanMV K230 如能带有触摸屏就更好了 | Waiting. | 想要试试最新的K230 |
+| 0113 | Jerry1962325 | | 1 | CanMV K230 如能带有触摸屏就更好了 | Delivered. | 想要试试最新的K230 |
 | 0114 | MNstar | | 1 | Lichee Pi 4A | Waiting. | [details](#SN0114) |
 
 ## Extra Notes
