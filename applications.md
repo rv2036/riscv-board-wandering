@@ -118,6 +118,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0112 | peeweep | | 1 | 希望认领一块 LicheePi 4A， 16GB RAM + 128GB eMMC | Delivered. | 用于在实体机上测试一些OERV 相关的项目 |
 | 0113 | Jerry1962325 | | 1 | CanMV K230 如能带有触摸屏就更好了 | Delivered. | 想要试试最新的K230 |
 | 0114 | MNstar | | 1 | Lichee Pi 4A | Waiting. | [details](#SN0114) |
+| 0115 | ustcljh | | 1 | Lichee Pi 3A * 4 | Waiting. | 扩充现有的计算集群到16+32核心 |
 
 ## Extra Notes
 
