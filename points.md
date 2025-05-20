@@ -134,3 +134,4 @@ Tranlated in Chinese:
 | dapengu1 | dapengu1 | -1250 | SN0088 |
 | Eidosper | Eidosper | -1250 | SN0092 |
 | BingFan | lsobvfe | 0 | student & for PLCT Intern |
+| 天蚕土豆 | MNstar | 0 | 写书的 |
