@@ -21,7 +21,7 @@ Tranlated in Chinese:
 | RISC-V国际基金会 | RISC-V International | 3596 | RVI DevBoards Program |
 | 秦派软件 | qinware | 2916 | 生产力工具软件提供商 |
 | 玄铁团队 | XuanTie | 267880 | xrvm.cn |
-| 苦芽科技 | KUBUDS | 4300 | https://kubuds.io |
+| 苦芽科技 | KUBUDS | 11100 | https://kubuds.io |
 | 迅龙软件 | OrangePi | 4980 | http://www.xunlong.tv/ |
 | 嘉楠 | Cannan | 2490 | https://www.canaan-creative.com/ |
 
