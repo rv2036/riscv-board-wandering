@@ -83,7 +83,7 @@ Tranlated in Chinese:
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 | LicheePi 4A           | 16GB Memory + 128GB eMMC | 0 | 9 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 0 | 2 |  |
-| CanMV K230            | - | 0 | 1 | 用于RISC-V生态实验室建设 |
+| CanMV K230            | - | 0 | 7 | 用于RISC-V生态实验室建设 |
 | Milk-V Duo            | - | 0 | 0 | 用于RISC-V研讨会现场分发给观众 |
 | OrangePi RV2           | 2GB RAM | 3 | 5 |  |
 
@@ -103,7 +103,7 @@ Tranlated in Chinese:
 | Milk-V Duo 256 | Sophgo SG2002 SoC | 1 | 2 | |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 4 | 6 | https://www.sifive.com/boards/hifive-unmatched |
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 1 | Donted by RVI |
-| CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 29 | 31 |  |
+| CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 23 | 25 |  |
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 5 | 13 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
