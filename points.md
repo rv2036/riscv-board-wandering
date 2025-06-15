@@ -137,3 +137,4 @@ Tranlated in Chinese:
 | 天蚕土豆 | MNstar | 0 | 写书的 |
 | LeeJc02 | LeeJc02 | 0 | Study & J143 |
 | Integral | Integral-Tech | 0 | |
+| fatefally  | fatefally | 0 | study |
