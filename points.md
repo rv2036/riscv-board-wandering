@@ -84,7 +84,7 @@ Tranlated in Chinese:
 | Alphagocc | alphagocc | -1250 | student & RISC-V enthusiast
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
 | Shinonome Tera tanuki | wold9168 | -1250 | student |
-| ustcljh | ustcljh | -6467 | student at USTC |
+| ustcljh | ustcljh | -10867 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | -1250 | PLCT intern |
 | acyanbird | acyanbird | -1250 | student & deepin linux developer |
