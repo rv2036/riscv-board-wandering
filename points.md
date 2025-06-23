@@ -138,3 +138,4 @@ Tranlated in Chinese:
 | LeeJc02 | LeeJc02 | 0 | Study & J143 |
 | Integral | Integral-Tech | 0 | |
 | fatefally  | fatefally | 0 | study |
+| Yan | Yan259128 | -1250 | student & RISC-V enthusiast |
