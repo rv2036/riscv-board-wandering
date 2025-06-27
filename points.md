@@ -136,7 +136,7 @@ Tranlated in Chinese:
 | BingFan | lsobvfe | 0 | student & for PLCT Intern |
 | 天蚕土豆 | MNstar | 0 | 写书的 |
 | LeeJc02 | LeeJc02 | -1250 | Study & J143 |
-| Integral | Integral-Tech | 0 | |
+| Integral | Integral-Tech | 1250 | |
 | fatefally  | fatefally | 0 | study |
 | Yan | Yan259128 | 0 | student & RISC-V enthusiast |
 | rendeyuli | rendeyuli | 0 | student |
