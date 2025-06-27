@@ -84,7 +84,7 @@ Tranlated in Chinese:
 | Alphagocc | alphagocc | -1250 | student & RISC-V enthusiast
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
 | Shinonome Tera tanuki | wold9168 | -1250 | student |
-| ustcljh | ustcljh | -6467 | student at USTC |
+| ustcljh | ustcljh | -10867 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | -1250 | PLCT intern |
 | acyanbird | acyanbird | -1250 | student & deepin linux developer |
@@ -135,7 +135,8 @@ Tranlated in Chinese:
 | Eidosper | Eidosper | -1250 | SN0092 |
 | BingFan | lsobvfe | 0 | student & for PLCT Intern |
 | 天蚕土豆 | MNstar | 0 | 写书的 |
-| LeeJc02 | LeeJc02 | 0 | Study & J143 |
+| LeeJc02 | LeeJc02 | -1250 | Study & J143 |
 | Integral | Integral-Tech | 0 | |
 | fatefally  | fatefally | 0 | study |
-| Yan | Yan259128 | -1250 | student & RISC-V enthusiast |
+| Yan | Yan259128 | 0 | student & RISC-V enthusiast |
+| rendeyuli | rendeyuli | 0 | student |
