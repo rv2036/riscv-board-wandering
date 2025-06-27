@@ -120,7 +120,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0114 | MNstar | | 1 | Lichee Pi 4A | Waiting. | [details](#SN0114) |
 | 0115 | ustcljh | | 1 | Lichee Pi 3A * 4 | Delivered. | 扩充现有的计算集群到16+32核心 |
 | 0116 | LeeJc02 | | 1 | Lichee Pi 4A 16g | Delivered. | 学习并参与J143开源实习生项目 |
-| 0117 | wold9168 | 1 | | 荔枝派4A 16G。在原有的基础上加了一个外壳 | Waiting. | 捐赠 |
+| 0117 | wold9168 | 1 | | 荔枝派4A 16G。在原有的基础上加了一个外壳 | Received @ Hangzhou | 捐赠 |
 | 0118 | Integral-Tech | 1 | | Lichee Pi 4A 16G RAM + 128G eMMC | Waiting. | 捐赠 |
 
 ## Extra Notes
