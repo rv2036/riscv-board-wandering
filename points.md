@@ -134,7 +134,7 @@ Tranlated in Chinese:
 | dapengu1 | dapengu1 | -1250 | SN0088 |
 | Eidosper | Eidosper | -1250 | SN0092 |
 | BingFan | lsobvfe | 0 | student & for PLCT Intern |
-| 天蚕土豆 | MNstar | 0 | 写书的 |
+| 天蚕土豆 | MNstar | -1250 | 写书的 |
 | LeeJc02 | LeeJc02 | -1250 | Study & J143 |
 | Integral | Integral-Tech | 1250 | |
 | fatefally  | fatefally | 0 | study |
