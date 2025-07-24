@@ -130,7 +130,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0124 | prcups | 1 | | licheepi 4a 16+256G 带包装盒 充电器 | Waiting. | 捐赠 |
 | 0125 | Youwenqwq | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | [details](#SN0125) |
 | 0126 | liumeteor11 | | 1 | [details](#SN0126) | Delivered. | 想要启动一下RISC-V Linux，尝试部署本地大模型 |
-| 0127 | lengmuzhaxi | | 1 | 荔枝派4a | Waiting. | 移植软件到RISC-V上 |
+| 0127 | lengmuzhaxi | | 1 | 荔枝派4a | Delivered. | 移植软件到RISC-V上 |
 | 0128 | undefined-moe | | 1 | [details](#SN0128) | Waiting. | [details](#SN0128) |
 | 0129 | undefined-moe | | 1 | [details](#SN0128) | Waiting. | [details](#SN0128) |
 | 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Waiting. | 学习RISC-V相关课程 |
