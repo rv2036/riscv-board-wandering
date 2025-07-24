@@ -145,3 +145,4 @@ Tranlated in Chinese:
 | undefined | undefined-moe | -1250 | student & software developer |
 | cy58266 | cy58266 | -1250 | SN0119 |
 | lengmuzhaxi | lengmuzhaxi | -1250 | SN0127 |
+| hipboy | hipboy | -1250 | SN0130 |

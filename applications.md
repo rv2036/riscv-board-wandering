@@ -133,7 +133,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0127 | lengmuzhaxi | | 1 | 荔枝派4a | Delivered. | 移植软件到RISC-V上 |
 | 0128 | undefined-moe | | 1 | [details](#SN0128) | Delivered. | [details](#SN0128) |
 | 0129 | undefined-moe | | 1 | [details](#SN0128) | Duplicate. | [details](#SN0128) |
-| 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Waiting. | 学习RISC-V相关课程 |
+| 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Delivered. | 学习RISC-V相关课程 |
 
 ## Extra Notes
 
