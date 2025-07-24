@@ -140,7 +140,7 @@ Tranlated in Chinese:
 | fatefally  | fatefally | -1250 | study |
 | Yan | Yan259128 | -1250 | student & RISC-V enthusiast |
 | rendeyuli | rendeyuli | 0 | student |
-| Youwenqwq | Youwenqwq | 0 | Student |
+| Youwenqwq | Youwenqwq | -1250 | Student |
 | liumeteor11 | liumeteor11 | 0 | RISC-V enthusiast |
 | undefined | undefined-moe | 0 | student & software developer |
 | cy58266 | cy58266 | -1250 | SN0119 |
