@@ -137,7 +137,7 @@ Tranlated in Chinese:
 | 天蚕土豆 | MNstar | -1250 | 写书的 |
 | LeeJc02 | LeeJc02 | -1250 | Study & J143 |
 | Integral | Integral-Tech | 1250 | |
-| fatefally  | fatefally | 0 | study |
+| fatefally  | fatefally | -1250 | study |
 | Yan | Yan259128 | -1250 | student & RISC-V enthusiast |
 | rendeyuli | rendeyuli | 0 | student |
 | Youwenqwq | Youwenqwq | 0 | Student |

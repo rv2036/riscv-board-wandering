@@ -125,7 +125,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0119 | cy58266 | | 1 | LicheePi4A | Delivered. | 学习[RISC-V相关课程](https://www.bilibili.com/video/BV1Q5411w7z5/) |
 | 0120 | yan259128 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | |
 | 0121 | rendeyuli | | 1 | [details](#SN0121) | Waiting. | [details](#SN0121) |
-| 0122 | fatefally | | 1 | LicheePi4a 16+128 | Waiting. | 学习 |
+| 0122 | fatefally | | 1 | LicheePi4a 16+128 | Delivered. | 学习 |
 | 0123 | ShanShuiXiLiu | 1 | | 型号orangepi rv2。内存8g。配件电源。 | Waiting. | 捐赠。 |
 | 0124 | prcups | 1 | | licheepi 4a 16+256G 带包装盒 充电器 | Waiting. | 捐赠 |
 | 0125 | Youwenqwq | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | [details](#SN0125) |
