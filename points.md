@@ -142,6 +142,6 @@ Tranlated in Chinese:
 | rendeyuli | rendeyuli | 0 | student |
 | Youwenqwq | Youwenqwq | -1250 | Student |
 | liumeteor11 | liumeteor11 | -1250 | RISC-V enthusiast |
-| undefined | undefined-moe | 0 | student & software developer |
+| undefined | undefined-moe | -1250 | student & software developer |
 | cy58266 | cy58266 | -1250 | SN0119 |
 | lengmuzhaxi | lengmuzhaxi | -1250 | SN0127 |
