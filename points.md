@@ -138,7 +138,7 @@ Tranlated in Chinese:
 | LeeJc02 | LeeJc02 | -1250 | Study & J143 |
 | Integral | Integral-Tech | 1250 | |
 | fatefally  | fatefally | 0 | study |
-| Yan | Yan259128 | 0 | student & RISC-V enthusiast |
+| Yan | Yan259128 | -1250 | student & RISC-V enthusiast |
 | rendeyuli | rendeyuli | 0 | student |
 | Youwenqwq | Youwenqwq | 0 | Student |
 | liumeteor11 | liumeteor11 | 0 | RISC-V enthusiast |
