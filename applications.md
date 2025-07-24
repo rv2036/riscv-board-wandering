@@ -122,8 +122,38 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0116 | LeeJc02 | | 1 | Lichee Pi 4A 16g | Delivered. | 学习并参与J143开源实习生项目 |
 | 0117 | wold9168 | 1 | | 荔枝派4A 16G。在原有的基础上加了一个外壳 | Received @ Hangzhou | 捐赠 |
 | 0118 | Integral-Tech | 1 | | Lichee Pi 4A 16G RAM + 128G eMMC | Received @ Hangzhou. | 捐赠 |
+| 0119 | cy58266 | | 1 | LicheePi4A | Waiting. | 学习[RISC-V相关课程](https://www.bilibili.com/video/BV1Q5411w7z5/) |
+| 0120 | yan259128 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | |
+| 0121 | rendeyuli | | 1 | [details](#SN0121) | Waiting. | [details](#SN0121) |
+| 0122 | fatefally | | 1 | LicheePi4a 16+128 | Waiting. | 学习 |
+| 0123 | ShanShuiXiLiu | 1 | | 型号orangepi rv2。内存8g。配件电源。 | Waiting. | 捐赠。 |
+| 0124 | prcups | 1 | | licheepi 4a 16+256G 带包装盒 充电器 | Waiting. | 捐赠 |
+| 0125 | Youwenqwq | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | [details](#SN0125) |
+| 0126 | liumeteor11 | | 1 | [details](#SN0126) | Waiting. | 想要启动一下RISC-V Linux，尝试部署本地大模型 |
+| 0127 | lengmuzhaxi | | 1 | 荔枝派4a | Waiting. | 移植软件到RISC-V上 |
+| 0128 | undefined-moe | | 1 | [details](#SN0128) | Waiting. | [details](#SN0128) |
+| 0129 | undefined-moe | | 1 | [details](#SN0128) | Waiting. | [details](#SN0128) |
+| 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Waiting. | 学习RISC-V相关课程 |
 
 ## Extra Notes
+
+### SN0128
+
+> 型号无具体要求，但考虑到需要构建 mongodb，希望内存至少为 16G，最好为 32G。尝试完成 Hydro 项目的 RISC-V 移植（https://github.com/hydro-dev/Hydro）
+
+### SN0126
+
+> "LicheePi 4A 16GB RAM + 128GB eMMC BananaPi F3 2GB RAM + 8GB eMMC SiFive HiFive Unmatched 2GB RAM + 32GB eMMC VisionFive 2 JH7110 最高 8GB 上面这些是gpt-4o mini推荐的，其他的也可以~"
+
+### SN0125
+
+> 试用 RISC-V 开发板；对不同架构处理器上运行 Linux 从零进行探索学习；辅助理解计算机与操作系统，尝试，和体验 RevyOS。
+
+### SN0121
+
+> "VisionFive2  8GB(若无4GB也可) 带wifi模块（如果有的话） 若无VisionFive2，希望认领 milk-V Mars 8GB/或4GB"
+
+> 学习riscv，尝试Linux开发，用来当博客的服务器
 
 ### SN0114
 
