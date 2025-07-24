@@ -132,7 +132,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0126 | liumeteor11 | | 1 | [details](#SN0126) | Delivered. | 想要启动一下RISC-V Linux，尝试部署本地大模型 |
 | 0127 | lengmuzhaxi | | 1 | 荔枝派4a | Delivered. | 移植软件到RISC-V上 |
 | 0128 | undefined-moe | | 1 | [details](#SN0128) | Delivered. | [details](#SN0128) |
-| 0129 | undefined-moe | | 1 | [details](#SN0128) | Waiting. | [details](#SN0128) |
+| 0129 | undefined-moe | | 1 | [details](#SN0128) | Duplicate. | [details](#SN0128) |
 | 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Waiting. | 学习RISC-V相关课程 |
 
 ## Extra Notes
