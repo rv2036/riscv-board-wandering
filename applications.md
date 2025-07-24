@@ -122,7 +122,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0116 | LeeJc02 | | 1 | Lichee Pi 4A 16g | Delivered. | 学习并参与J143开源实习生项目 |
 | 0117 | wold9168 | 1 | | 荔枝派4A 16G。在原有的基础上加了一个外壳 | Received @ Hangzhou | 捐赠 |
 | 0118 | Integral-Tech | 1 | | Lichee Pi 4A 16G RAM + 128G eMMC | Received @ Hangzhou. | 捐赠 |
-| 0119 | cy58266 | | 1 | LicheePi4A | Waiting. | 学习[RISC-V相关课程](https://www.bilibili.com/video/BV1Q5411w7z5/) |
+| 0119 | cy58266 | | 1 | LicheePi4A | Delivered. | 学习[RISC-V相关课程](https://www.bilibili.com/video/BV1Q5411w7z5/) |
 | 0120 | yan259128 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | |
 | 0121 | rendeyuli | | 1 | [details](#SN0121) | Waiting. | [details](#SN0121) |
 | 0122 | fatefally | | 1 | LicheePi4a 16+128 | Waiting. | 学习 |
