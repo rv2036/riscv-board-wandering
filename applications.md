@@ -134,7 +134,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0128 | undefined-moe | | 1 | [details](#SN0128) | Delivered. | [details](#SN0128) |
 | 0129 | undefined-moe | | 1 | [details](#SN0128) | Duplicate. | [details](#SN0128) |
 | 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Delivered. | 学习RISC-V相关课程 |
-| 0131 | GeassCore | | 1 | [details](#SN0131) | Waiting. | 软件移植与CI测试 |
+| 0131 | GeassCore | | 1 | [details](#SN0131) | Delivered. | 软件移植与CI测试 |
 | 0132 | zhuwei290 | | 1 | [details](#SN0132) | Waiting. | openGauss |
 | 0133 | liweiwei90 | | 1 | [details](#SN0123) | Waiting. | 软件移植与测试 |
 
