@@ -83,7 +83,7 @@ Tranlated in Chinese:
 | Patrick.Qian | Gekyume777 | -1250 | student
 | Alphagocc | alphagocc | -1250 | student & RISC-V enthusiast
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
-| Shinonome Tera tanuki | wold9168 | 0 | student |
+| Shinonome Tera tanuki | wold9168 | 73 | student |
 | ustcljh | ustcljh | -10867 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | -1250 | PLCT intern |
