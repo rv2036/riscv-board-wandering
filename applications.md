@@ -76,16 +76,16 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0069 | NanQin555 | | 1 | LicheePi 3A 16GB RAM + 32GB eMMC| Delivered.| [details](#SN0069) |
 | 0070 | TraceRecursion | | 1 | LicheePi 4A | Delivered. | [details](#SN0070) |
 | 0071 | superbugintime | | 1 | 01 studio 或者 庐山派K230-CanMV开发板 | Delivered. | [details](#SN0071) |
-| 0073 | prcups | 1 | | VisionFive2，4G内存，无emmc和wifi，带亚克力外壳、风扇、散热片 | Waiting. | 捐赠 |
+| 0073 | prcups | 1 | | VisionFive2，4G内存，无emmc和wifi，带亚克力外壳、风扇、散热片 | Cancelled. | 捐赠 |
 | 0074 | lIlIlxy | | 1 | Lichee Pi 4A 16+128 | Delivered. | J140实习申请荔枝派4a |
 | 0075 | leosibogod | | 1 | Milk-V Duo 系列SG2002 （双核 256M）/ 勘智K230 | Cancelled. | PLCT实习+社区项目 |
 | 0076 | Astra-H77 | | 1 | LicheePi 4A 16GB + 128GB eMMC | Delivered. | 用于RISC-V学习，体验基于RISC-V核+Linux OS生态，用于开发RV游戏机 |
-| 0077 | xianrenqi | 1 | | 进迭时空MUSEbook，8GB+128GB，银色，无配件。 | Waiting. | 捐赠 |
+| 0077 | xianrenqi | 1 | | 进迭时空MUSEbook，8GB+128GB，银色，无配件。 | Received. (Nanjing Base) | 捐赠 |
 | 0078 | prcups | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | 参与实习项目J128 |
 | 0079 | rurumuri | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | PLCT J140 岗位需要，在 RISC-V 平台测试 box64 |
 | 0080 | FIFCC | | 1 | "CanMV K230 Suite w/ 13.3 TFT/LCD" | Delivered. | 用于验证和编写ruyisdk的相关文档 |
 | 0081 | FIFCC | | 1 | "Duo 256 + Duo S" | Delivered. | [details](#SN0081) |
-| 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Waiting. | 捐赠 |
+| 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Received. (Nanjing Base) | 捐赠 |
 | 0083 | AlenWoo | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | [details](#SN0083) |
 | 0084 | MahnoKropotkinvich | | 1 | LicheePi 4A | Delivered. | 进行RISC-V Linux开发 |
 | 0085 | Tenktau | | 1 | LicheePi 4A | Delivered. | [details](#SN0085) |
@@ -97,7 +97,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0091 | goodluckrhj | | 1 | Lichee Pi 4A 16G RAM 128G eMMc | Delivered. | Linux porting |
 | 0092 | Eidosper | | 1 | LicheePi 4a 16+128 | Delivered. | 尝试用于教学 |
 | 0093 | smartfridgeIoT | | 1 | Lichee Pi 4A | Delivered. | 确定移植AI模型的方法和效果 |
-| 0094 | SongYuSheng1216 | 1 | | "LicheePi 4A 16GB Memory + 128GB eMMC 电源适配器，debugger调试器工具" | Waiting. | 捐赠 |
+| 0094 | SongYuSheng1216 | 1 | | "LicheePi 4A 16GB Memory + 128GB eMMC 电源适配器，debugger调试器工具" | Received (Hangzhou). | 捐赠 |
 | 0095 | 6eanut | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | 想启动RISC-V Linux，并且从源码编译一些开源软件，比如tensorflow等。 |
 | 0096 | - | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Duplicate. | SN0095 |
 | 0097 | Pairman | | 1 | Lichee Pi 4A 16GB+128GB | Delivered. | [details](#SN0097) |

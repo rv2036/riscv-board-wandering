@@ -80,10 +80,7 @@ RISC-V Development Board Wandering Project
 
 ### 基地列表
 
-- 南京英麒智能。主理人：陈曦。
-- 深圳群芯闪耀。主理人：柯一冉。
-- （筹备中）上海苦芽科技。主理人：章翔。
-- （筹备中）广州市智能软件产业研究院（PLCT实验室南沙分部）。主理人：TBD。
+参见 [dockbases.md](dockbases.md)。
 
 ## 设备损灭等情况处理
 

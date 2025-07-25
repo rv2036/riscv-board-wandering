@@ -83,13 +83,13 @@ Tranlated in Chinese:
 | Patrick.Qian | Gekyume777 | -1250 | student
 | Alphagocc | alphagocc | -1250 | student & RISC-V enthusiast
 | DouPiChen | DouPiChen | -85 | ISCAS staff |
-| Shinonome Tera tanuki | wold9168 | 0 | student |
+| Shinonome Tera tanuki | wold9168 | 73 | student |
 | ustcljh | ustcljh | -10867 | student at USTC |
 | chengzihan | zihan-hub | -85 | student |
 | stydxm | stydxm | -1250 | PLCT intern |
 | acyanbird | acyanbird | -1250 | student & deepin linux developer |
 | 汪辰 | unicornx | -110 | Developer of PLCT-lab |
-| Song | SongYuSheng1216 | -1250 | student & RISC-V enthusiast |
+| Song | SongYuSheng1216 | 49 | student & RISC-V enthusiast |
 | kagura | kagura114 | -1250 | for PLCT Intern, J143 |
 | ZhangPeng | Zpp027 | -1250 | student & RISC-V enthusiast |
 | aisuneko | aisuneko | 0 | |
@@ -98,14 +98,14 @@ Tranlated in Chinese:
 | VZstless | VictorZhangAI | -1250 | student & RISC-V enthusiast |
 | NanQin | NanQin555 | -1100 | PLCT intern, J146 |
 | lhpqaq | lhpqaq | -1250 | PLCT intern |
-| zhouliren | izhouliren | 581 | software engineer |
+| zhouliren | izhouliren | 2960 | software engineer |
 | Yusee | WhereIsYuuka | -1250 | student |
 | Trace_Recursion | TraceRecursion | -1250 | For Box64 RISC-V wiki |
 | SignKirigami | prcups | -1250 |for PLCT Intern, J128 |
 | 老白| superbugintime | -227 | |
 | lIlIlxy|lIlIlxy| - 1250 |for Lichee Pi 4A|
 | rurumuri | rurumuri | -1250 | for PLCT Intern, J140 |
-| xianrenqi | xianrenqi | 0 | student & RISC-V enthusiast |
+| xianrenqi | xianrenqi | 3599 | student & RISC-V enthusiast |
 | Haodong|Astra-H77| -1250 |RISC-V enthusiast|
 | westhide | westhide | 0 | RISC-V enthusiast |
 | yurish1 | FIFCC | -405 | Ruyisdk Documentation Manager |
@@ -146,4 +146,5 @@ Tranlated in Chinese:
 | cy58266 | cy58266 | -1250 | SN0119 |
 | lengmuzhaxi | lengmuzhaxi | -1250 | SN0127 |
 | hipboy | hipboy | -1250 | SN0130 |
+| liweiwei | liweiwei90 | 0 | |
 | pandora | GeassCore | 0 | |

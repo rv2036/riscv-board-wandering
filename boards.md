@@ -87,11 +87,6 @@ Tranlated in Chinese:
 | Milk-V Duo            | - | 0 | 0 | 用于RISC-V研讨会现场分发给观众 |
 | OrangePi RV2           | 2GB RAM | 3 | 5 |  |
 
-## 上海漂流基地（苦芽科技）
-
-| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
-| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-
 ## 杭州漂流基地（苦芽科技）
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
@@ -110,11 +105,6 @@ Tranlated in Chinese:
 | OrangePi RV2           | 2GB RAM | 3 | 6 |  |
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 | 01Studio CanMV K230 | No RJ45 | 8 | 10 |  |
-
-## 广州漂流基地（PLCT南沙分部）
-
-| Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
-| :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
 
 ## 大连漂流基地（大连理工大学）
 
