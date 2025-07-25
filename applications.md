@@ -80,7 +80,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0074 | lIlIlxy | | 1 | Lichee Pi 4A 16+128 | Delivered. | J140实习申请荔枝派4a |
 | 0075 | leosibogod | | 1 | Milk-V Duo 系列SG2002 （双核 256M）/ 勘智K230 | Cancelled. | PLCT实习+社区项目 |
 | 0076 | Astra-H77 | | 1 | LicheePi 4A 16GB + 128GB eMMC | Delivered. | 用于RISC-V学习，体验基于RISC-V核+Linux OS生态，用于开发RV游戏机 |
-| 0077 | xianrenqi | 1 | | 进迭时空MUSEbook，8GB+128GB，银色，无配件。 | Waiting. | 捐赠 |
+| 0077 | xianrenqi | 1 | | 进迭时空MUSEbook，8GB+128GB，银色，无配件。 | Received. (Nanjing Base) | 捐赠 |
 | 0078 | prcups | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | 参与实习项目J128 |
 | 0079 | rurumuri | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | PLCT J140 岗位需要，在 RISC-V 平台测试 box64 |
 | 0080 | FIFCC | | 1 | "CanMV K230 Suite w/ 13.3 TFT/LCD" | Delivered. | 用于验证和编写ruyisdk的相关文档 |
