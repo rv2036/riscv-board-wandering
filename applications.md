@@ -136,7 +136,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Delivered. | 学习RISC-V相关课程 |
 | 0131 | GeassCore | | 1 | [details](#SN0131) | Delivered. | 软件移植与CI测试 |
 | 0132 | zhuwei290 | | 1 | [details](#SN0132) | Delivered. | openGauss |
-| 0133 | liweiwei90 | | 1 | [details](#SN0123) | Waiting. | 软件移植与测试 |
+| 0133 | liweiwei90 | | 1 | [details](#SN0123) | Delivered. | 软件移植与测试 |
 
 
 ## Extra Notes

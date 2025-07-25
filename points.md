@@ -146,6 +146,6 @@ Tranlated in Chinese:
 | cy58266 | cy58266 | -1250 | SN0119 |
 | lengmuzhaxi | lengmuzhaxi | -1250 | SN0127 |
 | hipboy | hipboy | -1250 | SN0130 |
-| liweiwei | liweiwei90 | 0 | |
+| liweiwei | liweiwei90 | -2500 | |
 | zhuwei290 | zhuwei290 | -85 | |
 | pandora | GeassCore | -4076 | |
