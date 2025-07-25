@@ -147,4 +147,5 @@ Tranlated in Chinese:
 | lengmuzhaxi | lengmuzhaxi | -1250 | SN0127 |
 | hipboy | hipboy | -1250 | SN0130 |
 | liweiwei | liweiwei90 | 0 | |
+| zhuwei290 | zhuwei290 | -85 | |
 | pandora | GeassCore | -4076 | |
