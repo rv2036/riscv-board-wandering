@@ -134,8 +134,28 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0128 | undefined-moe | | 1 | [details](#SN0128) | Delivered. | [details](#SN0128) |
 | 0129 | undefined-moe | | 1 | [details](#SN0128) | Duplicate. | [details](#SN0128) |
 | 0130 | hipboy | | 1 | "内存4G 存储60G cpu 4核" | Delivered. | 学习RISC-V相关课程 |
+| 0131 | GeassCore | | 1 | [details](#SN0131) | Waiting. | 软件移植与CI测试 |
+| 0132 | zhuwei290 | | 1 | [details](#SN0132) | Waiting. | openGauss |
+| 0133 | liweiwei90 | | 1 | [details](#SN0123) | Waiting. | 软件移植与测试 |
+
 
 ## Extra Notes
+
+### SN0133
+
+> LicheePi 4A * 2
+
+### SN0132
+
+> "Milk-V Duo S WIFI; Sophgo SG2000 SoC w/ wifi"
+>  "移植软件到RISC-V https://gitcode.com/opengauss/openGauss-embedded"
+
+### SN0131
+
+> "LicheePi 4A * 2
+> CanMV K230 * 1
+> LicheePi 3A * 1
+> 01Studio CanMV K230 * 1"
 
 ### SN0128
 
