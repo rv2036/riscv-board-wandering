@@ -98,7 +98,7 @@ Tranlated in Chinese:
 | VZstless | VictorZhangAI | -1250 | student & RISC-V enthusiast |
 | NanQin | NanQin555 | -1100 | PLCT intern, J146 |
 | lhpqaq | lhpqaq | -1250 | PLCT intern |
-| zhouliren | izhouliren | 581 | software engineer |
+| zhouliren | izhouliren | 2960 | software engineer |
 | Yusee | WhereIsYuuka | -1250 | student |
 | Trace_Recursion | TraceRecursion | -1250 | For Box64 RISC-V wiki |
 | SignKirigami | prcups | -1250 |for PLCT Intern, J128 |

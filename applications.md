@@ -85,7 +85,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0079 | rurumuri | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | PLCT J140 岗位需要，在 RISC-V 平台测试 box64 |
 | 0080 | FIFCC | | 1 | "CanMV K230 Suite w/ 13.3 TFT/LCD" | Delivered. | 用于验证和编写ruyisdk的相关文档 |
 | 0081 | FIFCC | | 1 | "Duo 256 + Duo S" | Delivered. | [details](#SN0081) |
-| 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Waiting. | 捐赠 |
+| 0082 | izhouliren | 1 | | 荔枝派 Console 4A,配置不详 | Received. (Nanjing Base) | 捐赠 |
 | 0083 | AlenWoo | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | [details](#SN0083) |
 | 0084 | MahnoKropotkinvich | | 1 | LicheePi 4A | Delivered. | 进行RISC-V Linux开发 |
 | 0085 | Tenktau | | 1 | LicheePi 4A | Delivered. | [details](#SN0085) |
