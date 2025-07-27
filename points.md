@@ -27,7 +27,7 @@ Tranlated in Chinese:
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| wuwei | lazyparser | 5287 | manager of wandering project |
+| wuwei | lazyparser | 6319 | manager of wandering project |
 | Xeonacid | Xeonacid | 0 | |
 | pz | zhixiao-zhang | -800 |  |
 | ezra | 255doesnotexist | 0 |  |
@@ -149,6 +149,6 @@ Tranlated in Chinese:
 | liweiwei | liweiwei90 | -2500 | |
 | zhuwei290 | zhuwei290 | -85 | |
 | pandora | GeassCore | -4076 | |
-| 羊 | YukariChiba | 0 | deepin RISC-V dev & eweOS dev |
+| 羊 | YukariChiba | -1032 | deepin RISC-V dev & eweOS dev |
 | ShanShuiXiLiu | ShanShuiXiLiu | 439 | SN0123 |
 
