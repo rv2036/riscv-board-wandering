@@ -149,3 +149,4 @@ Tranlated in Chinese:
 | liweiwei | liweiwei90 | -2500 | |
 | zhuwei290 | zhuwei290 | -85 | |
 | pandora | GeassCore | -4076 | |
+| 羊 | YukariChiba | 0 | deepin RISC-V dev & eweOS dev |
