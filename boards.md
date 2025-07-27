@@ -41,6 +41,7 @@ Tranlated in Chinese:
 | 1499   | Milk-V Megrez          | 16GB RAM, 19.95TOPS NPU, SiFive P550 x4 | - |
 | 249   | 01Studio CanMV K230          | w/o TFT/LCD                     | - |
 | 1024   | Milk-V Meles          | 16GB RAM, w/ 128G eMMC as a gift      | - |
+| 999   | ESWIN EIC7700 SBC          | 16GB 裸板，带散热 1095 包邮      | - |
 
 ## 南京漂流基地（英麒智能）
 
