@@ -105,6 +105,7 @@ Tranlated in Chinese:
 | OrangePi RV2           | 2GB RAM | 3 | 6 |  |
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 | 01Studio CanMV K230 | No RJ45 | 7 | 9 |  |
+| OrangePi RV2           | 8GB RAM | 1 | 1 |  |
 
 ## 大连漂流基地（大连理工大学）
 
