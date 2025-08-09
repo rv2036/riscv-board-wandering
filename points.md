@@ -151,4 +151,5 @@ Tranlated in Chinese:
 | pandora | GeassCore | -4076 | |
 | 羊 | YukariChiba | -2127 | deepin RISC-V dev & eweOS dev |
 | ShanShuiXiLiu | ShanShuiXiLiu | 439 | SN0123 |
+| huajun| zerokaze | 0 | student |
 
