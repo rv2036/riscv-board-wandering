@@ -140,7 +140,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0134 | jiuyewxy | | 1 | Duo S | Delivered. | 机器人应用测试 |
 | 0135 | ailunwowo | 1 | | LicheePi 4A 16GB RAM + 128GB eMMC | Waiting. | 捐赠,归还 |
 | 0136 | shiptux | | 1 | LicheePi 4A | Delivered. | 测试 RISC-V ros |
-| 0137 | zerokaze | | 1 | TH1520的开发板 | Waiting. | 测试risc-v所需要， |
+| 0137 | zerokaze | | 1 | TH1520的开发板 | Delivered. | 测试risc-v所需要， |
 | 0138 | yaozihong | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 用于进行对GLIBC RISCV相关拓展优化实现的性能评估 |
 
 ## Extra Notes
