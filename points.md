@@ -154,5 +154,5 @@ Tranlated in Chinese:
 | huajun| zerokaze | -1250 | student |
 | reconvene | reconvene | 0 | student |
 | hepei | helloworldxing | 0 | student |
-| yaozihong | yaozihong | 0 | student |
+| yaozihong | yaozihong | -1250 | student |
 | jiuyewxy | jiuyewxy | -85 | Researcher, Robotics |
