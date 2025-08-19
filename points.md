@@ -155,3 +155,4 @@ Tranlated in Chinese:
 | reconvene | reconvene | 0 | student |
 | hepei | helloworldxing | 0 | student |
 | yaozihong | yaozihong | 0 | student |
+| jiuyewxy | jiuyewxy | -85 | Researcher, Robotics |
