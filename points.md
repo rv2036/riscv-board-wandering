@@ -36,7 +36,7 @@ Tranlated in Chinese:
 | Ciroha | Ciroha | 0 | |
 | taozuhong | taozuhong | 0 | |
 | 章翔 | axiangyushanhaijing | -1250 | [RISC-V]文档工程主理人 |
-| licheng | shiptux | 0 | Principle Mentor of J128 deepin |
+| licheng | shiptux | -1250| Principle Mentor of J128 deepin |
 | U2 | U2FsdGVkX1 | 0 | |
 | sunmin | sunmin89 | -1250 | |
 | Guoguo | imguoguo | 0 | |
