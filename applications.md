@@ -142,6 +142,10 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0136 | shiptux | | 1 | LicheePi 4A | Delivered. | 测试 RISC-V ros |
 | 0137 | zerokaze | | 1 | TH1520的开发板 | Delivered. | 测试risc-v所需要， |
 | 0138 | yaozihong | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | 用于进行对GLIBC RISCV相关拓展优化实现的性能评估 |
+| 0138 | yaozihong | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Waiting. | 用于进行对GLIBC RISCV相关拓展优化实现的性能评估 |
+| 0139 | Glavo | 1 | | VisionFive 2, 8G RAM, 无 WiFi, 无 EMMC, 带亚克力外壳 | Waiting. | 捐赠 |
+| 0140 | mengzhuo | | 1 | Visionfive2，内存4G及以上 | Waiting. | FreeBSD Go 构建集群 |
+| 0141 | wadigzxc | | 1 | LicheePi 4A   16GB Memory + 128GB eMMC | Waiting. | 学习RISC-V相关课程实现uwsgi 在riscv上的构建和测试 |
 
 ## Extra Notes
 
