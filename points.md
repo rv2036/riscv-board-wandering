@@ -157,4 +157,4 @@ Tranlated in Chinese:
 | yaozihong | yaozihong | -1250 | student |
 | jiuyewxy | jiuyewxy | -85 | Researcher, Robotics |
 | Glavo | Glavo | 0 | Developer of PLCT |
-| intrigued | wadigzxc | student | student |
+| intrigued | wadigzxc | -1250 | student | student |
