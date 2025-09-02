@@ -109,7 +109,7 @@ Tranlated in Chinese:
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 | 01Studio CanMV K230 | No RJ45 | 7 | 9 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |
-| VisionFive 2           |  | 1 | 1 |  |
+| VisionFive 2           |  | 0 | 0 |  |
 
 ## 大连漂流基地（大连理工大学）
 
