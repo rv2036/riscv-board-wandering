@@ -156,5 +156,5 @@ Tranlated in Chinese:
 | hepei | helloworldxing | 0 | student |
 | yaozihong | yaozihong | -1250 | student |
 | jiuyewxy | jiuyewxy | -85 | Researcher, Robotics |
-| Glavo | Glavo | 0 | Developer of PLCT |
+| Glavo | Glavo | 450 | Developer of PLCT |
 | intrigued | wadigzxc | -1250 | student | student |
