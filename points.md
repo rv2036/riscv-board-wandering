@@ -159,3 +159,4 @@ Tranlated in Chinese:
 | Glavo | Glavo | 450 | Developer of PLCT |
 | intrigued | wadigzxc | -1250 | student | student |
 | sisungo | sisungo | 0 | student |
+| Iris Shi | el-ev | 0 | for PLCT Intern, BJ18 |
