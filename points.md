@@ -160,4 +160,4 @@ Tranlated in Chinese:
 | intrigued | wadigzxc | -1250 | student | student |
 | sisungo | sisungo | 0 | student |
 | Iris Shi | el-ev | 0 | for PLCT Intern, BJ18 |
-| xianliang | jia102823 | -1250 | student |
+| xianliang | jia102823 | 0 | student |
