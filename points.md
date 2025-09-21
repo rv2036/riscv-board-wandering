@@ -108,7 +108,7 @@ Tranlated in Chinese:
 | xianrenqi | xianrenqi | 3599 | student & RISC-V enthusiast |
 | Haodong|Astra-H77| -1250 |RISC-V enthusiast|
 | westhide | westhide | 0 | RISC-V enthusiast |
-| yurish1 | FIFCC | -405 | Ruyisdk Documentation Manager |
+| yurish1 | FIFCC | 0 | Ruyisdk Documentation Manager |
 | mahno | MahnoKropotkinvich | -1250 | RISC-V enthusiast |
 | Wantao Liu | Tenktau | -1250 | student |
 | Rili | stc15f104w | -1250 | student |
