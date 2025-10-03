@@ -160,5 +160,5 @@ Tranlated in Chinese:
 | intrigued | wadigzxc | -1250 | student | student |
 | sisungo | sisungo | 0 | student |
 | Iris Shi | el-ev | -1100 | for PLCT Intern, BJ18 |
-| xianliang | jia102823 | 0 | student |
+| xianliang | jia102823 | -1250 | student |
 | Nn-akf | Nn-akf | -249 | intern |

@@ -149,7 +149,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0143 | sisungo | | 1 | [details](#SN0143) | Waiting. | 想要在RISC-V Linux上测试软件，并解决问题 |
 | 0144 | westhide | | 1 | LicheePi 4A | Delivered. | [details](#SN0144) |
 | 0145 | el-ev | | 1 | LicheePi 3A 16GB RAM 32GB eMMC | Delivered. | 跑 RVV benchmark |
-| 0146 | xianliang | | 1 | LicheePi 4A,16+128G | Waiting. | [details](#SN0146) |
+| 0146 | xianliang | | 1 | LicheePi 4A,16+128G | Delivered. | [details](#SN0146) |
 
 ## Extra Notes
 
