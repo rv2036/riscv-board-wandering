@@ -161,3 +161,4 @@ Tranlated in Chinese:
 | sisungo | sisungo | 0 | student |
 | Iris Shi | el-ev | -1100 | for PLCT Intern, BJ18 |
 | xianliang | jia102823 | 0 | student |
+| Nn-akf | Nn-akf | -249 | intern |

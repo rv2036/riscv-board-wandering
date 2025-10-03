@@ -105,7 +105,7 @@ Tranlated in Chinese:
 | 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 10 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 0 | 8 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
-| OrangePi RV2           | 2GB RAM | 3 | 6 |  |
+| OrangePi RV2           | 2GB RAM | 2 | 5 |  |
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 | 01Studio CanMV K230 | No RJ45 | 7 | 9 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |

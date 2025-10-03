@@ -145,7 +145,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0139 | Glavo | 1 | | VisionFive 2, 8G RAM, 无 WiFi, 无 EMMC, 带亚克力外壳 | Received. Hangzhou | 捐赠 |
 | 0140 | mengzhuo | | 1 | Visionfive2，内存4G及以上 | Delivered. | FreeBSD Go 构建集群 |
 | 0141 | wadigzxc | | 1 | LicheePi 4A   16GB Memory + 128GB eMMC | Delivered. | 学习RISC-V相关课程实现uwsgi 在riscv上的构建和测试 |
-| 0142 | Nn-akf | | 1 | OrangePi RV2 2GB RAM | Waiting. | 进行RISC-V开发板的系统性学习，并进行J129的岗位工作 |
+| 0142 | Nn-akf | | 1 | OrangePi RV2 2GB RAM | Delivered. | 进行RISC-V开发板的系统性学习，并进行J129的岗位工作 |
 | 0143 | sisungo | | 1 | [details](#SN0143) | Waiting. | 想要在RISC-V Linux上测试软件，并解决问题 |
 | 0144 | westhide | | 1 | LicheePi 4A | Waiting. | [details](#SN0144) |
 | 0145 | el-ev | | 1 | LicheePi 3A 16GB RAM 32GB eMMC | Waiting. | 跑 RVV benchmark |
