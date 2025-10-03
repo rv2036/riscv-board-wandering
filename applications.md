@@ -148,7 +148,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0142 | Nn-akf | | 1 | OrangePi RV2 2GB RAM | Delivered. | 进行RISC-V开发板的系统性学习，并进行J129的岗位工作 |
 | 0143 | sisungo | | 1 | [details](#SN0143) | Waiting. | 想要在RISC-V Linux上测试软件，并解决问题 |
 | 0144 | westhide | | 1 | LicheePi 4A | Delivered. | [details](#SN0144) |
-| 0145 | el-ev | | 1 | LicheePi 3A 16GB RAM 32GB eMMC | Waiting. | 跑 RVV benchmark |
+| 0145 | el-ev | | 1 | LicheePi 3A 16GB RAM 32GB eMMC | Delivered. | 跑 RVV benchmark |
 | 0146 | xianliang | | 1 | LicheePi 4A,16+128G | Waiting. | [details](#SN0146) |
 
 ## Extra Notes
