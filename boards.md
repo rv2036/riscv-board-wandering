@@ -42,6 +42,8 @@ Tranlated in Chinese:
 | 249   | 01Studio CanMV K230          | w/o TFT/LCD                     | - |
 | 1024   | Milk-V Meles          | 16GB RAM, w/ 128G eMMC as a gift      | - |
 | 999   | ESWIN EIC7700 SBC          | 16GB 裸板，带散热 1095 包邮      | - |
+|    249 | Avaota F1          | V821      | - |
+|     99 | CKLINK 调试模块          | 百问网      | - |
 
 ## 南京漂流基地（英麒智能）
 
@@ -110,6 +112,8 @@ Tranlated in Chinese:
 | 01Studio CanMV K230 | No RJ45 | 7 | 9 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |
 | VisionFive 2           |  | 0 | 0 |  |
+| Avaota F1       | V821 | 2 | 5 |  |
+| CKLINK 调试模块     | 百问网 | 0 | 2 |  |
 
 ## 大连漂流基地（大连理工大学）
 

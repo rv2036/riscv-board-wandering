@@ -24,6 +24,7 @@ Tranlated in Chinese:
 | 苦芽科技 | KUBUDS | 11100 | https://kubuds.io |
 | 迅龙软件 | OrangePi | 4980 | http://www.xunlong.tv/ |
 | 嘉楠 | Cannan | 2490 | https://www.canaan-creative.com/ |
+| 百问网 |  | 1443 | https://100ask.net/ |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
