@@ -166,4 +166,4 @@ Tranlated in Chinese:
 | Yao Zi | ziyao233 | 0 | Kubuds staff, eweOS maintainer |
 | anic | anicbeer | 0 | student |
 | ChuanN | ChuanN-sudo | 0 | student |
-
+| iex123 | iexplore123 | 0 | student |
