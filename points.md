@@ -168,3 +168,4 @@ Tranlated in Chinese:
 | ChuanN | ChuanN-sudo | 0 | student |
 | iex123 | iexplore123 | 0 | student |
 |TinyeungKwan |TinyuengKwan | 0 | student & RISC-V enthusiast |
+| HaneroZ | HaneroZ | 0 | student & for Lichee Pi 4A, J122 |
