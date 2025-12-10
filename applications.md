@@ -150,8 +150,29 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0144 | westhide | | 1 | LicheePi 4A | Delivered. | [details](#SN0144) |
 | 0145 | el-ev | | 1 | LicheePi 3A 16GB RAM 32GB eMMC | Delivered. | 跑 RVV benchmark |
 | 0146 | xianliang | | 1 | LicheePi 4A,16+128G | Delivered. | [details](#SN0146) |
+| 0147 | TraceRecursion | 1 | | LicheePi 4A + 3D打印的外壳 | Waiting. | 捐赠 |
+| 0148 | ziyao233 | | 1 | Avaota F1 开发板 | Waiting. | 进行 v821 SoC 主线化工作 |
+| 0149 | anic | | 1 | [details](#SN0149) | Waiting. | [details](#SN0149) |
+| 0150 | iexplore123 | | 1 | LicheePi 4A | Waiting. | 实际体验ruyisdk,尝试riscv平台的开发流程 |
+| 0151 | ChuanN-sudo | | 1 | CanMV K230 LPDDR4 1GB/2GB内存 | Waiting. | rtt社区实习生，拿到开发板之后进行K230的BSP主线化移植 |
+| 0152 | SeasonMay | 1 | | Lichee Pi 4A 8+32GB版本，原装包装盒，含原装风扇数据线散热片 | Waiting. | 捐赠 |
+| 0153 | TinyuengKwan | | 1 | [details](#SN0153) | Waiting. | [details](#SN0153) |
+| 0154 | HaneroZ | | 1 | 荔枝派4a 16G+128 | Waiting. | 跑riscv➕openEuler➕ros2，自主巡检 |
+| 0155 | JYbrucEupup | | 1 | Cannan k230 c908 | Waiting. | 学习riscv驱动开发 |
 
 ## Extra Notes
+
+### SN0153
+
+> "希望能认领一块能够稳定运行Linux系统（如Debian/Ubuntu）的RISC-V开发板。因为实习工作需要在Linux环境下搭建RISC-V工具链、编译Sail模型以及部署和运行ACT测试框架。
+>
+> "计划申请并参与PLCT实验室的「P121 RISC-V 测试实习生 (Sail/ACT 测试方向)」项目。"
+
+### SN0149
+
+> "希望在2GB以上的内存（想跑图形界面），cpu主频最好600M-1GHZ以上。有Mmu，eMMc等外设。"
+>
+> 想试着在riscv架构的开发板跑起操作系统。我接触过fpga，基于riscvi写过5级流水的cpu。
 
 ### SN0146
 
