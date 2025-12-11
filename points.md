@@ -166,6 +166,6 @@ Tranlated in Chinese:
 | Yao Zi | ziyao233 | -348 | Kubuds staff, eweOS maintainer |
 | anic | anicbeer | -1250 | student |
 | ChuanN | ChuanN-sudo | 0 | student |
-| iex123 | iexplore123 | 0 | student |
+| iex123 | iexplore123 | -1250 | student |
 |TinyeungKwan |TinyuengKwan | 0 | student & RISC-V enthusiast |
 | HaneroZ | HaneroZ | 0 | student & for Lichee Pi 4A, J122 |
