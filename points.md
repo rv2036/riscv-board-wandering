@@ -169,3 +169,4 @@ Tranlated in Chinese:
 | iex123 | iexplore123 | -1250 | student |
 |TinyeungKwan |TinyuengKwan | -1250 | student & RISC-V enthusiast |
 | HaneroZ | HaneroZ | -1250 | student & for Lichee Pi 4A, J122 |
+| JYbrucEupup | JYbrucEupup | -227 | |
