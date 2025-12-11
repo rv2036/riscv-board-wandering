@@ -165,7 +165,7 @@ Tranlated in Chinese:
 | Nn-akf | Nn-akf | -249 | intern |
 | Yao Zi | ziyao233 | -348 | Kubuds staff, eweOS maintainer |
 | anic | anicbeer | -1250 | student |
-| ChuanN | ChuanN-sudo | 0 | student |
+| ChuanN | ChuanN-sudo | -227 | student |
 | iex123 | iexplore123 | -1250 | student |
 |TinyeungKwan |TinyuengKwan | 0 | student & RISC-V enthusiast |
 | HaneroZ | HaneroZ | 0 | student & for Lichee Pi 4A, J122 |
