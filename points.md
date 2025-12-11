@@ -163,7 +163,7 @@ Tranlated in Chinese:
 | Iris Shi | el-ev | -1100 | for PLCT Intern, BJ18 |
 | xianliang | jia102823 | -1250 | student |
 | Nn-akf | Nn-akf | -249 | intern |
-| Yao Zi | ziyao233 | 0 | Kubuds staff, eweOS maintainer |
+| Yao Zi | ziyao233 | -348 | Kubuds staff, eweOS maintainer |
 | anic | anicbeer | 0 | student |
 | ChuanN | ChuanN-sudo | 0 | student |
 | iex123 | iexplore123 | 0 | student |

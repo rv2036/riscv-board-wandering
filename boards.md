@@ -112,8 +112,8 @@ Tranlated in Chinese:
 | 01Studio CanMV K230 | No RJ45 | 7 | 9 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |
 | VisionFive 2           |  | 0 | 0 |  |
-| Avaota F1       | V821 | 2 | 5 |  |
-| CKLINK 调试模块     | 百问网 | 0 | 2 |  |
+| Avaota F1       | V821 | 2 | 4 |  |
+| CKLINK 调试模块     | 百问网 | 0 | 1 |  |
 
 ## 大连漂流基地（大连理工大学）
 

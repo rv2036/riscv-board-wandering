@@ -151,7 +151,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0145 | el-ev | | 1 | LicheePi 3A 16GB RAM 32GB eMMC | Delivered. | 跑 RVV benchmark |
 | 0146 | xianliang | | 1 | LicheePi 4A,16+128G | Delivered. | [details](#SN0146) |
 | 0147 | TraceRecursion | 1 | | LicheePi 4A + 3D打印的外壳 | Received. | 捐赠 |
-| 0148 | ziyao233 | | 1 | Avaota F1 开发板 | Waiting. | 进行 v821 SoC 主线化工作 |
+| 0148 | ziyao233 | | 1 | Avaota F1 开发板 | Delivered. | 进行 v821 SoC 主线化工作 |
 | 0149 | anic | | 1 | [details](#SN0149) | Waiting. | [details](#SN0149) |
 | 0150 | iexplore123 | | 1 | LicheePi 4A | Waiting. | 实际体验ruyisdk,尝试riscv平台的开发流程 |
 | 0151 | ChuanN-sudo | | 1 | CanMV K230 LPDDR4 1GB/2GB内存 | Waiting. | rtt社区实习生，拿到开发板之后进行K230的BSP主线化移植 |
