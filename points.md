@@ -167,5 +167,5 @@ Tranlated in Chinese:
 | anic | anicbeer | -1250 | student |
 | ChuanN | ChuanN-sudo | -227 | student |
 | iex123 | iexplore123 | -1250 | student |
-|TinyeungKwan |TinyuengKwan | 0 | student & RISC-V enthusiast |
+|TinyeungKwan |TinyuengKwan | -1250 | student & RISC-V enthusiast |
 | HaneroZ | HaneroZ | 0 | student & for Lichee Pi 4A, J122 |

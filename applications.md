@@ -156,7 +156,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0150 | iexplore123 | | 1 | LicheePi 4A | Delivered. | 实际体验ruyisdk,尝试riscv平台的开发流程 |
 | 0151 | ChuanN-sudo | | 1 | CanMV K230 LPDDR4 1GB/2GB内存 | Delivered. | rtt社区实习生，拿到开发板之后进行K230的BSP主线化移植 |
 | 0152 | SeasonMay | 1 | | Lichee Pi 4A 8+32GB版本，原装包装盒，含原装风扇数据线散热片 | Waiting. | 捐赠 |
-| 0153 | TinyuengKwan | | 1 | [details](#SN0153) | Waiting. | [details](#SN0153) |
+| 0153 | TinyuengKwan | | 1 | [details](#SN0153) | Delivered. | [details](#SN0153) |
 | 0154 | HaneroZ | | 1 | 荔枝派4a 16G+128 | Waiting. | 跑riscv➕openEuler➕ros2，自主巡检 |
 | 0155 | JYbrucEupup | | 1 | Cannan k230 c908 | Waiting. | 学习riscv驱动开发 |
 
