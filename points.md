@@ -170,3 +170,5 @@ Tranlated in Chinese:
 |TinyeungKwan |TinyuengKwan | -1250 | student & RISC-V enthusiast |
 | HaneroZ | HaneroZ | -1250 | student & for Lichee Pi 4A, J122 |
 | JYbrucEupup | JYbrucEupup | -227 | |
+| 铭 | zjm54321 | 0 | student |
+| 廖 | if-zero-123 | 0 | student |
