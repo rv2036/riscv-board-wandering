@@ -170,3 +170,4 @@ Tranlated in Chinese:
 |TinyeungKwan |TinyuengKwan | -1250 | student & RISC-V enthusiast |
 | HaneroZ | HaneroZ | -1250 | student & for Lichee Pi 4A, J122 |
 | JYbrucEupup | JYbrucEupup | -227 | |
+| HNO3 | HNO3Miracle | 0 | PLCT intern & student|
