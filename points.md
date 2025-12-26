@@ -172,3 +172,4 @@ Tranlated in Chinese:
 | JYbrucEupup | JYbrucEupup | -227 | |
 | 铭 | zjm54321 | 0 | student |
 | 廖 | if-zero-123 | 0 | student |
+| HNO3 | HNO3Miracle | 0 | PLCT intern & student|
