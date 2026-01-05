@@ -171,5 +171,5 @@ Tranlated in Chinese:
 | HaneroZ | HaneroZ | -1250 | student & for Lichee Pi 4A, J122 |
 | JYbrucEupup | JYbrucEupup | -227 | |
 | 铭 | zjm54321 | -1100 | student |
-| 廖 | if-zero-123 | 0 | student |
+| 廖 | if-zero-123 | -1100 | student |
 | HNO3 | HNO3Miracle | 0 | PLCT intern & student|

@@ -161,7 +161,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0155 | JYbrucEupup | | 1 | Cannan k230 c908 | Delivered. | 学习riscv驱动开发 |
 | 0156 | aisuneko | | 1 | "LicheePi 4A (16+128) 如果没有则接受 OrangePi RV2 (8GB)" | Delivered. | 用于J167实习(及pretask等） |
 | 0157 | zjm54321 | | 1 | Lichee Pi 3A | Delivered. | 希望能在 RISC-V 开发板上运行 Gentoo Linux |
-| 0158 | if-zero-123 | | 1 | Lichee pi 3a | Waiting. | 学习risc-v课程，想学习编译操作系统 |
+| 0158 | if-zero-123 | | 1 | Lichee pi 3a | Delivered. | 学习risc-v课程，想学习编译操作系统 |
 | 0159 | HNO3Miracle | | 1 | 无具体型号要求 | Waiting. | PLCT intern & student，在真实环境中开发 toolchain |
 
 ## Extra Notes
