@@ -45,6 +45,7 @@ Tranlated in Chinese:
 | 999   | ESWIN EIC7700 SBC          | 16GB 裸板，带散热 1095 包邮      | - |
 |    249 | Avaota F1          | V821      | - |
 |     99 | CKLINK 调试模块          | 百问网      | - |
+| 640   | Radxa Q6A | 8GB | - |
 
 ## 南京漂流基地（英麒智能）
 
@@ -116,6 +117,7 @@ Tranlated in Chinese:
 | VisionFive 2           |  | 0 | 0 |  |
 | Avaota F1       | V821 | 2 | 4 |  |
 | CKLINK 调试模块     | 百问网 | 0 | 1 |  |
+| Radxa Q6A     | 8GB + UFS/eMMC | 0 | 1 |  |
 
 ## 大连漂流基地（大连理工大学）
 
