@@ -97,7 +97,7 @@ Tranlated in Chinese:
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 12 | 37 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 11 | 36 |  |
 | LicheePi 4A 8GB       | 8GB + 32GB | 1 | 1 |
 | Milk-V Duo S | Sophgo SG2000 SoC | 0 | 1 | |
 | Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 0 | 1 | |

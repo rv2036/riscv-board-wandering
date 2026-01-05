@@ -93,7 +93,7 @@ Tranlated in Chinese:
 | Song | SongYuSheng1216 | 49 | student & RISC-V enthusiast |
 | kagura | kagura114 | -1250 | for PLCT Intern, J143 |
 | ZhangPeng | Zpp027 | -1250 | student & RISC-V enthusiast |
-| aisuneko | aisuneko | 0 | |
+| aisuneko | aisuneko | -1250 | |
 | SkyRain | KamijoToma | -1250 | for PLCT Intern, J143 |
 | ZZ123 | Me3ue | -1250 | student & RISC-V enthusiast |
 | VZstless | VictorZhangAI | -1250 | student & RISC-V enthusiast |
