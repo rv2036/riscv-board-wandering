@@ -174,3 +174,4 @@ Tranlated in Chinese:
 | 铭 | zjm54321 | -1100 | student |
 | 廖 | if-zero-123 | -1100 | student |
 | HNO3 | HNO3Miracle | -1100 | PLCT intern & student|
+| yuan dong | ibvqeibob | 0 | PLCT intern & student|
