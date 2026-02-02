@@ -46,6 +46,7 @@ Tranlated in Chinese:
 |    249 | Avaota F1          | V821      | - |
 |     99 | CKLINK 调试模块          | 百问网      | - |
 | 640   | Radxa Q6A | 8GB | - |
+| 2800   | SiFive P550 Board | 16GB | $399 |
 
 ## 南京漂流基地（英麒智能）
 
@@ -118,6 +119,7 @@ Tranlated in Chinese:
 | Avaota F1       | V821 | 2 | 4 |  |
 | CKLINK 调试模块     | 百问网 | 0 | 1 |  |
 | Radxa Q6A     | 8GB + UFS/eMMC | 0 | 1 |  |
+| SiFive P550 Board | 16GB | 0 | 13 |  |
 
 ## 大连漂流基地（大连理工大学）
 

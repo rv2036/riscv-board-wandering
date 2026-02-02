@@ -17,7 +17,7 @@ Tranlated in Chinese:
 | 矽速科技 | Sipeed | 48000 | 开发板赞助厂商 |
 | 群芯闪耀 | Milk-V | 12159 | 开发板赞助厂商 |
 | 进迭时空 | SpacemiT | 2498 | 开发板赞助厂商 |
-| SiFive | SiFive | 24500 | 开发板赞助厂商 |
+| SiFive | SiFive | 60900 | 开发板赞助厂商 |
 | RISC-V国际基金会 | RISC-V International | 3596 | RVI DevBoards Program |
 | 秦派软件 | qinware | 2916 | 生产力工具软件提供商 |
 | 玄铁团队 | XuanTie | 267880 | xrvm.cn |
