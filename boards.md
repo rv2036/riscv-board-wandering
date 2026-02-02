@@ -94,6 +94,7 @@ Tranlated in Chinese:
 | Milk-V Duo            | - | 0 | 0 | 用于RISC-V研讨会现场分发给观众 |
 | OrangePi RV2           | 2GB RAM | 3 | 5 |  |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 0 | 4 | https://www.sifive.com/boards/hifive-unmatched |
+| SiFive P550 Board | 16GB | 0 | 4 |  |
 
 ## 杭州漂流基地（苦芽科技）
 
@@ -119,7 +120,7 @@ Tranlated in Chinese:
 | Avaota F1       | V821 | 2 | 4 |  |
 | CKLINK 调试模块     | 百问网 | 0 | 1 |  |
 | Radxa Q6A     | 8GB + UFS/eMMC | 0 | 1 |  |
-| SiFive P550 Board | 16GB | 0 | 13 |  |
+| SiFive P550 Board | 16GB | 0 | 9 |  |
 
 ## 大连漂流基地（大连理工大学）
 
