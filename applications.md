@@ -166,6 +166,8 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0160 | ibvqeibob | | 1 | 荔枝派4a | Delivered. | 想要使用buddy编译器在RISC-V Linux开发板上 |
 | 0162 | Goldbro233 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Deploy Gentoo Linux on RISC-V board and then trying to use toolchain to run a x86-64 game(Turing Complete) on it. |
 
+| 0165 | Goldbro233 | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | For deploying multiple different system(NixOS, Arch Linux, Fedora etc.) and natively compiling for RISC-V software packages. |
+
 ## Extra Notes
 
 ### SN0153
