@@ -175,4 +175,6 @@ Tranlated in Chinese:
 | 廖 | if-zero-123 | -1100 | student |
 | HNO3 | HNO3Miracle | -1100 | PLCT intern & student|
 | yuan dong | ibvqeibob | -1250 | PLCT intern & student|
+| upsetgrass | upsetgrass | -1250 | student & RISC-V Contributors |
+| Bowen Sun | GoldBro233 | 0 | student & RISC-V enthusiast |
 | tangjing2021 | tangjing2021 | 0 | student & RISC-V enthusiast|
