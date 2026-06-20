@@ -48,6 +48,9 @@ Tranlated in Chinese:
 | 640   | Radxa Q6A | 8GB | - |
 | 2800   | SiFive P550 Board | 16GB | $399 |
 | 3999 | SpacemiT MUSEBook | 16GB 内存, 256GB ssd | K1 |
+| 2399 | Jupiter2 8GB | 8GB 内存, 128GB eMMC/UFS | K3 带光网口开发板 |
+| 2999 | Jupiter2 16GB | 16GB 内存, 128GB eMMC/UFS | K3 带光网口开发板 |
+| 4499 | Jupiter2 32GB | 32GB 内存, 128GB eMMC/UFS | K3 带光网口开发板 |
 
 ## 南京漂流基地（英麒智能）
 
@@ -125,6 +128,7 @@ Tranlated in Chinese:
 | CKLINK 调试模块     | 百问网 | 0 | 1 |  |
 | Radxa Q6A     | 8GB + UFS/eMMC | 0 | 1 |  |
 | SiFive P550 Board | 16GB | 0 | 9 |  |
+| 进迭时空K3开发板（NUC） | 16GB | 0 | 1 |  |
 
 
 ## 大连漂流基地（大连理工大学）
