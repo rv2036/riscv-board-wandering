@@ -11,21 +11,21 @@ Tranlated in Chinese:
 
 甲辰计划RISC-V开发板随缘漂流计划的表格设计好了第一版，[请想要捐赠或认领开发板的伙伴填写](https://www.wenjuan.com/s/UZBZJvWx2p/)。请在填写前确保自己在 points.md 中提交了自己的昵称和 GitHub ID。
 
-| Sponsor Name | English Name            | Wandering Points | Extra Info |
+| Sponsor Name          | English Name         | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
-| 算能 (Sophgo) | sophgo | 2640 | 开发板赞助厂商 |
-| 矽速科技 | Sipeed | 48000 | 开发板赞助厂商 |
-| 群芯闪耀 | Milk-V | 12159 | 开发板赞助厂商 |
-| 进迭时空 | SpacemiT | 5497 | 开发板赞助厂商 |
-| SiFive | SiFive | 60900 | 开发板赞助厂商 |
-| RISC-V国际基金会 | RISC-V International | 3596 | RVI DevBoards Program |
-| 秦派软件 | qinware | 2916 | 生产力工具软件提供商 |
-| 玄铁团队 | XuanTie | 267880 | xrvm.cn |
-| 苦芽科技 | KUBUDS | 11100 | https://kubuds.io |
-| 迅龙软件 | OrangePi | 4980 | http://www.xunlong.tv/ |
-| 嘉楠 | Cannan | 2490 | https://www.canaan-creative.com/ |
-| 百问网 |  | 1443 | https://100ask.net/ |
-| 瑞莎 | Radxa | 1000 | |
+| 算能 (Sophgo)          | sophgo               |             2640 | 开发板赞助厂商 |
+| 矽速科技               | Sipeed               |             48000 | 开发板赞助厂商 |
+| 群芯闪耀               | Milk-V               |             12159 | 开发板赞助厂商 |
+| 进迭时空               | SpacemiT             |              5497 | 开发板赞助厂商 |
+| SiFive                | SiFive               |             60900 | 开发板赞助厂商 |
+| RISC-V国际基金会        | RISC-V International |              3596 | RVI DevBoards Program |
+| 秦派软件               | qinware              |              2916 | 生产力工具软件提供商 |
+| 玄铁团队               | XuanTie              |            267880 | xrvm.cn |
+| 苦芽科技               | KUBUDS               |             11100 | https://kubuds.io |
+| 迅龙软件               | OrangePi             |              4980 | http://www.xunlong.tv/ |
+| 嘉楠                  | Cannan                |              2490 | https://www.canaan-creative.com/ |
+| 百问网                 |                      |              1443 | https://100ask.net/ |
+| 瑞莎                  | Radxa                 |              1000 | |
 
 | Developer (Nick)Name | GitHub ID            | Wandering Points | Extra Info |
 | :-------------------- | :------------------- | ---------------: | :--------- |
