@@ -53,7 +53,7 @@ Tranlated in Chinese:
 | Revy | revysr | 0 | |
 | Icenowy Zheng | Icenowy | 0 | |
 | Felix Yan | felixonmars | 0 | Arch Linux Developer and RISC-V port owner |
-| Puqns67 | Puqns67 | -1250 | |
+| Puqns67 | Puqns67 | 450 | |
 | Luc Ma | lucmann | -1250 | |
 | CSC | Z8MAN8 | -1250 |  |
 | liqi | LiQi19970428 | 0 |  |
@@ -71,7 +71,7 @@ Tranlated in Chinese:
 | yzgl | Yzgll | -1250 | student & RISC-V enthusiast |
 | Sherlockzhangjinge | Sherlockzhangjinge | -1250 | student & RISC-V enthusiast |
 | calacaly | calacaly | -1250 | student |
-| 蒙卓 | mengzhuo | 4225 | Developer of PLCT and Go port owner |
+| 蒙卓 | mengzhuo | 11205 | Developer of PLCT and Go port owner |
 | yunxiang | YunxiangLuo | -200 | |
 | yjmstr | yjmstr | -1250 | |
 | xeonds | xeonds | -1250 | |
@@ -175,7 +175,7 @@ Tranlated in Chinese:
 | 廖 | if-zero-123 | -1100 | student |
 | HNO3 | HNO3Miracle | -1100 | PLCT intern & student|
 | yuan dong | ibvqeibob | -1250 | PLCT intern & student|
-| Leo Jia | yuanzui_cf | 0 | Student & RISC-V enthusiast |
+| Leo Jia | yuanzui_cf | -1250 | Student & RISC-V enthusiast |
 | upsetgrass | upsetgrass | -1250 | student & RISC-V Contributors |
-| Bowen Sun | GoldBro233 | 0 | student & RISC-V enthusiast |
-| tangjing2021 | tangjing2021 | 0 | student & RISC-V enthusiast|
+| Bowen Sun | GoldBro233 | -1250 | student & RISC-V enthusiast |
+| tangjing2021 | tangjing2021 | -1250 | student & RISC-V enthusiast|

@@ -164,12 +164,44 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0158 | if-zero-123 | | 1 | Lichee pi 3a | Delivered. | 学习risc-v课程，想学习编译操作系统 |
 | 0159 | HNO3Miracle | | 1 | 无具体型号要求 | Delivered. | PLCT intern & student，在真实环境中开发 toolchain |
 | 0160 | ibvqeibob | | 1 | 荔枝派4a | Delivered. | 想要使用buddy编译器在RISC-V Linux开发板上 |
-| 0161 | upsetgrass | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | used to research box64 |
-| 0162 | Goldbro233 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Deploy Gentoo Linux on RISC-V board and then trying to use toolchain to run a x86-64 game(Turing Complete) on it. |
-| 0163 | tangjing2021 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | 用于RISC-V学习 |
-| 0165 | Goldbro233 | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | For deploying multiple different system(NixOS, Arch Linux, Fedora etc.) and natively compiling for RISC-V software packages. |
+| 0161 | upsetgrass | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | [details](#SN0161) |
+| 0162 | yuanzui_cf | | 1 | LicheePi 4A 16GB RAM + 128GB eMMC | Delivered. | [details](#SN0162) |
+| 0163 | GoldBro233 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | [details](#SN0163) |
+| 0164 | lxr2010 | 1 | | MilkV Duo 256M SG2002 | Waiting. | 归还开发板 |
+| 0165 | tangjing2021 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | 学习linux、启动RISC-V Linux |
+| 0166 | Puqns67 | 1 | | "Sipeed LicheePi 4A 16GB Memory 128GB eMMC; StarFive VisionFive 2 8GB Memory，带散热片" | Received. | 捐赠 |
+| 0167 | XingHE-YX | | 1 | 荔枝派 4A 16GB 内存 + 128GB eMMC | Waiting. | 想进行RISC-V 体系结构学习以及嵌入式裸机与 OS 开发 |
+| 0168 | mengzhuo | 1 | | [details](#SN0168) | Received. | 捐赠 |
+| 0169 | Goldbro233 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Duplicate. | see #SN0163 |
 
 ## Extra Notes
+
+### SN0169
+
+> For deploying and testing multiple different system like NixOS or Arch Linux from original Debian RevyOS and natively compiling the software packages for RISC-V.
+
+### SN0168
+
+```
+points	名称			参数	
+3999	SpacemiT MUSEBook	16GB 内存, 256GB ssd
+281	OrangePi RV		4G 内存
+0	OrangePi RV2		2G 内存，板子炸了，但SoC应该是好的
+2700	VisionFive2 (x6)	4G内存"
+```
+
+### SN0163
+
+> I want to install Gentoo Linux on this RISC-V board and then try  to use proper toolchain to run a x86-64 game (Turing Complete) on this board.
+> For deploying multiple different system(NixOS, Arch Linux, Fedora etc.) and natively compiling for RISC-V software packages.
+
+### SN0162
+
+> "学习操作系统，想在 RISC-V 上测试（https://rcore-os.cn/rCore-Tutorial-Book-v3/index.html） 另外如果可能，可以尝试移植一些程序"
+
+### SN0161
+
+> 二进制翻译研究者，测试box64在RV64上的真实表现 & 开发新的二进制翻译软件时在真实板子上进行测试
 
 ### SN0153
 

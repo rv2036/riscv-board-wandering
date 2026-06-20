@@ -47,6 +47,7 @@ Tranlated in Chinese:
 |     99 | CKLINK 调试模块          | 百问网      | - |
 | 640   | Radxa Q6A | 8GB | - |
 | 2800   | SiFive P550 Board | 16GB | $399 |
+| 3999 | SpacemiT MUSEBook | 16GB 内存, 256GB ssd | K1 |
 
 ## 南京漂流基地（英麒智能）
 
@@ -95,12 +96,13 @@ Tranlated in Chinese:
 | OrangePi RV2           | 2GB RAM | 3 | 5 |  |
 | SiFive Unmatched | SiFive Freedom U740 SoC | 0 | 4 | https://www.sifive.com/boards/hifive-unmatched |
 | SiFive P550 Board | 16GB | 0 | 4 |  |
+| SpacemiT MUSEBook | 16GB 内存, 256GB ssd | 0 | 1 |
 
 ## 杭州漂流基地（苦芽科技）
 
 | Board Name            | Detailed Configs (Mem, eMMC, WIFI)        | Available Num | Total | Extra Info |
 | :-------------------- | :---------------------------------------- | ---------------: | --------: | :--------- |
-| LicheePi 4A           | 16GB Memory + 128GB eMMC | 10 | 35 |  |
+| LicheePi 4A           | 16GB Memory + 128GB eMMC | 7 | 32 |  |
 | LicheePi 4A 8GB       | 8GB + 32GB | 1 | 1 |
 | Milk-V Duo S | Sophgo SG2000 SoC | 0 | 1 | |
 | Milk-V Duo S WIFI | Sophgo SG2000 SoC w/ wifi | 0 | 1 | |
@@ -116,11 +118,14 @@ Tranlated in Chinese:
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
 | 01Studio CanMV K230 | No RJ45 | 7 | 9 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |
-| VisionFive 2           |  | 0 | 0 |  |
+| OrangePi RV2           | 8GB RAM | 1 | 1 | 有一个快掉的 |
+| VisionFive 2           | 4G内存 | 6 | 6 |  |
+| VisionFive 2           | 8G内存 | 1 | 1 |  |
 | Avaota F1       | V821 | 2 | 4 |  |
 | CKLINK 调试模块     | 百问网 | 0 | 1 |  |
 | Radxa Q6A     | 8GB + UFS/eMMC | 0 | 1 |  |
 | SiFive P550 Board | 16GB | 0 | 9 |  |
+
 
 ## 大连漂流基地（大连理工大学）
 
