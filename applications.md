@@ -164,6 +164,10 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0158 | if-zero-123 | | 1 | Lichee pi 3a | Delivered. | 学习risc-v课程，想学习编译操作系统 |
 | 0159 | HNO3Miracle | | 1 | 无具体型号要求 | Delivered. | PLCT intern & student，在真实环境中开发 toolchain |
 | 0160 | ibvqeibob | | 1 | 荔枝派4a | Delivered. | 想要使用buddy编译器在RISC-V Linux开发板上 |
+| 0161 | upsetgrass | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | used to research box64 |
+| 0162 | Goldbro233 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Deploy Gentoo Linux on RISC-V board and then trying to use toolchain to run a x86-64 game(Turing Complete) on it. |
+| 0163 | tangjing2021 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | 用于RISC-V学习 |
+| 0165 | Goldbro233 | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | For deploying multiple different system(NixOS, Arch Linux, Fedora etc.) and natively compiling for RISC-V software packages. |
 
 ## Extra Notes
 
