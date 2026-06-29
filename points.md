@@ -120,7 +120,7 @@ Tranlated in Chinese:
 | 6eanut | 6eanut | -1250 | student & RISC-V enthusiast |
 | aki-mio | aki-mio | -1250 | student & for Lichee Pi 4A |
 | Pairman | Pairman | -1250 | student |
-| lxr2010 | lxr2010 | -110 | student |
+| lxr2010 | lxr2010 | 0 | student |
 | Cody Gu | discodyer | -1250 | for PLCT Intern, J122 |
 | damon | sycamoremoon | -1250 | RISC-V enthusiast|
 | 猫叔 | Tunglies | 0 | |
