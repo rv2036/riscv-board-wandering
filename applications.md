@@ -170,7 +170,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0164 | lxr2010 | 1 | | MilkV Duo 256M SG2002 | Waiting. | 归还开发板 |
 | 0165 | tangjing2021 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Delivered. | 学习linux、启动RISC-V Linux |
 | 0166 | Puqns67 | 1 | | "Sipeed LicheePi 4A 16GB Memory 128GB eMMC; StarFive VisionFive 2 8GB Memory，带散热片" | Received. | 捐赠 |
-| 0167 | XingHE-YX | | 1 | 荔枝派 4A 16GB 内存 + 128GB eMMC | Waiting. | 想进行RISC-V 体系结构学习以及嵌入式裸机与 OS 开发 |
+| 0167 | XingHE-YX | | 1 | 荔枝派 4A 16GB 内存 + 128GB eMMC | Delivered. | 想进行RISC-V 体系结构学习以及嵌入式裸机与 OS 开发 |
 | 0168 | mengzhuo | 1 | | [details](#SN0168) | Received. | 捐赠 |
 | 0169 | Goldbro233 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Duplicate. | see #SN0163 |
 

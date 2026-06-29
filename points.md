@@ -179,3 +179,4 @@ Tranlated in Chinese:
 | upsetgrass | upsetgrass | -1250 | student & RISC-V Contributors |
 | Bowen Sun | GoldBro233 | -1250 | student & RISC-V enthusiast |
 | tangjing2021 | tangjing2021 | -1250 | student & RISC-V enthusiast|
+| XingHE-YX | XingHE-YX | -1250 | S0167 |
