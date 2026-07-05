@@ -180,3 +180,4 @@ Tranlated in Chinese:
 | Bowen Sun | GoldBro233 | -1250 | student & RISC-V enthusiast |
 | tangjing2021 | tangjing2021 | -1250 | student & RISC-V enthusiast|
 | XingHE-YX | XingHE-YX | -1250 | S0167 |
+| sss | sss-1227 | 0 | student |
