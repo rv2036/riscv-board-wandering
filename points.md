@@ -181,3 +181,4 @@ Tranlated in Chinese:
 | tangjing2021 | tangjing2021 | -1250 | student & RISC-V enthusiast|
 | XingHE-YX | XingHE-YX | -1250 | S0167 |
 | Wang Zhiling | wuandx  | 0 | 	student & RISC-V enthusiast |
+| sss | sss-1227 | 0 | student |
