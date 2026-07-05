@@ -181,3 +181,6 @@ Tranlated in Chinese:
 | tangjing2021 | tangjing2021 | -1250 | student & RISC-V enthusiast|
 | XingHE-YX | XingHE-YX | -1250 | S0167 |
 | Thanosgogo | Ark-debug3000 | 0 | student |
+| hrh | mbp-1 | 0 | student |
+| Wang Zhiling | wuandx  | 0 | 	student & RISC-V enthusiast |
+| sss | sss-1227 | 0 | student |
