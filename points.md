@@ -182,6 +182,6 @@ Tranlated in Chinese:
 | XingHE-YX | XingHE-YX | -1250 | S0167 |
 | wjy | 10000000022000 | -227 | student |
 | Thanosgogo | Ark-debug3000 | -227 | student |
-| hrh | mbp-1 | 0 | student |
+| hrh | mbp-1 | -227 | student |
 | Wang Zhiling | wuandx  | -880 | 	student & RISC-V enthusiast |
 | sss | sss-1227 | -880 | student |
