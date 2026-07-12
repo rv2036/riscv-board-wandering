@@ -183,5 +183,5 @@ Tranlated in Chinese:
 | wjy | 10000000022000 | 0 | student |
 | Thanosgogo | Ark-debug3000 | 0 | student |
 | hrh | mbp-1 | 0 | student |
-| Wang Zhiling | wuandx  | 0 | 	student & RISC-V enthusiast |
+| Wang Zhiling | wuandx  | -880 | 	student & RISC-V enthusiast |
 | sss | sss-1227 | 0 | student |

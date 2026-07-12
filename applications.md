@@ -173,7 +173,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0167 | XingHE-YX | | 1 | 荔枝派 4A 16GB 内存 + 128GB eMMC | Delivered. | 想进行RISC-V 体系结构学习以及嵌入式裸机与 OS 开发 |
 | 0168 | mengzhuo | 1 | | [details](#SN0168) | Received. | 捐赠 |
 | 0169 | Goldbro233 | | 1 | LicheePi 4A 16GB Memory + 128GB eMMC | Duplicate. | see #SN0163 |
-| 0170 | wuandx | | 1 | "CanMV K230 Suite | w/ 13.3 TFT/LCD （如果可以希望配套屏幕）" | Waiting. | 学习RISC-V，用于今年8月初的电赛使用 |
+| 0170 | wuandx | | 1 | "CanMV K230 Suite | w/ 13.3 TFT/LCD （如果可以希望配套屏幕）" | Received. | 学习RISC-V，用于今年8月初的电赛使用 |
 | 0171 | sss-1227 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Waiting. | 学习RISC-V，用于今年8月初的电赛使用 |
 | 0172 | "10000000022000" | | 1 | CanMV K230 Suite w/13.3 TFT /LCD(如果可以希望配套屏幕） | Waiting. | 学习RISC_V,用于今年8月初电赛使用 |
 | 0173 | Ark-debug3000 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Waiting. | 学习RISC-V，用于今年8月初的电赛使用 |
