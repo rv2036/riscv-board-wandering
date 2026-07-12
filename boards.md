@@ -114,12 +114,12 @@ Tranlated in Chinese:
 | SiFive Unmatched | SiFive Freedom U740 SoC | 0 | 2 | https://www.sifive.com/boards/hifive-unmatched |
 | BananaPi BPI-F3 | SpacemiT K1 w/ 16GB + 128GB eMMC | 0 | 1 | Donted by RVI |
 | CanMV K230 | 大核 1.6GHz 小核 800MHz，512MB 内存 | 21 | 23 |  |
-| 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 9 |  |
+| 13.3 显示屏 | 13.3 寸，HDMI 接口 | 0 | 8 |  |
 | LicheePi 3A           | 16GB Memory + 32GB eMMC | 0 | 4 |  |
 | Lichee RV Dock           | D1 | 5 | 5 |  |
 | OrangePi RV2           | 2GB RAM | 2 | 5 |  |
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
-| 01Studio CanMV K230 | No RJ45 | 6 | 8 |  |
+| 01Studio CanMV K230 | No RJ45 | 5 | 7 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 | 有一个快掉的 |
 | VisionFive 2           | 4G内存 | 6 | 6 |  |

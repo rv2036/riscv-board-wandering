@@ -184,4 +184,4 @@ Tranlated in Chinese:
 | Thanosgogo | Ark-debug3000 | 0 | student |
 | hrh | mbp-1 | 0 | student |
 | Wang Zhiling | wuandx  | -880 | 	student & RISC-V enthusiast |
-| sss | sss-1227 | 0 | student |
+| sss | sss-1227 | -880 | student |
