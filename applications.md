@@ -176,7 +176,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0170 | wuandx | | 1 | "CanMV K230 Suite | w/ 13.3 TFT/LCD （如果可以希望配套屏幕）" | Received. | 学习RISC-V，用于今年8月初的电赛使用 |
 | 0171 | sss-1227 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Received. | 学习RISC-V，用于今年8月初的电赛使用 |
 | 0172 | "10000000022000" | | 1 | CanMV K230 Suite w/13.3 TFT /LCD(如果可以希望配套屏幕） | Received. | 学习RISC_V,用于今年8月初电赛使用 |
-| 0173 | Ark-debug3000 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Waiting. | 学习RISC-V，用于今年8月初的电赛使用 |
+| 0173 | Ark-debug3000 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Received. | 学习RISC-V，用于今年8月初的电赛使用 |
 | 0174 | mbp-1 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Waiting. | 学习RISC-V，用于今年8月初的电赛使用 |
 
 ## Extra Notes
