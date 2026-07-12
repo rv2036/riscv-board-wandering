@@ -119,7 +119,7 @@ Tranlated in Chinese:
 | Lichee RV Dock           | D1 | 5 | 5 |  |
 | OrangePi RV2           | 2GB RAM | 2 | 5 |  |
 | Milk-V Megrez           | 16GB RAM | 0 | 1 |  |
-| 01Studio CanMV K230 | No RJ45 | 5 | 7 |  |
+| 01Studio CanMV K230 | No RJ45 | 4 | 6 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 | 有一个快掉的 |
 | VisionFive 2           | 4G内存 | 6 | 6 |  |
