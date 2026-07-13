@@ -185,3 +185,4 @@ Tranlated in Chinese:
 | hrh | mbp-1 | -227 | student |
 | Wang Zhiling | wuandx  | -880 | 	student & RISC-V enthusiast |
 | sss | sss-1227 | -880 | student |
+| KimmyXYC | KimmyXYC | 0 | student |
