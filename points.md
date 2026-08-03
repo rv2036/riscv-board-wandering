@@ -186,3 +186,4 @@ Tranlated in Chinese:
 | Wang Zhiling | wuandx  | -880 | 	student & RISC-V enthusiast |
 | sss | sss-1227 | -880 | student |
 | KimmyXYC | KimmyXYC | 0 | student |
+| Tinsiag | Tinsiag | 0 | student & RISC-V enthusiast |
