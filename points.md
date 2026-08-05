@@ -187,3 +187,4 @@ Tranlated in Chinese:
 | sss | sss-1227 | -880 | student |
 | KimmyXYC | KimmyXYC | 0 | student |
 | Tinsiag | Tinsiag | 0 | student & RISC-V enthusiast |
+| waterrr | waterrr1389 | 0 | student |
