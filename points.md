@@ -188,3 +188,4 @@ Tranlated in Chinese:
 | KimmyXYC | KimmyXYC | 0 | student |
 | Tinsiag | Tinsiag | 0 | student & RISC-V enthusiast |
 | waterrr | waterrr1389 | 0 | student |
+| 灵聚 | reigadegr | 0 | student |
