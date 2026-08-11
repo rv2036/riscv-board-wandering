@@ -189,3 +189,4 @@ Tranlated in Chinese:
 | Tinsiag | Tinsiag | 0 | student & RISC-V enthusiast |
 | waterrr | waterrr1389 | 0 | student |
 | 灵聚 | reigadegr | 0 | student |
+| Liu Rui | HakureiPOI | 0 | student |
