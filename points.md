@@ -190,3 +190,4 @@ Tranlated in Chinese:
 | waterrr | waterrr1389 | 0 | student |
 | 灵聚 | reigadegr | 0 | student |
 | Liu Rui | HakureiPOI | 0 | student |
+| 紫菜 | 13584452567 | 0 | student |
