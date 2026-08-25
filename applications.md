@@ -178,8 +178,26 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0172 | "10000000022000" | | 1 | CanMV K230 Suite w/13.3 TFT /LCD(如果可以希望配套屏幕） | Received. | 学习RISC_V,用于今年8月初电赛使用 |
 | 0173 | Ark-debug3000 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Received. | 学习RISC-V，用于今年8月初的电赛使用 |
 | 0174 | mbp-1 | | 1 | CanMV K230 Suite w/ 13.3 TFT/LCD （如果可以希望配套屏幕） | Received. | 学习RISC-V，用于今年8月初的电赛使用 |
+| 0175 | KimmyXYC | | 1 | 不是很清楚，能运行 openRuyi 的桌面端就行 | Waiting. | openRuyi 打包实习生，希望在原生 RISCV 设备上安装 openRuyi 系统进行软件包测试 |
+| 0176 | Tinsiag | | 1 | "1250 LicheePi 4A 16GB RAM + 128GB eMMC" | Waiting. | [details](#SN0176) |
+| 0177 | waterrr1389 | | 1 | VisionFive 2，4G内存 | Waiting. | [details](#SN0177) |
+| 0178 | wuandx，sss-1227， mbp-1， Ark-debug3000， 10000000022000 | 1 | | 01科技k230 4块，13.3TFT/LCD屏幕 2块 | Waiting. | 捐赠 |
+| 0179 | "13584452567" | | 1 |  | Waiting. | [details](#SN0179) |
 
 ## Extra Notes
+
+### SN0179
+
+移植RustSBI：https://github.com/rustsbi/rustsbi   现有已经移植K1 SoC并正常启动，相关资料位于：https://github.com/rustsbi/rustsbi/issues/214 。同时尝试对进迭时空使用的芯片底层下载协议进行C#原生适配移植，具体可检索nuget的firmwarekit生态包组。
+任意搭载进迭时空K3处理器的开发板，可以引出UART对应引脚即可。内存容量与存储参数不限，配件无特殊需求。
+
+### SN0177
+
+自学 KAIST CS420 编译器课程(https://github.com/kaist-cp/cs420) ，需要在真实 RISC-V 硬件上运行课程 benchmark 并测量时钟周期(QEMU与实机运行相比时钟周期数差异较大），验证优化效果。课程评测机为 U74 核心与visionfive2相同
+
+### SN0176
+
+在移植软件到LicheePi 4A上并体验  (https://github.com/Tinsiag/tinsiag-ai-code-mother) ,测试Java,Docker MySQL等这些开发环境在RISC-V平台上的兼容性
 
 ### SN0169
 
