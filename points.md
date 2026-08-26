@@ -191,3 +191,4 @@ Tranlated in Chinese:
 | 灵聚 | reigadegr | 0 | student |
 | Liu Rui | HakureiPOI | 0 | student |
 | 紫菜 | 13584452567 | 0 | student |
+| xjh | 01xjh01 | 0 | student & RISC-V enthusiast |
