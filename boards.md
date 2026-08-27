@@ -122,7 +122,7 @@ Tranlated in Chinese:
 | 01Studio CanMV K230 | No RJ45 | 2 | 4 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 |  |
 | OrangePi RV2           | 8GB RAM | 1 | 1 | 有一个快掉的 |
-| VisionFive 2           | 4G内存 | 6 | 6 |  |
+| VisionFive 2           | 4G内存 | 5 | 5 |  |
 | VisionFive 2           | 8G内存 | 1 | 1 |  |
 | Avaota F1       | V821 | 2 | 4 |  |
 | CKLINK 调试模块     | 百问网 | 0 | 1 |  |
