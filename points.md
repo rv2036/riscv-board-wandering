@@ -185,7 +185,7 @@ Tranlated in Chinese:
 | hrh | mbp-1 | -227 | student |
 | Wang Zhiling | wuandx  | -880 | 	student & RISC-V enthusiast |
 | sss | sss-1227 | -880 | student |
-| KimmyXYC | KimmyXYC | 0 | student |
+| KimmyXYC | KimmyXYC | -1250 | student |
 | Tinsiag | Tinsiag | 0 | student & RISC-V enthusiast |
 | waterrr | waterrr1389 | 0 | student |
 | 灵聚 | reigadegr | 0 | student |
