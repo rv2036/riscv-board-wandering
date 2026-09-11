@@ -192,5 +192,6 @@ Tranlated in Chinese:
 | Liu Rui | HakureiPOI | 0 | student |
 | 紫菜 | 13584452567 | 0 | student |
 | xjh | 01xjh01 | -1250 | student & RISC-V enthusiast |
-| wd  | WangDong0 | 0 | student |
+| wd  | WangDong0 | -1250 | student |
 |  甜甜 | hthsp | 0 | RISC-V enthusiast |
+
