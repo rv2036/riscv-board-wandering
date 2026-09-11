@@ -185,7 +185,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0179 | "13584452567" | | 1 |  | Waiting. | [details](#SN0179) |
 | 0180 | 01xjh01 | | 1 | 荔枝派4A | Delivered. | 作为一个linux系统进行学习与开发 |
 | 0181 | WangDong0 | | 1 | "LicheePi 4A | 16GB Memory + 128GB eMMC" | Delivered. | 我对高性能的risc-v板子十分感兴趣，想要加以学习并尝试用于一些项目 |
-| 0182 | 甜甜 | | 1 | 荔枝派4A，16GB内存+128GB eMMC | Waiting. | 作为一个linux系统进行开发 |
+| 0182 | 甜甜 | | 1 | 荔枝派4A，16GB内存+128GB eMMC | Delivered. | 作为一个linux系统进行开发 |
 | 0183 | reigadegr | | 1 | LicheePi 4A 16G memory+128G eMMC | Waiting. | 新手，先学习risc-v课程并应用，安装Ubuntu，部署一些服务供家里日常使用，rustfs nas等 |
 
 ## Extra Notes

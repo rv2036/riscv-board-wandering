@@ -193,5 +193,5 @@ Tranlated in Chinese:
 | 紫菜 | 13584452567 | 0 | student |
 | xjh | 01xjh01 | -1250 | student & RISC-V enthusiast |
 | wd  | WangDong0 | -1250 | student |
-|  甜甜 | hthsp | 0 | RISC-V enthusiast |
+| 甜甜 | hthsp | -1250 | RISC-V enthusiast |
 
