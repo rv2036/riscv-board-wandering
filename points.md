@@ -188,7 +188,7 @@ Tranlated in Chinese:
 | KimmyXYC | KimmyXYC | -1250 | student |
 | Tinsiag | Tinsiag | -1250 | student & RISC-V enthusiast |
 | waterrr | waterrr1389 | -450 | student |
-| 灵聚 | reigadegr | 0 | student |
+| 灵聚 | reigadegr | -1250 | student |
 | Liu Rui | HakureiPOI | 0 | student |
 | 紫菜 | 13584452567 | 0 | student |
 | xjh | 01xjh01 | -1250 | student & RISC-V enthusiast |
