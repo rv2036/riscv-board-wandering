@@ -194,4 +194,4 @@ Tranlated in Chinese:
 | xjh | 01xjh01 | -1250 | student & RISC-V enthusiast |
 | wd  | WangDong0 | -1250 | student |
 | 甜甜 | hthsp | -1250 | RISC-V enthusiast |
-
+| roolrz | roolrz | 0 | System Software Developer in IC/Automative |
