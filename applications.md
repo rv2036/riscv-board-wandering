@@ -188,7 +188,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0182 | 甜甜 | | 1 | 荔枝派4A，16GB内存+128GB eMMC | Delivered. | 作为一个linux系统进行开发 |
 | 0183 | reigadegr | | 1 | LicheePi 4A 16G memory+128G eMMC | Delivered. | 新手，先学习risc-v课程并应用，安装Ubuntu，部署一些服务供家里日常使用，rustfs nas等 |
 | 0184 | roolrz | | 1 | Milk-V Jupiter2系列。内存大小无要求，均可 | Waiting. | Hypervisor项目https://github.com/roolrz/HypeR RISC-V实机验证 |
-| 0185 | ma-xiaodong | | 1 | 如果LicheePi 4A ，希望能有一块。 | Waiting. | 做实验，上课用。 |
+| 0185 | ma-xiaodong | | 1 | 如果LicheePi 4A ，希望能有一块。 | Delivered. | 做实验，上课用。 |
 
 ## Extra Notes
 
