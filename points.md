@@ -196,3 +196,4 @@ Tranlated in Chinese:
 | 甜甜 | hthsp | -1250 | RISC-V enthusiast |
 | roolrz | roolrz | 0 | System Software Developer in IC/Automative |
 | ma-xiaodong | ma-xiaodong | -1250 | SN0185 |
+| zhongcheng | zc794 | 0 | |  
