@@ -198,3 +198,4 @@ Tranlated in Chinese:
 | ma-xiaodong | ma-xiaodong | -1250 | SN0185 |
 | zhongcheng | zc794 | 0 | |  
 | samer | remukisama | 0 |student & K183 |
+| usualtree | usualtreee | 0 | 甲辰计划 K183 实习生，申请 K230 用于 RT-Thread 开发和测试 |
