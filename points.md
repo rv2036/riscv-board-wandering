@@ -196,7 +196,7 @@ Tranlated in Chinese:
 | 甜甜 | hthsp | -1250 | RISC-V enthusiast |
 | roolrz | roolrz | 0 | System Software Developer in IC/Automative |
 | ma-xiaodong | ma-xiaodong | -1250 | SN0185 |
-| zhongcheng | zc794 | 0 | |  
+| zhongcheng | zc794 | -1250 | |  
 | samer | remukisama | 0 |student & K183 |
 | usualtree | usualtreee | 0 | 甲辰计划 K183 实习生，申请 K230 用于 RT-Thread 开发和测试 |
 | RAB123QQ | RAB123QQ | 0 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
