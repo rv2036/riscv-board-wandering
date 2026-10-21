@@ -189,6 +189,11 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0183 | reigadegr | | 1 | LicheePi 4A 16G memory+128G eMMC | Delivered. | 新手，先学习risc-v课程并应用，安装Ubuntu，部署一些服务供家里日常使用，rustfs nas等 |
 | 0184 | roolrz | | 1 | Milk-V Jupiter2系列。内存大小无要求，均可 | Waiting. | Hypervisor项目https://github.com/roolrz/HypeR RISC-V实机验证 |
 | 0185 | ma-xiaodong | | 1 | 如果LicheePi 4A ，希望能有一块。 | Delivered. | 做实验，上课用。 |
+| 0186 | zhongcheng | | 1 | 荔枝派4A128G | Waiting. | linux项目开发 |
+| 0187 | usualtreee | | 1 | 希望申请 K230 开发板用于 RT-Thread BSP 开发、驱动调试和 AI 视觉应用测试。 | Waiting. | 甲辰计划 K183 实习生，RT-Thread 社区贡献者 |
+| 0188 | remukisama | | 1 | CanMV K230 | Waiting. | 学习RISC-V相关课程并进行相关开发 |
+| 0189 | RAB123QQ | | 1 | 荔枝派4a 16➕128 | Waiting. | 学习riscv，运行一些slam算法，yolo |
+| 0190 | yugod | | 1 | LicheePi4A 16-128G | Waiting. | 部署轻量AI模型，做推理原型验证 |
 
 ## Extra Notes
 
