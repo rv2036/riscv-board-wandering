@@ -200,4 +200,4 @@ Tranlated in Chinese:
 | samer | remukisama | -227 |student & K183 |
 | usualtree | usualtreee | -227 | 甲辰计划 K183 实习生，申请 K230 用于 RT-Thread 开发和测试 |
 | RAB123QQ | RAB123QQ | -1250 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
-| zeyuhuang | yugod | 0 | student and linux developer |
+| zeyuhuang | yugod | -1250 | student and linux developer |
