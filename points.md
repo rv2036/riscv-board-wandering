@@ -201,3 +201,4 @@ Tranlated in Chinese:
 | usualtree | usualtreee | -227 | 甲辰计划 K183 实习生，申请 K230 用于 RT-Thread 开发和测试 |
 | RAB123QQ | RAB123QQ | -1250 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
 | zeyuhuang | yugod | -1250 | student and linux developer |
+| Zhai | zhaixing-ch | 0 | student & RISC-V enthusiast |
