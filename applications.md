@@ -194,8 +194,13 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0188 | remukisama | | 1 | CanMV K230 | Delivered. | 学习RISC-V相关课程并进行相关开发 |
 | 0189 | RAB123QQ | | 1 | 荔枝派4a 16➕128 | Delivered. | 学习riscv，运行一些slam算法，yolo |
 | 0190 | yugod | | 1 | LicheePi4A 16-128G | Delivered. | 部署轻量AI模型，做推理原型验证 |
+| 0191 | zhaixing-ch | | 1 | LicheePi 4A | Waiting. | [details](#SN0191) |
 
 ## Extra Notes
+
+### SN0191
+
+用于学习 RISC-V 架构下的 Linux 系统开发，同时把我自己的开源嵌入式项目（https://github.com/zhaixing-ch/dm-mc02-volume-knob）中的上位机/Python 工具链移植到 RISC-V 平台上测试运行。
 
 ### SN0179
 
