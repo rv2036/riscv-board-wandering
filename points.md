@@ -202,3 +202,4 @@ Tranlated in Chinese:
 | RAB123QQ | RAB123QQ | -1250 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
 | zeyuhuang | yugod | -1250 | student and linux developer |
 | Zhai | zhaixing-ch | 0 | student & RISC-V enthusiast |
+| LiuLoseG | LiuLoseG | 0 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
