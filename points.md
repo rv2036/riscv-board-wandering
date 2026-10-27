@@ -203,4 +203,4 @@ Tranlated in Chinese:
 | zeyuhuang | yugod | -1250 | student and linux developer |
 | Zhai | zhaixing-ch | -1250 | student & RISC-V enthusiast |
 | LiuLoseG | LiuLoseG | -1250 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
-| Zomfly | ZombieFly | 0 | student |
+| Zomfly | ZombieFly | -1250 | student |
