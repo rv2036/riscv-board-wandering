@@ -195,7 +195,7 @@ Tracking Dashboard for RISC-V Board Applications.
 | 0189 | RAB123QQ | | 1 | 荔枝派4a 16➕128 | Delivered. | 学习riscv，运行一些slam算法，yolo |
 | 0190 | yugod | | 1 | LicheePi4A 16-128G | Delivered. | 部署轻量AI模型，做推理原型验证 |
 | 0191 | zhaixing-ch | | 1 | LicheePi 4A | Delivered. | [details](#SN0191) |
-| 0192 | LiuLoseG | | 1 | 荔枝派4A 16G+128G | Waiting. | 学习和开发相关的软件 |
+| 0192 | LiuLoseG | | 1 | 荔枝派4A 16G+128G | Delivered. | 学习和开发相关的软件 |
 | 0193 | ZombieFly | | 1 | "LicheePi 4A，16GB Memory + 128GB eMMC" | Waiting. | 最近在使用RKNN，但RK的u终究也是ARM，想体验一下RV配合npu在移动手持设备上的使用效果 |
 
 ## Extra Notes
