@@ -204,3 +204,4 @@ Tranlated in Chinese:
 | Zhai | zhaixing-ch | -1250 | student & RISC-V enthusiast |
 | LiuLoseG | LiuLoseG | -1250 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
 | Zomfly | ZombieFly | -1250 | student |
+| lishuaibo | lishuaibo-hnu | 0 | RISC-V Linux 学习、应用开发与兼容性测试 |
