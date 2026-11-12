@@ -205,3 +205,4 @@ Tranlated in Chinese:
 | LiuLoseG | LiuLoseG | -1250 | 甲辰计划实习生，申请荔枝派 4A (16GB+128GB) |
 | Zomfly | ZombieFly | -1250 | student |
 | lishuaibo | lishuaibo-hnu | 0 | RISC-V Linux 学习、应用开发与兼容性测试 |
+| candou-bot | candou-bot | 0 | RISC-V Linux学习与语音交互实现 |
